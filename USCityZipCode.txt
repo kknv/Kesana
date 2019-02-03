@@ -1,0 +1,1001 @@
+USStreet                                USCity                   USState                  USStateID                Date           
+E Fowler Avenue                         Jefferson City           Connecticut              OK                       16-09-2007     
+Padre Boulevard                         Salem                    Ohio                     MT                       23-04-2008     
+Hutchinson Rd                           Charleston               Colorado                 NV                       25-08-2007     
+Castillo Drive                          Des Moines               Nevada                   IN                       01-11-2008     
+Harry S Truman Blvd                     Trenton                  Nebraska                 MN                       19-01-2008     
+San Luis Obispo North                   Phoenix                  West Virginia            ID                       05-07-2007     
+E Fowler Avenue                         Salem                    Pennsylvania             OR                       10-08-2008     
+South Roosevelt Drive                   Indianapolis             Kansas                   DE                       20-07-2008     
+San Marcos                              Honolulu                 Indiana                  CA                       16-11-2008     
+Via Real                                Helena                   Alaska                   NV                       09-04-2007     
+Milpas Street                           Austin                   Massachusetts            WA                       30-11-2008     
+Carpinteria North                       Nashville                Pennsylvania             AZ                       11-01-2008     
+W. Russell St.                          Columbus                 California               VT                       31-10-2007     
+Monroe Street                           Charleston               Pennsylvania             NC                       15-09-2008     
+Camelback Rd                            Boston                   Iowa                     NV                       02-11-2007     
+French Camp Turnpike Road               Helena                   Nebraska                 WV                       19-04-2008     
+S Rustle St                             Honolulu                 Iowa                     NC                       23-08-2007     
+Corona Del Mar                          Charleston               Arizona                  CT                       23-03-2008     
+Westside Freeway                        Springfield              Washington               MO                       31-10-2007     
+Fairview Avenue                         Richmond                 Alabama                  WA                       31-07-2007     
+San Diego Freeway                       Springfield              Montana                  IL                       10-09-2008     
+Tully Road East                         Dover                    Oklahoma                 MA                       23-02-2008     
+Fontaine Road                           Helena                   New Jersey               NY                       16-08-2007     
+E Fowler Avenue                         Trenton                  New York                 KY                       20-02-2007     
+N Harrison St                           Austin                   Utah                     AZ                       22-12-2007     
+Richmond Hill                           Topeka                   New Hampshire            WA                       13-04-2007     
+Padre Boulevard                         Atlanta                  Alaska                   CT                       14-09-2007     
+Carpinteria Avenue                      Sacramento               Maryland                 KY                       09-05-2008     
+Cerrillos Road                          Frankfort                Pennsylvania             IL                       08-03-2008     
+Carpinteria South                       Columbus                 Connecticut              RI                       16-09-2007     
+Santa Monica Road                       Charleston               Connecticut              CO                       09-01-2007     
+South Highway                           Raleigh                  Nevada                   IL                       21-02-2007     
+El Camino Real                          Topeka                   Alabama                  MA                       16-11-2007     
+North Erringer Road                     Augusta                  Illinois                 FL                       24-08-2007     
+San Luis Obispo North                   Baton Rouge              North Carolina           FL                       22-12-2008     
+Lake Tahoe Blvd.                        Atlanta                  South Dakota             OH                       14-03-2007     
+Newbury Road                            Honolulu                 Indiana                  NE                       05-07-2007     
+Santa Monica Road                       Boise                    Louisiana                KY                       01-08-2007     
+Carpinteria North                       Boston                   Kansas                   NE                       19-05-2008     
+East Calle Primera                      Carson City              Tennessee                ME                       10-07-2007     
+W. Russell St.                          Augusta                  New York                 CT                       26-01-2008     
+North Erringer Road                     Austin                   Connecticut              TX                       13-02-2008     
+Cabrillo Highway                        Boise                    Arkansas                 CA                       13-03-2007     
+S Rustle St                             Baton Rouge              Delaware                 TX                       09-07-2008     
+Castillo Drive                          Dover                    South Dakota             SD                       17-08-2007     
+Fairview Avenue                         Jackson                  Missouri                 AK                       28-11-2008     
+Santa Rosa North                        Providence               Oregon                   UT                       24-11-2008     
+Camelback Rd                            Salem                    Washington               MN                       27-08-2008     
+San Simeon                              Hartford                 Louisiana                KY                       21-05-2007     
+Carpinteria South                       Helena                   Iowa                     FL                       07-12-2008     
+Pacific Hwy S                           Saint Paul               Minnesota                AR                       08-02-2008     
+Padre Boulevard                         Columbus                 California               OR                       06-02-2008     
+North Erringer Road                     Albany                   New Jersey               HI                       14-05-2008     
+East Calle Primera                      Indianapolis             Pennsylvania             MT                       20-12-2008     
+North Ventu Park Road                   Madison                  Arkansas                 UT                       17-10-2008     
+San Ysidro Blvd                         Salt Lake City           Florida                  MT                       30-01-2007     
+W. Russell St.                          Carson City              Pennsylvania             NH                       21-07-2008     
+Calle Real                              Montgomery               Nebraska                 IN                       09-07-2007     
+N Harrison St                           Nashville                Florida                  CO                       11-11-2007     
+Jones Road                              Hartford                 Minnesota                CT                       06-10-2008     
+Santa Rosa South                        Saint Paul               New York                 MN                       19-06-2008     
+Erringer Road                           Albany                   Kansas                   CT                       10-10-2007     
+Calle Real                              Charleston               Missouri                 NV                       03-02-2008     
+Via Real                                Richmond                 South Dakota             UT                       25-05-2007     
+Harry S Truman Blvd                     Richmond                 Virginia                 MO                       21-08-2008     
+Lindbergh Blvd                          Hartford                 Arizona                  ID                       18-03-2007     
+Katella Avenue                          Madison                  Mississippi              NH                       31-07-2008     
+Castillo Drive                          Lansing                  Oklahoma                 DE                       12-02-2008     
+San Simeon                              Richmond                 Montana                  LA                       23-01-2007     
+French Camp Turnpike Road               Columbia                 Iowa                     WV                       15-04-2007     
+San Ysidro Blvd                         Columbus                 New Hampshire            AK                       12-09-2008     
+Jean de la Fontaine                     Juneau                   Missouri                 WA                       23-06-2007     
+Carpinteria North                       Olympia                  Ohio                     PA                       04-11-2008     
+Santa Ana Freeway                       Jackson                  Washington               UT                       16-06-2008     
+Cerrillos Road                          Des Moines               Texas                    VT                       15-03-2008     
+San Simeon                              Richmond                 Massachusetts            IA                       10-12-2008     
+W. Russell St.                          Harrisburg               Oklahoma                 KY                       12-08-2007     
+Timberlane Drive                        Trenton                  Wisconsin                SD                       15-02-2007     
+Katella Avenue                          Concord                  Kansas                   DE                       02-11-2008     
+Monroe Street                           Charleston               Michigan                 KY                       23-11-2007     
+Cleveland Ave.                          Des Moines               South Carolina           AZ                       23-11-2008     
+North Preisker Lane                     Baton Rouge              South Dakota             CA                       27-07-2008     
+San Simeon                              Columbus                 West Virginia            VT                       20-11-2007     
+Fontaine Road                           Lansing                  Arizona                  NH                       14-07-2007     
+Lake Tahoe Blvd.                        Frankfort                Tennessee                IA                       12-09-2007     
+Steele Lane                             Annapolis                Minnesota                WV                       18-12-2008     
+Via Real                                Santa Fe                 Delaware                 ID                       06-06-2007     
+North Erringer Road                     Boise                    New Mexico               ND                       30-12-2008     
+San Marcos                              Providence               Vermont                  CT                       05-10-2007     
+Bowles Avenue                           Providence               Vermont                  TX                       04-07-2008     
+Santa Ana Freeway                       Lincoln                  Arizona                  OH                       29-11-2008     
+Fontaine Road                           Juneau                   West Virginia            TN                       21-06-2007     
+North Erringer Road                     Des Moines               Oklahoma                 OR                       07-09-2008     
+San Diego Freeway                       Hartford                 Alabama                  ID                       04-07-2008     
+Apalachee Parkway                       Denver                   Texas                    CT                       20-07-2008     
+Greenwood Road                          Augusta                  New Hampshire            WI                       11-07-2007     
+East 1st Street                         Trenton                  South Carolina           OH                       23-11-2008     
+W. Russell St.                          Trenton                  Wisconsin                MN                       21-10-2007     
+Carpinteria North                       Tallahassee              Delaware                 TX                       19-05-2007     
+Hutchinson Rd                           Juneau                   Rhode Island             MI                       09-03-2007     
+Fairview Avenue                         Pierre                   New Hampshire            AK                       09-10-2007     
+San Simeon                              Providence               Illinois                 GA                       24-03-2008     
+Cleveland Ave.                          Dover                    Washington               AZ                       03-08-2008     
+Camelback Rd                            Providence               Minnesota                MT                       13-03-2007     
+Santa Ana Freeway                       Little Rock              Arkansas                 PA                       12-10-2008     
+Fontaine Road                           Oklahoma City            Wisconsin                AK                       13-02-2007     
+Burnett Road                            Honolulu                 Mississippi              MT                       11-07-2007     
+French Camp Turnpike Road               Topeka                   New Mexico               OR                       26-10-2007     
+Lindbergh Blvd                          Oklahoma City            Florida                  GA                       17-04-2007     
+Katella Avenue                          Montpelier               Massachusetts            NC                       01-10-2008     
+Santa Ana Freeway                       Charleston               Maine                    NC                       12-02-2007     
+Greenwood Road                          Annapolis                South Carolina           ME                       07-03-2008     
+South Highway                           Indianapolis             Nevada                   ND                       08-12-2007     
+N Kentwood                              Atlanta                  Massachusetts            TN                       03-07-2008     
+Cerrillos Road                          Hartford                 Colorado                 VA                       05-02-2007     
+San Luis Obispo North                   Bismarck                 Pennsylvania             HI                       18-08-2008     
+Fontaine Road                           Jackson                  Delaware                 MT                       18-11-2008     
+Cerrillos Road                          Oklahoma City            Mississippi              KY                       12-02-2007     
+Lindbergh Blvd                          Lincoln                  North Carolina           UT                       02-03-2007     
+N Kentwood                              Hartford                 Utah                     PA                       08-11-2008     
+Bayshore Freeway                        Richmond                 New Hampshire            IL                       04-03-2008     
+Via Real                                Frankfort                New York                 NM                       10-11-2007     
+North Broadway Street                   Tallahassee              Texas                    KY                       24-07-2008     
+North Atherton Street                   Madison                  Missouri                 NH                       09-08-2007     
+South Highway                           Albany                   Illinois                 IL                       22-05-2008     
+Monroe Street                           Boston                   Missouri                 CT                       17-09-2008     
+Calle Real                              Cheyenne                 Arizona                  MI                       21-12-2008     
+Carpinteria Avenue                      Olympia                  Illinois                 CO                       12-10-2007     
+Newbury Road                            Carson City              Oklahoma                 MN                       22-04-2008     
+Camelback Rd                            Dover                    Tennessee                SD                       02-09-2008     
+Tully Road East                         Dover                    Idaho                    AK                       11-07-2008     
+San Simeon                              Boise                    Louisiana                NJ                       19-05-2007     
+Jones Road                              Montpelier               Illinois                 UT                       14-01-2008     
+Via Real                                Olympia                  New York                 NV                       16-03-2008     
+Jones Road                              Annapolis                Kentucky                 IN                       21-10-2007     
+N Harrison St                           Boston                   Oregon                   WA                       11-04-2008     
+Burnett Road                            Annapolis                Utah                     ID                       08-01-2007     
+W. Russell St.                          Augusta                  California               OR                       29-07-2008     
+Timberlane Drive                        Charleston               Nevada                   KY                       22-03-2008     
+South Highway                           Oklahoma City            Nebraska                 OR                       25-03-2007     
+Carpinteria Avenue                      Lansing                  Indiana                  IL                       27-10-2008     
+Burnett Road                            Richmond                 Georgia                  FL                       21-03-2007     
+Calle Real                              Raleigh                  Wisconsin                WA                       06-12-2008     
+San Luis Obispo North                   Bismarck                 Oregon                   MT                       29-07-2008     
+San Luis Obispo North                   Charleston               Washington               VT                       24-02-2008     
+Santa Rosa South                        Atlanta                  Rhode Island             WA                       19-09-2008     
+Milpas Street                           Little Rock              Arizona                  AK                       30-05-2008     
+North Atherton Street                   Olympia                  Arizona                  MA                       13-03-2008     
+North Erringer Road                     Baton Rouge              Wisconsin                OR                       16-08-2008     
+Westside Freeway                        Nashville                North Dakota             WY                       14-01-2007     
+South Roosevelt Drive                   Saint Paul               Rhode Island             NM                       02-06-2007     
+San Ysidro Blvd                         Cheyenne                 North Carolina           HI                       18-11-2008     
+Richmond Hill                           Helena                   Alaska                   KS                       10-02-2008     
+San Diego Freeway                       Denver                   West Virginia            MS                       14-07-2008     
+Greenwood Road                          Montgomery               Washington               IN                       18-07-2008     
+Monroe Street                           Topeka                   Alabama                  AR                       05-02-2007     
+Carpinteria South                       Boise                    Oklahoma                 AZ                       23-12-2007     
+South Roosevelt Drive                   Atlanta                  Nevada                   MT                       17-03-2007     
+E Fowler Avenue                         Oklahoma City            Texas                    OR                       04-10-2008     
+Milpas Street                           Salem                    New Mexico               ME                       27-04-2007     
+East 1st Street                         Carson City              New Hampshire            VA                       27-08-2007     
+El Camino Real                          Indianapolis             Nebraska                 MS                       10-12-2008     
+Fairview Avenue                         Bismarck                 Maine                    WI                       21-07-2008     
+East Fry Blvd.                          Richmond                 North Dakota             MT                       01-07-2007     
+East Calle Primera                      Carson City              Arizona                  IN                       06-01-2008     
+Fairview Avenue                         Salem                    Delaware                 NY                       17-03-2007     
+Cerrillos Road                          Augusta                  Nebraska                 VT                       08-01-2007     
+North Atherton Street                   Montgomery               New Mexico               LA                       23-02-2007     
+Corona Del Mar                          Indianapolis             Vermont                  PA                       24-09-2008     
+E Fowler Avenue                         Des Moines               Pennsylvania             MD                       26-06-2007     
+North Erringer Road                     Indianapolis             Massachusetts            MD                       05-02-2008     
+Steele Lane                             Tallahassee              Idaho                    WA                       29-05-2008     
+Erringer Road                           Carson City              Kansas                   AL                       22-07-2007     
+Santa Rosa South                        Nashville                Georgia                  AK                       27-01-2007     
+Via Real                                Indianapolis             Oregon                   IL                       14-07-2007     
+North Atherton Street                   Helena                   Hawaii                   RI                       09-03-2008     
+Redwood Highway                         Montpelier               Texas                    OK                       31-08-2007     
+San Diego Freeway                       Harrisburg               Illinois                 OK                       18-06-2007     
+Carpinteria South                       Salem                    Nevada                   RI                       18-08-2008     
+San Simeon                              Austin                   Illinois                 NH                       12-10-2007     
+Cabrillo Highway                        Annapolis                Pennsylvania             ND                       09-10-2008     
+Jones Road                              Sacramento               South Dakota             MO                       16-03-2007     
+Grandview Drive                         Montpelier               New Hampshire            RI                       24-10-2007     
+San Luis Obispo North                   Bismarck                 Massachusetts            VT                       02-11-2007     
+Moreno Drive                            Salem                    Maryland                 MD                       04-05-2008     
+North Broadway Street                   Denver                   Missouri                 KY                       27-08-2007     
+North Erringer Road                     Springfield              Nevada                   LA                       29-02-2008     
+North Preisker Lane                     Dover                    Florida                  IN                       06-07-2008     
+Castillo Drive                          Cheyenne                 Oregon                   IA                       03-07-2007     
+French Camp Turnpike Road               Oklahoma City            West Virginia            CT                       09-03-2008     
+Bailard Avenue                          Charleston               Arizona                  NE                       19-09-2008     
+San Simeon                              Richmond                 Massachusetts            NV                       09-08-2007     
+South Roosevelt Drive                   Madison                  Minnesota                SC                       05-09-2007     
+Pacific Hwy S                           Nashville                Montana                  OH                       20-07-2007     
+San Luis Obispo North                   Nashville                Arkansas                 OR                       03-01-2007     
+North Broadway Street                   Phoenix                  Michigan                 NY                       23-02-2007     
+Newbury Road                            Salem                    New Jersey               FL                       16-07-2008     
+N Harrison St                           Lansing                  New Jersey               MO                       21-11-2007     
+South Roosevelt Drive                   Lincoln                  North Dakota             RI                       17-07-2008     
+N Kentwood                              Helena                   Minnesota                LA                       03-08-2007     
+Tully Road East                         Augusta                  Massachusetts            NV                       06-02-2008     
+Woodson Rd.                             Raleigh                  Ohio                     CT                       27-09-2007     
+Pacific Hwy S                           Des Moines               New Hampshire            AL                       12-06-2007     
+Tanger Blvd                             Cheyenne                 Virginia                 OK                       04-11-2007     
+San Simeon                              Annapolis                Wisconsin                NV                       23-01-2007     
+Cabrillo Highway                        Providence               Nevada                   ME                       19-08-2007     
+Castillo Drive                          Bismarck                 Oklahoma                 ME                       19-01-2007     
+Fairview Avenue                         Nashville                Minnesota                MA                       23-10-2007     
+North Broadway Street                   Helena                   Arizona                  VT                       11-03-2008     
+Carpinteria South                       Concord                  Tennessee                LA                       16-06-2007     
+Cabrillo Highway                        Juneau                   Idaho                    GA                       28-07-2008     
+Bayshore Freeway                        Boston                   Mississippi              OH                       23-11-2008     
+San Simeon                              Sacramento               New Jersey               SC                       04-07-2007     
+N Harrison St                           Topeka                   New York                 RI                       18-09-2007     
+French Camp Turnpike Road               Richmond                 Nevada                   GA                       16-02-2007     
+Fontaine Road                           Oklahoma City            New York                 MO                       15-10-2007     
+Fairview Avenue                         Montgomery               Iowa                     AR                       01-05-2007     
+Burnett Road                            Lansing                  Kansas                   ME                       15-10-2007     
+Castillo Drive                          Albany                   Nebraska                 NE                       09-04-2008     
+Pacific Hwy S                           Austin                   Nevada                   MS                       25-05-2007     
+Apalachee Parkway                       Saint Paul               Kansas                   NJ                       16-12-2007     
+W. Russell St.                          Albany                   Vermont                  SD                       10-02-2007     
+Lake Tahoe Blvd.                        Madison                  New Hampshire            WI                       17-02-2008     
+S Rustle St                             Austin                   Texas                    MO                       21-04-2008     
+Milpas Street                           Augusta                  Georgia                  OH                       17-06-2008     
+North Ventu Park Road                   Juneau                   New York                 PA                       29-08-2007     
+Cabrillo Highway                        Harrisburg               New Mexico               MS                       27-07-2008     
+Tully Road East                         Frankfort                South Carolina           AL                       08-03-2008     
+Jones Road                              Trenton                  Idaho                    NY                       16-07-2008     
+Jones Road                              Topeka                   Arizona                  NE                       04-08-2008     
+North Preisker Lane                     Juneau                   South Carolina           MT                       03-07-2007     
+Santa Ana Freeway                       Helena                   Iowa                     VT                       11-10-2007     
+S Rustle St                             Albany                   California               NJ                       20-10-2007     
+Tanger Blvd                             Boise                    Nebraska                 RI                       19-01-2008     
+Jones Road                              Concord                  Louisiana                RI                       25-04-2007     
+Milpas Street                           Columbia                 Texas                    IA                       01-11-2007     
+Tully Road East                         Austin                   Arizona                  WA                       14-09-2008     
+Lawrenceville Suwanee                   Austin                   Hawaii                   MD                       30-01-2007     
+Cleveland Ave.                          Denver                   Nevada                   VT                       23-10-2007     
+Padre Boulevard                         Helena                   Rhode Island             VT                       01-02-2008     
+Santa Rosa South                        Hartford                 Oklahoma                 DE                       18-08-2008     
+Greenwood Road                          Indianapolis             Delaware                 HI                       22-07-2008     
+East Calle Primera                      Baton Rouge              Maryland                 OK                       14-06-2007     
+Moreno Drive                            Madison                  Massachusetts            HI                       29-09-2008     
+San Marcos                              Denver                   Utah                     CO                       20-12-2008     
+Castillo Drive                          Cheyenne                 Iowa                     MO                       08-07-2007     
+El Camino Real                          Montpelier               Wisconsin                IL                       04-10-2008     
+Harry S Truman Blvd                     Baton Rouge              Utah                     NJ                       22-05-2007     
+East 1st Street                         Madison                  Kansas                   TX                       16-12-2008     
+Carpinteria Avenue                      Trenton                  Washington               ME                       12-10-2008     
+Erringer Road                           Harrisburg               New Mexico               MD                       23-10-2007     
+South Highway                           Hartford                 South Carolina           NE                       03-02-2007     
+Redwood Highway                         Springfield              West Virginia            TN                       26-01-2007     
+South Roosevelt Drive                   Dover                    Indiana                  CA                       19-01-2007     
+Santa Rosa South                        Montgomery               Vermont                  TN                       26-04-2008     
+South Roosevelt Drive                   Oklahoma City            Texas                    WV                       14-09-2007     
+Santa Ana Freeway                       Springfield              Missouri                 NC                       03-04-2007     
+Padre Boulevard                         Boise                    Washington               SC                       14-08-2007     
+San Marcos                              Pierre                   Tennessee                OH                       17-09-2007     
+Milpas Street                           Augusta                  Virginia                 CO                       12-09-2008     
+Lindbergh Blvd                          Raleigh                  Louisiana                LA                       13-12-2008     
+Tully Road East                         Boston                   New York                 CT                       26-10-2008     
+Bayshore Freeway                        Austin                   New Mexico               MD                       16-07-2007     
+Cleveland Ave.                          Columbus                 Washington               AR                       16-10-2007     
+East Main Street                        Austin                   Tennessee                CT                       24-12-2008     
+N Kentwood                              Baton Rouge              Connecticut              NH                       23-12-2007     
+North Broadway Street                   Charleston               Nevada                   WA                       12-04-2008     
+Richmond Hill                           Salt Lake City           Alabama                  NC                       11-08-2007     
+French Camp Turnpike Road               Sacramento               Vermont                  WA                       26-08-2007     
+Bailard Avenue                          Madison                  New York                 IL                       07-02-2007     
+Fairview Avenue                         Providence               Nebraska                 MO                       28-02-2008     
+Bayshore Freeway                        Boise                    Louisiana                CT                       26-02-2008     
+Steele Lane                             Santa Fe                 Illinois                 VA                       06-03-2007     
+Burnett Road                            Providence               Arizona                  NC                       15-12-2008     
+Carpinteria North                       Topeka                   Maryland                 GA                       07-10-2007     
+Tully Road East                         Baton Rouge              Texas                    OR                       01-06-2008     
+N Harrison St                           Annapolis                Connecticut              CO                       29-06-2007     
+Castillo Drive                          Santa Fe                 Ohio                     SD                       02-03-2008     
+Padre Boulevard                         Harrisburg               Colorado                 AR                       27-08-2008     
+N Kentwood                              Madison                  Rhode Island             RI                       27-08-2007     
+Redwood Highway                         Annapolis                Kansas                   OK                       04-10-2008     
+Santa Monica Road                       Bismarck                 Rhode Island             FL                       20-01-2008     
+N Harrison St                           Harrisburg               Ohio                     AL                       15-10-2008     
+Lawrenceville Suwanee                   Montpelier               Oregon                   RI                       06-02-2008     
+South Roosevelt Drive                   Carson City              Kansas                   AZ                       04-08-2007     
+Burnett Road                            Little Rock              Mississippi              TN                       30-07-2007     
+San Ysidro Blvd                         Columbia                 California               ID                       27-09-2008     
+San Luis Obispo North                   Oklahoma City            Florida                  DE                       31-07-2007     
+Westside Freeway                        Salt Lake City           Ohio                     VT                       02-11-2008     
+Grandview Drive                         Nashville                South Dakota             VA                       18-05-2008     
+Padre Boulevard                         Carson City              West Virginia            FL                       23-10-2007     
+Santa Rosa North                        Santa Fe                 Virginia                 AR                       19-06-2007     
+Tanger Blvd                             Montpelier               Georgia                  WV                       16-02-2007     
+Monroe Street                           Hartford                 South Carolina           TX                       27-03-2007     
+Fairview Avenue                         Raleigh                  Hawaii                   AZ                       06-01-2007     
+W. Russell St.                          Frankfort                Delaware                 MD                       24-08-2007     
+Harry S Truman Blvd                     Frankfort                Missouri                 AL                       26-09-2007     
+Cerrillos Road                          Springfield              Minnesota                PA                       28-06-2008     
+Westside Freeway                        Lansing                  New Hampshire            NV                       07-09-2007     
+Redwood Highway                         Columbia                 Louisiana                TX                       25-11-2008     
+Pacific Hwy S                           Pierre                   Pennsylvania             MT                       04-06-2007     
+Padre Boulevard                         Saint Paul               Delaware                 FL                       28-12-2007     
+Steele Lane                             Raleigh                  Montana                  VT                       16-10-2008     
+Pacific Hwy S                           Trenton                  Mississippi              CT                       17-10-2008     
+East 1st Street                         Providence               Illinois                 SC                       02-12-2007     
+French Camp Turnpike Road               Dover                    Michigan                 WI                       05-11-2008     
+Katella Avenue                          Cheyenne                 New Hampshire            WV                       09-09-2008     
+Katella Avenue                          Pierre                   Indiana                  DE                       10-08-2007     
+Cleveland Ave.                          Trenton                  Kentucky                 WI                       12-03-2008     
+Woodson Rd.                             Dover                    Alaska                   KY                       26-01-2008     
+Katella Avenue                          Raleigh                  Vermont                  CO                       06-10-2007     
+Cabrillo Highway                        Trenton                  Louisiana                AK                       26-03-2008     
+El Camino Real                          Boise                    Kansas                   ND                       19-08-2008     
+Bowles Avenue                           Lincoln                  Vermont                  MI                       27-05-2007     
+Katella Avenue                          Madison                  Oklahoma                 NH                       31-10-2007     
+Newbury Road                            Bismarck                 Illinois                 KY                       27-11-2007     
+San Simeon                              Richmond                 Vermont                  VT                       27-01-2008     
+Fontaine Road                           Montgomery               Iowa                     VT                       12-02-2008     
+Richmond Hill                           Santa Fe                 Oklahoma                 AL                       14-07-2007     
+Harbor Dr                               Jackson                  Massachusetts            UT                       16-08-2008     
+San Simeon                              Montgomery               Tennessee                WI                       21-05-2008     
+S Rustle St                             Jefferson City           Delaware                 AR                       04-06-2007     
+W. Russell St.                          Springfield              Nebraska                 IL                       17-10-2008     
+Bailard Avenue                          Topeka                   Mississippi              NE                       23-11-2008     
+Grandview Drive                         Montpelier               Massachusetts            HI                       08-10-2007     
+San Ysidro Blvd                         Annapolis                Maryland                 NM                       28-02-2008     
+Tully Road East                         Augusta                  Utah                     HI                       15-09-2007     
+Woodson Rd.                             Boston                   Oklahoma                 ND                       28-10-2007     
+Castillo Drive                          Charleston               Texas                    AR                       29-01-2008     
+Hutchinson Rd                           Jefferson City           Utah                     SD                       17-01-2007     
+French Camp Turnpike Road               Montpelier               Rhode Island             IA                       30-05-2007     
+North Broadway Street                   Phoenix                  South Carolina           WA                       14-01-2008     
+San Simeon                              Annapolis                Montana                  CO                       11-12-2008     
+San Diego Freeway                       Columbus                 South Carolina           IA                       09-04-2008     
+Santa Ana Freeway                       Salem                    Louisiana                ID                       28-07-2007     
+Newbury Road                            Annapolis                Maine                    WA                       01-02-2008     
+Jones Road                              Baton Rouge              New Hampshire            WV                       11-12-2007     
+Fairview Avenue                         Columbia                 Maryland                 CT                       11-08-2008     
+Erringer Road                           Baton Rouge              Ohio                     OH                       11-12-2007     
+Hutchinson Rd                           Montpelier               Arizona                  AR                       29-10-2007     
+Erringer Road                           Columbia                 Georgia                  CO                       14-03-2008     
+French Camp Turnpike Road               Madison                  Virginia                 DE                       17-03-2007     
+Milpas Street                           Harrisburg               Ohio                     TN                       25-12-2008     
+Carpinteria Avenue                      Pierre                   Indiana                  AZ                       11-03-2008     
+Santa Rosa South                        Austin                   West Virginia            NV                       01-02-2008     
+Harbor Dr                               Albany                   Florida                  OR                       22-04-2008     
+North Erringer Road                     Concord                  Massachusetts            NJ                       23-02-2008     
+Via Real                                Annapolis                Indiana                  MS                       27-04-2007     
+Lindbergh Blvd                          Baton Rouge              Ohio                     NY                       10-03-2008     
+Redwood Highway                         Oklahoma City            Oregon                   CO                       27-10-2007     
+Hutchinson Rd                           Phoenix                  North Dakota             NV                       07-08-2008     
+Carpinteria North                       Frankfort                Vermont                  NY                       06-05-2008     
+Santa Ana Freeway                       Denver                   Alabama                  MI                       22-10-2008     
+Santa Monica Road                       Jackson                  Vermont                  FL                       14-03-2007     
+Castillo Drive                          Saint Paul               California               GA                       14-04-2007     
+East Fry Blvd.                          Augusta                  Georgia                  MS                       14-07-2008     
+French Camp Turnpike Road               Denver                   Alabama                  AL                       29-04-2008     
+East Fry Blvd.                          Little Rock              Oklahoma                 AK                       25-07-2008     
+Corona Del Mar                          Jackson                  Kentucky                 MN                       31-12-2007     
+Steele Lane                             Dover                    Michigan                 IL                       13-04-2008     
+Cerrillos Road                          Augusta                  Michigan                 VT                       11-06-2007     
+North Ventu Park Road                   Saint Paul               Connecticut              RI                       10-02-2007     
+San Diego Freeway                       Montpelier               Utah                     MN                       17-02-2008     
+San Marcos                              Juneau                   Delaware                 SD                       06-07-2008     
+Castillo Drive                          Columbia                 Montana                  NV                       28-01-2008     
+Burnett Road                            Trenton                  Massachusetts            VA                       29-10-2008     
+East Main Street                        Denver                   Michigan                 WI                       31-10-2008     
+East Main Street                        Topeka                   Ohio                     IA                       20-07-2007     
+Redwood Highway                         Columbus                 North Carolina           NM                       10-12-2008     
+Pacific Hwy S                           Salt Lake City           Wisconsin                ID                       01-07-2007     
+El Camino Real                          Annapolis                Maine                    MO                       11-03-2008     
+South Roosevelt Drive                   Atlanta                  North Carolina           DE                       13-02-2008     
+North Ventu Park Road                   Topeka                   Connecticut              UT                       10-04-2008     
+Carpinteria Avenue                      Nashville                Utah                     ND                       29-05-2008     
+Lindbergh Blvd                          Providence               Massachusetts            SD                       11-08-2008     
+East Calle Primera                      Lincoln                  Wyoming                  AZ                       12-04-2007     
+Carpinteria North                       Annapolis                Minnesota                MD                       18-12-2007     
+Lake Tahoe Blvd.                        Madison                  Wisconsin                NM                       04-10-2007     
+Cerrillos Road                          Hartford                 Vermont                  NM                       23-01-2008     
+Lindbergh Blvd                          Lansing                  Idaho                    ME                       24-04-2007     
+Lindbergh Blvd                          Denver                   Connecticut              CT                       02-07-2008     
+Santa Rosa South                        Albany                   Missouri                 FL                       13-12-2007     
+Via Real                                Honolulu                 Connecticut              OR                       10-03-2007     
+S Rustle St                             Raleigh                  Hawaii                   NJ                       11-06-2007     
+Via Real                                Des Moines               California               IN                       08-08-2008     
+Milpas Street                           Springfield              Oklahoma                 FL                       22-01-2008     
+Pacific Hwy S                           Tallahassee              Alabama                  MO                       16-03-2007     
+San Diego Freeway                       Saint Paul               North Dakota             RI                       24-12-2008     
+San Luis Obispo North                   Indianapolis             North Carolina           CA                       04-12-2008     
+Lindbergh Blvd                          Columbia                 North Dakota             WI                       26-07-2007     
+Castillo Drive                          Annapolis                Nevada                   AZ                       02-08-2008     
+Santa Rosa South                        Indianapolis             Arkansas                 TN                       03-01-2008     
+Carpinteria North                       Columbia                 Delaware                 NV                       19-08-2008     
+E Fowler Avenue                         Raleigh                  South Dakota             TX                       30-03-2008     
+Apalachee Parkway                       Providence               Oregon                   WV                       29-01-2008     
+Woodson Rd.                             Juneau                   South Dakota             CA                       09-02-2008     
+Harry S Truman Blvd                     Topeka                   West Virginia            MN                       27-08-2007     
+Santa Ana Freeway                       Dover                    Texas                    NH                       03-07-2007     
+San Diego Freeway                       Bismarck                 New Hampshire            OK                       31-03-2007     
+Woodson Rd.                             Baton Rouge              Arizona                  NJ                       22-10-2008     
+Grandview Drive                         Helena                   Wyoming                  IA                       27-04-2007     
+Padre Boulevard                         Tallahassee              Pennsylvania             AL                       24-10-2008     
+East Calle Primera                      Boise                    Indiana                  LA                       02-12-2007     
+Padre Boulevard                         Boston                   New Mexico               MA                       11-04-2007     
+San Diego Freeway                       Columbus                 Nevada                   IA                       02-01-2007     
+North Preisker Lane                     Des Moines               Kansas                   VT                       28-01-2007     
+Timberlane Drive                        Lansing                  Illinois                 RI                       16-04-2008     
+Cerrillos Road                          Albany                   Nebraska                 MI                       11-09-2007     
+El Camino Real                          Augusta                  Michigan                 WV                       27-08-2008     
+Lawrenceville Suwanee                   Denver                   Massachusetts            MS                       09-07-2008     
+East Main Street                        Springfield              Delaware                 MD                       12-01-2008     
+North Preisker Lane                     Albany                   North Carolina           RI                       08-05-2008     
+Erringer Road                           Providence               Virginia                 WA                       05-10-2008     
+Timberlane Drive                        Des Moines               Louisiana                SD                       20-09-2008     
+Santa Rosa North                        Lansing                  Oregon                   NC                       13-12-2007     
+Moreno Drive                            Frankfort                Nebraska                 OH                       26-09-2008     
+Corona Del Mar                          Salt Lake City           Louisiana                MO                       21-03-2008     
+Lindbergh Blvd                          Providence               Oregon                   MO                       06-09-2007     
+Harbor Dr                               Raleigh                  Louisiana                IA                       10-12-2008     
+Richmond Hill                           Boston                   Delaware                 VA                       21-05-2008     
+Pacific Hwy S                           Saint Paul               Texas                    MI                       13-10-2008     
+Katella Avenue                          Columbus                 Mississippi              CA                       31-05-2008     
+Santa Rosa North                        Indianapolis             California               MT                       31-08-2008     
+French Camp Turnpike Road               Jackson                  Pennsylvania             MD                       01-01-2007     
+S Rustle St                             Des Moines               Maine                    FL                       29-04-2008     
+Bailard Avenue                          Boston                   Arkansas                 NV                       26-08-2008     
+French Camp Turnpike Road               Austin                   Tennessee                RI                       21-04-2008     
+East Main Street                        Salt Lake City           Mississippi              KS                       13-06-2008     
+Corona Del Mar                          Trenton                  Texas                    NH                       13-01-2008     
+Greenwood Road                          Saint Paul               Minnesota                MN                       26-03-2008     
+Fairview Avenue                         Santa Fe                 South Carolina           IA                       02-02-2008     
+Cerrillos Road                          Atlanta                  Texas                    PA                       22-09-2008     
+Santa Ana Freeway                       Richmond                 Florida                  IA                       10-10-2008     
+Grandview Drive                         Dover                    Illinois                 IN                       06-08-2007     
+South Roosevelt Drive                   Lansing                  Wyoming                  VT                       26-10-2008     
+N Kentwood                              Albany                   Arkansas                 AK                       14-07-2008     
+Richmond Hill                           Salt Lake City           Ohio                     GA                       16-06-2007     
+Carpinteria North                       Atlanta                  Rhode Island             OH                       08-06-2007     
+Lake Tahoe Blvd.                        Saint Paul               Ohio                     IA                       14-06-2007     
+Redwood Highway                         Saint Paul               Texas                    HI                       24-05-2008     
+Bayshore Freeway                        Little Rock              Alabama                  MA                       09-11-2008     
+Santa Rosa North                        Boise                    Utah                     AR                       28-12-2007     
+Westside Freeway                        Montgomery               South Carolina           WI                       18-02-2008     
+Carpinteria South                       Providence               Rhode Island             ME                       02-04-2008     
+Monroe Street                           Baton Rouge              New Mexico               NC                       09-09-2008     
+Moreno Drive                            Trenton                  Alaska                   CT                       13-09-2008     
+French Camp Turnpike Road               Hartford                 Rhode Island             MO                       07-07-2007     
+Corona Del Mar                          Trenton                  Wisconsin                CA                       23-07-2008     
+Padre Boulevard                         Jefferson City           Alaska                   KS                       25-11-2008     
+Redwood Highway                         Pierre                   Indiana                  SD                       03-01-2007     
+North Erringer Road                     Annapolis                Wisconsin                VA                       21-12-2008     
+San Simeon                              Olympia                  Iowa                     NY                       25-05-2007     
+Hutchinson Rd                           Richmond                 Rhode Island             PA                       10-02-2007     
+Burnett Road                            Springfield              Colorado                 AZ                       28-12-2008     
+S Rustle St                             Indianapolis             Iowa                     ID                       23-08-2008     
+Erringer Road                           Pierre                   Maryland                 AR                       04-11-2008     
+Pacific Hwy S                           Richmond                 Nevada                   PA                       13-01-2008     
+Lake Tahoe Blvd.                        Bismarck                 Minnesota                ID                       25-03-2008     
+Lake Tahoe Blvd.                        Madison                  Vermont                  WI                       04-06-2008     
+North Preisker Lane                     Sacramento               Nevada                   WV                       11-02-2007     
+Jean de la Fontaine                     Hartford                 Maine                    LA                       21-02-2008     
+Jones Road                              Saint Paul               Oklahoma                 MO                       03-09-2008     
+Carpinteria Avenue                      Richmond                 Arizona                  WA                       12-02-2008     
+Bailard Avenue                          Raleigh                  Oklahoma                 NE                       24-01-2007     
+Richmond Hill                           Jefferson City           Michigan                 MI                       10-06-2007     
+South Roosevelt Drive                   Atlanta                  Oklahoma                 WY                       18-10-2008     
+Steele Lane                             Baton Rouge              Georgia                  WY                       05-09-2007     
+North Erringer Road                     Austin                   Wisconsin                IA                       26-10-2008     
+North Erringer Road                     Bismarck                 Vermont                  ME                       07-05-2008     
+Jean de la Fontaine                     Olympia                  Colorado                 TX                       12-04-2007     
+N Kentwood                              Montpelier               North Carolina           OR                       05-04-2008     
+W. Russell St.                          Pierre                   Idaho                    AZ                       02-11-2007     
+Pacific Hwy S                           Salt Lake City           Illinois                 ID                       11-10-2008     
+East 1st Street                         Little Rock              New Hampshire            KY                       19-06-2007     
+Jean de la Fontaine                     Olympia                  California               OH                       05-02-2008     
+Carpinteria Avenue                      Jackson                  Missouri                 DE                       02-07-2008     
+Calle Real                              Columbus                 Alaska                   AR                       16-04-2007     
+Camelback Rd                            Salem                    Montana                  KS                       25-08-2008     
+Carpinteria North                       Concord                  Arkansas                 NC                       28-07-2007     
+East Main Street                        Lincoln                  West Virginia            MT                       22-08-2008     
+Timberlane Drive                        Madison                  Tennessee                DE                       18-01-2008     
+San Marcos                              Honolulu                 Mississippi              OK                       02-09-2008     
+El Camino Real                          Phoenix                  Louisiana                NJ                       30-12-2007     
+Lawrenceville Suwanee                   Springfield              North Carolina           IA                       14-08-2008     
+Santa Ana Freeway                       Tallahassee              Oklahoma                 WI                       17-07-2008     
+Bowles Avenue                           Jefferson City           Oregon                   WI                       25-10-2008     
+Harbor Dr                               Charleston               New York                 WA                       26-04-2007     
+Katella Avenue                          Bismarck                 Arkansas                 WI                       14-09-2007     
+Burnett Road                            Indianapolis             Michigan                 HI                       03-08-2007     
+North Broadway Street                   Frankfort                Arkansas                 CA                       18-02-2008     
+Richmond Hill                           Providence               Alabama                  HI                       26-11-2008     
+French Camp Turnpike Road               Columbus                 New Mexico               NJ                       17-03-2008     
+Jean de la Fontaine                     Frankfort                Nevada                   IL                       27-12-2008     
+Lake Tahoe Blvd.                        Salt Lake City           Kansas                   ND                       18-04-2008     
+Camelback Rd                            Bismarck                 Texas                    NM                       03-11-2008     
+Lindbergh Blvd                          Saint Paul               Nebraska                 LA                       20-08-2008     
+French Camp Turnpike Road               Indianapolis             Ohio                     DE                       13-06-2007     
+Fairview Avenue                         Carson City              Louisiana                IN                       20-12-2007     
+E Fowler Avenue                         Santa Fe                 Wisconsin                AZ                       04-10-2008     
+Cabrillo Highway                        Saint Paul               Louisiana                KS                       03-06-2008     
+San Simeon                              Nashville                Rhode Island             NC                       19-09-2007     
+Timberlane Drive                        Jackson                  Hawaii                   KS                       17-03-2007     
+Cerrillos Road                          Indianapolis             North Dakota             ME                       30-01-2007     
+Via Real                                Olympia                  Missouri                 RI                       09-04-2007     
+Richmond Hill                           Frankfort                Iowa                     NC                       13-11-2007     
+Santa Rosa South                        Austin                   New Jersey               ME                       18-12-2007     
+Bailard Avenue                          Cheyenne                 South Carolina           IN                       20-10-2007     
+East Fry Blvd.                          Richmond                 Texas                    ND                       06-02-2007     
+S Rustle St                             Bismarck                 Delaware                 ME                       11-08-2008     
+El Camino Real                          Little Rock              Nebraska                 NH                       28-11-2007     
+Corona Del Mar                          Honolulu                 Connecticut              LA                       06-06-2008     
+Harry S Truman Blvd                     Jackson                  Vermont                  MI                       13-07-2008     
+Greenwood Road                          Boston                   Maine                    CO                       25-01-2007     
+South Roosevelt Drive                   Montpelier               New Jersey               PA                       08-12-2007     
+E Fowler Avenue                         Boise                    Louisiana                ND                       23-07-2007     
+Castillo Drive                          Providence               Illinois                 MT                       04-08-2008     
+Santa Monica Road                       Sacramento               Utah                     NV                       21-01-2007     
+Burnett Road                            Honolulu                 Arizona                  NY                       06-07-2008     
+Jean de la Fontaine                     Tallahassee              Ohio                     FL                       03-08-2007     
+Timberlane Drive                        Hartford                 Oregon                   WA                       06-11-2007     
+Via Real                                Harrisburg               Vermont                  LA                       13-02-2007     
+Jones Road                              Carson City              Oregon                   NV                       26-10-2008     
+Monroe Street                           Salt Lake City           South Carolina           GA                       15-10-2007     
+Cerrillos Road                          Columbus                 Hawaii                   VT                       18-06-2007     
+S Rustle St                             Saint Paul               Idaho                    MI                       01-10-2007     
+French Camp Turnpike Road               Charleston               Rhode Island             KY                       09-01-2007     
+Burnett Road                            Madison                  Hawaii                   RI                       24-05-2008     
+Lindbergh Blvd                          Salt Lake City           Iowa                     VT                       13-12-2007     
+East Calle Primera                      Tallahassee              Pennsylvania             WY                       23-01-2007     
+Lindbergh Blvd                          Olympia                  Minnesota                AK                       08-06-2008     
+Newbury Road                            Olympia                  Rhode Island             WA                       10-09-2008     
+Camelback Rd                            Frankfort                Maine                    NY                       28-03-2007     
+Jones Road                              Augusta                  Pennsylvania             TN                       27-01-2007     
+Santa Rosa South                        Cheyenne                 Louisiana                WI                       19-05-2008     
+South Highway                           Providence               South Carolina           PA                       25-05-2008     
+Cerrillos Road                          Augusta                  Iowa                     WY                       03-07-2008     
+Lawrenceville Suwanee                   Richmond                 Minnesota                SD                       19-01-2007     
+Timberlane Drive                        Providence               Kansas                   GA                       13-07-2008     
+Cleveland Ave.                          Tallahassee              New Jersey               ID                       13-04-2008     
+Greenwood Road                          Des Moines               Vermont                  AL                       24-11-2007     
+Redwood Highway                         Juneau                   Utah                     OR                       24-01-2008     
+Santa Rosa North                        Atlanta                  Texas                    RI                       06-04-2007     
+Via Real                                Springfield              Kansas                   NC                       10-02-2007     
+Moreno Drive                            Albany                   Wyoming                  KY                       26-06-2008     
+Camelback Rd                            Lincoln                  Rhode Island             IN                       21-09-2007     
+Santa Rosa South                        Albany                   Washington               KS                       11-02-2008     
+Via Real                                Carson City              Kansas                   NH                       18-03-2007     
+Timberlane Drive                        Richmond                 Illinois                 AR                       30-03-2008     
+East Main Street                        Helena                   Delaware                 IA                       15-05-2008     
+Via Real                                Montpelier               Utah                     KY                       01-11-2007     
+San Luis Obispo North                   Salem                    Iowa                     MD                       23-08-2008     
+Carpinteria North                       Olympia                  Maine                    AZ                       12-09-2007     
+Cleveland Ave.                          Richmond                 Massachusetts            WV                       14-07-2007     
+N Kentwood                              Indianapolis             Rhode Island             NJ                       17-08-2008     
+E Fowler Avenue                         Raleigh                  Florida                  CT                       25-12-2007     
+Castillo Drive                          Atlanta                  Pennsylvania             PA                       22-10-2007     
+Santa Rosa South                        Atlanta                  Rhode Island             VT                       05-04-2008     
+Cleveland Ave.                          Dover                    Wisconsin                OK                       05-05-2008     
+Santa Rosa North                        Honolulu                 Indiana                  UT                       25-10-2007     
+E Fowler Avenue                         Trenton                  Pennsylvania             AL                       11-05-2008     
+Calle Real                              Madison                  Mississippi              DE                       07-04-2007     
+El Camino Real                          Pierre                   Utah                     MI                       27-12-2008     
+East Main Street                        Juneau                   Illinois                 TX                       08-11-2007     
+Castillo Drive                          Santa Fe                 Indiana                  ID                       18-06-2007     
+San Luis Obispo North                   Richmond                 Florida                  IA                       29-01-2008     
+North Preisker Lane                     Augusta                  Ohio                     MI                       05-10-2008     
+Cleveland Ave.                          Topeka                   Mississippi              AZ                       15-04-2007     
+North Ventu Park Road                   Springfield              Washington               KS                       11-03-2008     
+Carpinteria Avenue                      Saint Paul               New Hampshire            OR                       18-06-2007     
+Hutchinson Rd                           Concord                  Georgia                  WA                       20-01-2007     
+Carpinteria North                       Providence               Rhode Island             AR                       03-04-2007     
+Cleveland Ave.                          Augusta                  Massachusetts            NV                       07-06-2008     
+Santa Ana Freeway                       Trenton                  Hawaii                   MO                       13-03-2007     
+North Ventu Park Road                   Phoenix                  Minnesota                MD                       22-04-2008     
+North Atherton Street                   Boston                   Arkansas                 WA                       20-11-2007     
+N Kentwood                              Providence               Wisconsin                IL                       15-11-2008     
+Via Real                                Albany                   Maine                    AR                       28-12-2008     
+Hutchinson Rd                           Boise                    New Hampshire            WA                       06-07-2008     
+N Harrison St                           Indianapolis             Texas                    LA                       14-02-2008     
+Carpinteria South                       Juneau                   Washington               FL                       08-11-2007     
+Timberlane Drive                        Des Moines               Delaware                 IA                       17-11-2008     
+Lake Tahoe Blvd.                        Salem                    Indiana                  IA                       17-02-2008     
+Tanger Blvd                             Topeka                   Georgia                  MN                       03-09-2008     
+Santa Ana Freeway                       Bismarck                 Wisconsin                VT                       30-04-2008     
+Lake Tahoe Blvd.                        Columbia                 South Carolina           TN                       29-06-2007     
+Cabrillo Highway                        Pierre                   Texas                    VA                       23-10-2008     
+Timberlane Drive                        Lansing                  Nevada                   WI                       03-01-2007     
+Hutchinson Rd                           Augusta                  Indiana                  ID                       25-06-2007     
+Jean de la Fontaine                     Lincoln                  Nebraska                 SD                       07-02-2008     
+North Ventu Park Road                   Madison                  Ohio                     AK                       05-12-2008     
+Tully Road East                         Charleston               New Hampshire            AR                       21-11-2007     
+Santa Rosa South                        Des Moines               New York                 MD                       21-09-2007     
+South Roosevelt Drive                   Providence               Wisconsin                CA                       12-11-2008     
+Steele Lane                             Harrisburg               North Dakota             ND                       22-01-2008     
+Cerrillos Road                          Raleigh                  Kentucky                 NE                       30-03-2008     
+French Camp Turnpike Road               Olympia                  Alaska                   IL                       26-10-2008     
+Via Real                                Baton Rouge              Iowa                     CO                       17-09-2007     
+San Diego Freeway                       Phoenix                  North Dakota             AR                       05-11-2007     
+Castillo Drive                          Honolulu                 Wyoming                  DE                       04-05-2008     
+East Calle Primera                      Madison                  Vermont                  NE                       05-08-2008     
+S Rustle St                             Saint Paul               Indiana                  KS                       30-08-2007     
+Bayshore Freeway                        Columbus                 Maryland                 NH                       20-07-2007     
+W. Russell St.                          Santa Fe                 New Jersey               IN                       08-02-2007     
+East Fry Blvd.                          Concord                  Tennessee                DE                       13-04-2008     
+North Erringer Road                     Des Moines               Hawaii                   NY                       26-12-2008     
+Tully Road East                         Concord                  Texas                    CO                       30-04-2007     
+San Simeon                              Lansing                  Tennessee                MT                       20-05-2007     
+Apalachee Parkway                       Juneau                   Massachusetts            DE                       28-01-2008     
+S Rustle St                             Olympia                  Ohio                     OK                       04-06-2008     
+San Diego Freeway                       Tallahassee              Delaware                 KS                       10-11-2008     
+Santa Rosa North                        Denver                   Washington               WY                       26-03-2007     
+South Highway                           Boise                    Iowa                     FL                       06-07-2008     
+Santa Monica Road                       Columbus                 Nevada                   IA                       22-01-2007     
+Apalachee Parkway                       Bismarck                 Oklahoma                 ID                       11-05-2007     
+Santa Rosa South                        Saint Paul               Delaware                 WA                       19-01-2008     
+Lawrenceville Suwanee                   Boise                    Hawaii                   DE                       06-07-2008     
+S Rustle St                             Cheyenne                 Arkansas                 SD                       21-11-2008     
+North Broadway Street                   Atlanta                  Arkansas                 SD                       09-02-2007     
+Santa Rosa South                        Atlanta                  Louisiana                AK                       03-04-2007     
+Fairview Avenue                         Topeka                   Tennessee                CA                       04-08-2008     
+North Atherton Street                   Boston                   Florida                  MS                       11-02-2008     
+East 1st Street                         Olympia                  Minnesota                MS                       05-10-2008     
+Carpinteria South                       Lansing                  South Carolina           NC                       21-06-2008     
+Milpas Street                           Atlanta                  Delaware                 FL                       15-07-2008     
+Greenwood Road                          Jefferson City           Oklahoma                 RI                       12-02-2008     
+Richmond Hill                           Charleston               Illinois                 MN                       25-05-2008     
+Camelback Rd                            Indianapolis             Pennsylvania             WI                       22-11-2007     
+Carpinteria South                       Phoenix                  New York                 ND                       08-04-2008     
+San Luis Obispo North                   Salem                    Florida                  LA                       03-12-2007     
+Milpas Street                           Carson City              Virginia                 DE                       03-12-2007     
+Carpinteria Avenue                      Pierre                   Massachusetts            MI                       18-02-2007     
+Westside Freeway                        Carson City              Vermont                  NJ                       13-11-2008     
+Timberlane Drive                        Montgomery               Mississippi              TN                       17-05-2007     
+Lindbergh Blvd                          Columbus                 Tennessee                OK                       27-12-2007     
+Calle Real                              Columbus                 North Carolina           NM                       03-06-2007     
+French Camp Turnpike Road               Augusta                  Tennessee                GA                       17-11-2007     
+Apalachee Parkway                       Madison                  Kentucky                 WV                       25-08-2007     
+South Highway                           Olympia                  New Hampshire            MO                       27-08-2007     
+Lake Tahoe Blvd.                        Juneau                   Massachusetts            FL                       21-02-2008     
+Cabrillo Highway                        Charleston               Nebraska                 OR                       16-11-2008     
+Redwood Highway                         Indianapolis             Michigan                 ID                       27-12-2007     
+Grandview Drive                         Oklahoma City            Vermont                  IL                       24-03-2008     
+Richmond Hill                           Providence               California               WA                       15-11-2007     
+San Luis Obispo North                   Salt Lake City           Montana                  CO                       04-02-2008     
+San Marcos                              Raleigh                  New Hampshire            OK                       20-05-2007     
+Redwood Highway                         Dover                    Tennessee                MI                       30-07-2007     
+Santa Rosa South                        Helena                   Alaska                   IA                       14-01-2007     
+Tully Road East                         Concord                  South Dakota             NE                       26-03-2008     
+Pacific Hwy S                           Little Rock              Rhode Island             AR                       02-11-2008     
+Santa Rosa North                        Concord                  Wyoming                  VT                       17-10-2007     
+Redwood Highway                         Nashville                Kentucky                 MN                       01-10-2008     
+Santa Rosa North                        Honolulu                 Georgia                  PA                       26-03-2008     
+Newbury Road                            Salem                    Michigan                 AR                       07-06-2008     
+Tanger Blvd                             Lincoln                  North Dakota             MS                       30-09-2007     
+North Atherton Street                   Atlanta                  New Hampshire            CA                       22-04-2008     
+Hutchinson Rd                           Montpelier               Michigan                 KS                       11-08-2008     
+Newbury Road                            Nashville                Vermont                  ND                       14-10-2008     
+Carpinteria Avenue                      Tallahassee              Arizona                  MA                       05-04-2008     
+East Main Street                        Concord                  Arizona                  TN                       19-09-2007     
+Harry S Truman Blvd                     Frankfort                Pennsylvania             WA                       19-03-2008     
+Bailard Avenue                          Richmond                 Arkansas                 MS                       24-10-2007     
+Lawrenceville Suwanee                   Denver                   Louisiana                MA                       24-10-2007     
+San Ysidro Blvd                         Olympia                  Michigan                 NV                       29-02-2008     
+Tanger Blvd                             Trenton                  Arkansas                 WI                       31-10-2008     
+Milpas Street                           Carson City              Delaware                 SD                       17-09-2007     
+Bayshore Freeway                        Hartford                 California               MA                       03-08-2008     
+Padre Boulevard                         Hartford                 Montana                  HI                       27-12-2007     
+Santa Monica Road                       Santa Fe                 Mississippi              WY                       08-11-2007     
+San Diego Freeway                       Pierre                   California               OK                       22-11-2008     
+East Calle Primera                      Jefferson City           Minnesota                SD                       14-07-2008     
+Burnett Road                            Oklahoma City            Texas                    WV                       07-09-2008     
+Burnett Road                            Little Rock              Minnesota                CT                       22-05-2007     
+Jean de la Fontaine                     Atlanta                  Washington               PA                       01-06-2008     
+Cabrillo Highway                        Frankfort                Louisiana                OR                       24-06-2008     
+South Roosevelt Drive                   Denver                   Washington               MI                       26-11-2008     
+Camelback Rd                            Dover                    New Mexico               KY                       17-09-2007     
+Cleveland Ave.                          Columbus                 Illinois                 VA                       26-09-2008     
+Santa Ana Freeway                       Denver                   Indiana                  NV                       05-12-2008     
+Padre Boulevard                         Trenton                  Kansas                   CO                       20-12-2007     
+E Fowler Avenue                         Madison                  West Virginia            MI                       18-09-2008     
+North Erringer Road                     Oklahoma City            Vermont                  MT                       18-02-2008     
+Westside Freeway                        Atlanta                  North Carolina           MN                       26-03-2008     
+Harry S Truman Blvd                     Saint Paul               California               NV                       01-06-2008     
+East Fry Blvd.                          Cheyenne                 Kentucky                 NH                       21-01-2008     
+N Harrison St                           Jackson                  Vermont                  UT                       23-01-2007     
+Carpinteria Avenue                      Baton Rouge              Arizona                  VT                       27-10-2008     
+Cabrillo Highway                        Boston                   Illinois                 OH                       08-05-2007     
+East Calle Primera                      Topeka                   Missouri                 AZ                       13-03-2008     
+Santa Monica Road                       Lincoln                  Oklahoma                 SD                       18-10-2008     
+Richmond Hill                           Columbus                 Utah                     IL                       06-02-2007     
+Carpinteria Avenue                      Santa Fe                 Nebraska                 NE                       05-12-2008     
+Jones Road                              Santa Fe                 California               WA                       20-03-2007     
+Richmond Hill                           Providence               Montana                  KY                       17-04-2008     
+Santa Ana Freeway                       Harrisburg               Louisiana                AR                       10-02-2007     
+North Ventu Park Road                   Pierre                   South Carolina           PA                       18-04-2007     
+Burnett Road                            Columbia                 Idaho                    IL                       02-04-2007     
+Grandview Drive                         Austin                   Minnesota                AZ                       25-11-2007     
+Calle Real                              Indianapolis             Delaware                 NH                       20-08-2008     
+Redwood Highway                         Little Rock              Massachusetts            AK                       19-04-2008     
+N Harrison St                           Sacramento               Vermont                  AR                       22-11-2008     
+Redwood Highway                         Austin                   Idaho                    ME                       02-10-2008     
+North Erringer Road                     Baton Rouge              Virginia                 AK                       08-07-2008     
+San Simeon                              Salt Lake City           California               NY                       07-02-2008     
+San Diego Freeway                       Des Moines               Nebraska                 KS                       01-06-2008     
+San Luis Obispo North                   Madison                  New Mexico               SD                       01-02-2008     
+Harbor Dr                               Raleigh                  North Carolina           VA                       09-03-2008     
+San Ysidro Blvd                         Phoenix                  Rhode Island             AR                       11-05-2008     
+Carpinteria South                       Salem                    Wyoming                  NV                       04-09-2008     
+Carpinteria Avenue                      Jackson                  North Carolina           WA                       09-05-2007     
+Fontaine Road                           Montpelier               Texas                    ME                       25-02-2008     
+Calle Real                              Saint Paul               Georgia                  GA                       23-12-2007     
+Newbury Road                            Little Rock              Minnesota                ME                       11-12-2008     
+North Preisker Lane                     Saint Paul               South Carolina           LA                       28-03-2008     
+S Rustle St                             Richmond                 Connecticut              NJ                       16-12-2007     
+Carpinteria North                       Bismarck                 Wisconsin                MO                       29-10-2007     
+Via Real                                Lincoln                  Nebraska                 GA                       06-05-2008     
+San Ysidro Blvd                         Helena                   Idaho                    HI                       15-11-2008     
+Santa Monica Road                       Boston                   Hawaii                   WI                       09-08-2007     
+Harry S Truman Blvd                     Austin                   New Hampshire            TX                       01-08-2007     
+South Highway                           Boise                    Kentucky                 TX                       26-08-2007     
+Santa Ana Freeway                       Montgomery               Florida                  CT                       22-04-2007     
+San Marcos                              Providence               Colorado                 ME                       21-09-2007     
+Fairview Avenue                         Tallahassee              North Dakota             NC                       30-11-2008     
+N Kentwood                              Topeka                   Arizona                  MN                       17-03-2007     
+Cabrillo Highway                        Annapolis                West Virginia            FL                       04-04-2007     
+Westside Freeway                        Charleston               Nevada                   TN                       06-12-2008     
+Hutchinson Rd                           Helena                   Illinois                 NV                       15-09-2008     
+N Kentwood                              Boston                   Alabama                  IA                       03-08-2008     
+San Diego Freeway                       Denver                   Wyoming                  CA                       07-07-2008     
+Grandview Drive                         Trenton                  Hawaii                   NH                       11-10-2007     
+Santa Rosa North                        Atlanta                  Illinois                 OK                       28-07-2007     
+San Ysidro Blvd                         Hartford                 Nevada                   MD                       21-01-2008     
+South Roosevelt Drive                   Jefferson City           Iowa                     ME                       06-11-2008     
+N Kentwood                              Boston                   New Jersey               MT                       22-04-2007     
+French Camp Turnpike Road               Lincoln                  Alabama                  IA                       11-02-2007     
+Fairview Avenue                         Pierre                   Missouri                 MT                       26-05-2007     
+Calle Real                              Santa Fe                 Arizona                  NH                       03-05-2008     
+Bailard Avenue                          Topeka                   Washington               DE                       29-01-2007     
+Richmond Hill                           Cheyenne                 Washington               AZ                       27-07-2007     
+Padre Boulevard                         Nashville                Nebraska                 MA                       24-12-2007     
+North Atherton Street                   Baton Rouge              Pennsylvania             MN                       12-03-2008     
+S Rustle St                             Montpelier               Rhode Island             AL                       21-07-2007     
+Lake Tahoe Blvd.                        Harrisburg               Kentucky                 MS                       28-02-2008     
+Bailard Avenue                          Santa Fe                 New York                 MO                       14-09-2008     
+San Ysidro Blvd                         Boston                   Texas                    MI                       09-10-2008     
+Fontaine Road                           Trenton                  South Dakota             SC                       08-03-2008     
+Milpas Street                           Bismarck                 Colorado                 AL                       18-06-2007     
+North Preisker Lane                     Jefferson City           Rhode Island             MO                       23-08-2008     
+Bailard Avenue                          Little Rock              Wisconsin                FL                       11-03-2007     
+Bayshore Freeway                        Atlanta                  Nevada                   VT                       21-06-2008     
+French Camp Turnpike Road               Frankfort                Hawaii                   NC                       06-05-2008     
+East Main Street                        Lansing                  Iowa                     MA                       27-07-2007     
+Bailard Avenue                          Honolulu                 Illinois                 RI                       23-04-2008     
+Steele Lane                             Columbus                 Minnesota                NM                       28-12-2008     
+Carpinteria Avenue                      Santa Fe                 Hawaii                   ME                       13-08-2007     
+San Ysidro Blvd                         Montpelier               Nevada                   FL                       20-03-2007     
+Bayshore Freeway                        Dover                    Nevada                   NJ                       24-03-2007     
+San Simeon                              Nashville                Alaska                   NE                       28-02-2007     
+South Highway                           Montgomery               Pennsylvania             ME                       08-05-2008     
+French Camp Turnpike Road               Nashville                Alaska                   ND                       28-04-2008     
+Richmond Hill                           Jefferson City           California               UT                       17-03-2007     
+Burnett Road                            Madison                  Georgia                  OK                       31-10-2007     
+Bailard Avenue                          Lansing                  New Jersey               WA                       01-04-2007     
+Milpas Street                           Tallahassee              Mississippi              NY                       13-08-2007     
+Calle Real                              Concord                  Alabama                  VT                       12-03-2008     
+Carpinteria Avenue                      Lincoln                  Oregon                   KY                       15-02-2008     
+S Rustle St                             Pierre                   West Virginia            NC                       21-08-2007     
+Fairview Avenue                         Indianapolis             Arizona                  VA                       08-10-2008     
+South Roosevelt Drive                   Jefferson City           Oregon                   NH                       11-05-2007     
+Padre Boulevard                         Richmond                 Kansas                   OR                       11-12-2008     
+Cleveland Ave.                          Oklahoma City            Kansas                   CA                       19-10-2007     
+Steele Lane                             Salem                    Florida                  WI                       25-03-2008     
+Carpinteria North                       Jefferson City           Nevada                   WA                       24-11-2008     
+Carpinteria South                       Little Rock              Rhode Island             WI                       06-07-2008     
+Santa Ana Freeway                       Springfield              North Carolina           WY                       18-04-2007     
+Redwood Highway                         Oklahoma City            Wisconsin                KY                       03-02-2008     
+San Ysidro Blvd                         Madison                  Utah                     TN                       23-06-2007     
+Bowles Avenue                           Boise                    Michigan                 GA                       29-11-2007     
+Calle Real                              Concord                  Alaska                   TN                       26-06-2007     
+Richmond Hill                           Santa Fe                 Alaska                   ND                       18-10-2008     
+Via Real                                Lincoln                  New Mexico               AK                       16-10-2007     
+Fairview Avenue                         Richmond                 Arizona                  VT                       22-03-2007     
+Lake Tahoe Blvd.                        Indianapolis             New Hampshire            UT                       02-03-2008     
+North Ventu Park Road                   Jackson                  Pennsylvania             MD                       17-06-2007     
+French Camp Turnpike Road               Denver                   Ohio                     TX                       08-10-2008     
+Westside Freeway                        Tallahassee              Missouri                 OK                       03-01-2007     
+San Ysidro Blvd                         Austin                   South Dakota             IN                       26-05-2008     
+San Diego Freeway                       Nashville                Arkansas                 SD                       24-07-2007     
+Steele Lane                             Des Moines               Oregon                   UT                       20-07-2007     
+Milpas Street                           Montpelier               South Dakota             NE                       07-03-2008     
+Westside Freeway                        Atlanta                  Nebraska                 RI                       18-11-2007     
+North Preisker Lane                     Little Rock              Oregon                   FL                       06-09-2008     
+Santa Ana Freeway                       Columbus                 Wyoming                  WA                       03-12-2008     
+Fontaine Road                           Tallahassee              Iowa                     NH                       08-02-2007     
+San Ysidro Blvd                         Albany                   Utah                     LA                       06-01-2008     
+Steele Lane                             Austin                   West Virginia            ND                       26-05-2008     
+Monroe Street                           Columbia                 Nevada                   MD                       25-06-2007     
+North Erringer Road                     Olympia                  Georgia                  KY                       08-08-2008     
+Katella Avenue                          Olympia                  Mississippi              RI                       13-11-2008     
+Bailard Avenue                          Topeka                   Idaho                    GA                       19-11-2008     
+Lake Tahoe Blvd.                        Dover                    Rhode Island             OR                       09-07-2008     
+East Calle Primera                      Bismarck                 Texas                    PA                       08-02-2007     
+Richmond Hill                           Tallahassee              Virginia                 IA                       20-05-2007     
+Hutchinson Rd                           Springfield              South Dakota             WV                       19-02-2008     
+N Harrison St                           Atlanta                  Oklahoma                 NY                       07-03-2008     
+Padre Boulevard                         Columbia                 Colorado                 ID                       28-06-2007     
+Steele Lane                             Juneau                   North Carolina           ME                       12-01-2008     
+W. Russell St.                          Salem                    Rhode Island             UT                       18-07-2007     
+San Marcos                              Lincoln                  South Carolina           NY                       07-09-2008     
+North Ventu Park Road                   Honolulu                 Wyoming                  OH                       14-06-2008     
+Woodson Rd.                             Cheyenne                 Maryland                 NC                       24-12-2008     
+Santa Monica Road                       Providence               Oregon                   WV                       30-07-2008     
+Erringer Road                           Helena                   North Dakota             ND                       20-06-2007     
+Santa Ana Freeway                       Topeka                   Washington               AL                       27-02-2008     
+Milpas Street                           Augusta                  Delaware                 MS                       22-01-2007     
+Tully Road East                         Montgomery               Utah                     SD                       15-11-2008     
+Bayshore Freeway                        Honolulu                 Vermont                  NM                       09-03-2007     
+Grandview Drive                         Topeka                   Nebraska                 VT                       09-10-2008     
+Moreno Drive                            Juneau                   Arizona                  NV                       25-06-2007     
+Santa Rosa North                        Jackson                  Alaska                   MO                       26-07-2008     
+El Camino Real                          Nashville                Nevada                   SD                       15-01-2007     
+Lake Tahoe Blvd.                        Phoenix                  California               CT                       18-02-2007     
+E Fowler Avenue                         Austin                   New Hampshire            IA                       10-02-2007     
+Camelback Rd                            Frankfort                Oklahoma                 LA                       11-12-2008     
+Cabrillo Highway                        Nashville                Ohio                     AK                       26-08-2008     
+Camelback Rd                            Jefferson City           Indiana                  CO                       09-03-2007     
+Jean de la Fontaine                     Lincoln                  Illinois                 ME                       24-04-2007     
+Carpinteria South                       Atlanta                  Iowa                     RI                       21-08-2007     
+South Highway                           Pierre                   Wisconsin                KY                       13-11-2007     
+San Simeon                              Tallahassee              Minnesota                NY                       20-02-2008     
+Santa Ana Freeway                       Albany                   Colorado                 ID                       11-11-2007     
+Santa Rosa South                        Frankfort                South Dakota             NH                       02-06-2007     
+Burnett Road                            Springfield              Maine                    MA                       28-03-2007     
+South Roosevelt Drive                   Helena                   Texas                    MT                       21-04-2008     
+North Erringer Road                     Concord                  Illinois                 GA                       14-05-2007     
+North Erringer Road                     Springfield              New Hampshire            NH                       17-06-2007     
+Cabrillo Highway                        Albany                   Ohio                     WV                       01-10-2008     
+Bailard Avenue                          Columbia                 Missouri                 AK                       29-06-2008     
+Richmond Hill                           Columbus                 North Carolina           MN                       04-08-2007     
+Greenwood Road                          Boston                   Indiana                  ME                       14-05-2008     
+Jean de la Fontaine                     Augusta                  Vermont                  CT                       04-05-2008     
+Jones Road                              Carson City              Ohio                     IN                       30-06-2008     
+Bowles Avenue                           Jackson                  Arkansas                 NC                       27-09-2007     
+Tanger Blvd                             Des Moines               California               NH                       01-10-2007     
+San Simeon                              Boston                   Texas                    OR                       28-01-2007     
+French Camp Turnpike Road               Bismarck                 Nebraska                 AZ                       23-09-2007     
+Santa Ana Freeway                       Lansing                  Oregon                   AK                       15-05-2007     
+Grandview Drive                         Indianapolis             Oklahoma                 IN                       29-01-2007     
+San Simeon                              Sacramento               Georgia                  KS                       19-09-2008     
+East Main Street                        Albany                   Virginia                 WV                       23-05-2008     
+Greenwood Road                          Dover                    Colorado                 VT                       08-10-2007     
+Santa Rosa North                        Nashville                California               MS                       20-10-2007     
+East Main Street                        Baton Rouge              Idaho                    TX                       27-02-2007     
+North Ventu Park Road                   Des Moines               Tennessee                PA                       27-08-2008     
+Bowles Avenue                           Juneau                   New York                 OH                       18-12-2008     
+Apalachee Parkway                       Des Moines               North Dakota             MN                       14-03-2008     
+Cerrillos Road                          Richmond                 Idaho                    MS                       19-08-2008     
+Westside Freeway                        Topeka                   Illinois                 ID                       03-04-2008     
+Santa Ana Freeway                       Santa Fe                 West Virginia            AL                       29-04-2007     
+Greenwood Road                          Springfield              Minnesota                CA                       13-04-2007     
+Lake Tahoe Blvd.                        Montpelier               Utah                     VA                       09-04-2008     
+Steele Lane                             Albany                   Rhode Island             RI                       04-10-2007     
+North Preisker Lane                     Baton Rouge              North Carolina           UT                       30-07-2008     
+Greenwood Road                          Albany                   Mississippi              MN                       31-03-2007     
+Via Real                                Jefferson City           Montana                  FL                       24-04-2008     
+San Simeon                              Trenton                  Georgia                  MI                       05-03-2007     
+El Camino Real                          Cheyenne                 Vermont                  CO                       19-08-2007     
+East Calle Primera                      Jefferson City           South Dakota             WI                       21-06-2008     
+Lawrenceville Suwanee                   Boise                    Maryland                 LA                       24-09-2008     
+Cleveland Ave.                          Dover                    Louisiana                KS                       06-02-2008     
+Cleveland Ave.                          Augusta                  Arkansas                 NY                       14-12-2008     
+Bailard Avenue                          Providence               Colorado                 RI                       06-10-2007     
+Fairview Avenue                         Annapolis                Illinois                 NV                       04-06-2007     
+Corona Del Mar                          Augusta                  Utah                     CT                       02-09-2007     
+Santa Rosa North                        Lincoln                  Nevada                   VT                       26-06-2008     
+Cleveland Ave.                          Des Moines               Maryland                 CT                       29-08-2008     
+Lindbergh Blvd                          Columbus                 Ohio                     RI                       19-01-2007     
+San Simeon                              Bismarck                 Nevada                   NY                       20-08-2008     
+Camelback Rd                            Columbia                 West Virginia            HI                       29-01-2007     
+Katella Avenue                          Nashville                West Virginia            IN                       06-03-2007     
+Corona Del Mar                          Oklahoma City            Nevada                   VA                       14-10-2008     
+Milpas Street                           Helena                   California               LA                       30-09-2007     
+N Harrison St                           Harrisburg               New Jersey               NE                       09-04-2007     
+Hutchinson Rd                           Olympia                  Illinois                 KS                       02-10-2007     
+Santa Rosa South                        Madison                  Pennsylvania             WI                       01-09-2007     
+Redwood Highway                         Denver                   Wisconsin                KS                       15-02-2008     
+San Ysidro Blvd                         Raleigh                  Indiana                  VT                       02-12-2008     
+Redwood Highway                         Carson City              West Virginia            OH                       21-08-2008     
+Via Real                                Jefferson City           Indiana                  NH                       06-02-2008     
+North Broadway Street                   Salem                    New Hampshire            MO                       23-11-2008     
+Steele Lane                             Hartford                 New Mexico               KS                       11-07-2007     
+Bailard Avenue                          Saint Paul               Montana                  WY                       06-11-2008     
+Santa Rosa South                        Providence               Illinois                 NY                       05-03-2007     
+Harbor Dr                               Salt Lake City           Tennessee                PA                       28-06-2008     
+Cabrillo Highway                        Raleigh                  Mississippi              HI                       25-06-2007     
+Carpinteria Avenue                      Columbia                 Massachusetts            MN                       13-11-2008     
+Carpinteria South                       Santa Fe                 Maine                    VA                       23-10-2007     
+Steele Lane                             Jefferson City           Tennessee                KY                       19-02-2007     
+Jean de la Fontaine                     Concord                  North Carolina           NE                       14-07-2007     
+Corona Del Mar                          Charleston               New Hampshire            KY                       11-12-2007     
+Santa Rosa South                        Montgomery               Iowa                     NM                       28-07-2007     
+San Luis Obispo North                   Salem                    Tennessee                GA                       04-12-2008     
+Carpinteria Avenue                      Columbus                 Arkansas                 TX                       31-07-2008     
+Cleveland Ave.                          Sacramento               South Dakota             MD                       05-05-2008     
+Katella Avenue                          Springfield              Wyoming                  PA                       18-12-2007     
+Richmond Hill                           Springfield              Mississippi              WV                       03-08-2008     
+Fairview Avenue                         Albany                   North Carolina           AL                       04-09-2007     
+North Broadway Street                   Santa Fe                 Idaho                    MT                       06-05-2007     
+Newbury Road                            Trenton                  New Hampshire            VT                       23-06-2007     
+Santa Ana Freeway                       Concord                  Vermont                  AR                       19-06-2008     
+Lawrenceville Suwanee                   Columbus                 California               MN                       22-08-2007     
+Castillo Drive                          Nashville                Virginia                 FL                       10-10-2008     
+Greenwood Road                          Jackson                  Arkansas                 NE                       05-03-2007     
+Jones Road                              Montpelier               New Jersey               CA                       03-09-2007     
+Bayshore Freeway                        Bismarck                 Louisiana                ID                       23-12-2007     
+E Fowler Avenue                         Phoenix                  Georgia                  OR                       23-01-2008     
+Newbury Road                            Juneau                   Georgia                  RI                       21-10-2008     
+Cerrillos Road                          Austin                   Vermont                  NV                       28-05-2007     
+San Marcos                              Raleigh                  Ohio                     NJ                       13-12-2008     
+Harry S Truman Blvd                     Augusta                  Ohio                     NJ                       23-04-2007     
+Cabrillo Highway                        Oklahoma City            Tennessee                WV                       30-06-2007     
+Burnett Road                            Boise                    South Dakota             KS                       25-05-2008     
+El Camino Real                          Frankfort                New Hampshire            AK                       27-08-2007     
+East Calle Primera                      Augusta                  Minnesota                NY                       10-10-2008     
+Lake Tahoe Blvd.                        Indianapolis             Tennessee                TN                       19-11-2008     
+N Kentwood                              Salt Lake City           Virginia                 TX                       02-04-2008     
+San Diego Freeway                       Salt Lake City           Indiana                  NJ                       06-08-2007     
+Bayshore Freeway                        Hartford                 Georgia                  KY                       21-04-2007     
+Cabrillo Highway                        Sacramento               Hawaii                   ID                       21-05-2007     
+Westside Freeway                        Austin                   Utah                     NC                       10-11-2007     
+Timberlane Drive                        Des Moines               New Hampshire            OH                       15-01-2007     
+North Erringer Road                     Harrisburg               Alabama                  NJ                       29-07-2007     
+East Main Street                        Little Rock              New Mexico               KY                       17-06-2008     
+Carpinteria North                       Saint Paul               Illinois                 NY                       21-08-2007     
+Fairview Avenue                         Boston                   Indiana                  OK                       29-07-2008     
+East Calle Primera                      Indianapolis             Illinois                 VT                       03-03-2008     
+Cerrillos Road                          Atlanta                  Rhode Island             TN                       07-07-2007     
+Fontaine Road                           Atlanta                  Kentucky                 OK                       02-06-2007     
+Jones Road                              Madison                  Massachusetts            FL                       19-09-2008     
+Moreno Drive                            Baton Rouge              Kentucky                 WI                       01-02-2007     
+Bowles Avenue                           Nashville                New Hampshire            GA                       07-08-2008     
+Redwood Highway                         Columbus                 New Hampshire            ND                       17-10-2008     
+Richmond Hill                           Harrisburg               Iowa                     FL                       19-04-2008     
+El Camino Real                          Tallahassee              Wisconsin                TN                       24-02-2007     
+San Simeon                              Tallahassee              Nebraska                 WA                       18-08-2008     
+Burnett Road                            Salt Lake City           Arkansas                 MS                       25-08-2007     
+East Fry Blvd.                          Olympia                  Arkansas                 CA                       29-03-2007     
+Westside Freeway                        Baton Rouge              West Virginia            KY                       27-03-2008     
+Moreno Drive                            Boston                   Massachusetts            IA                       15-12-2007     
+Tully Road East                         Carson City              Maryland                 WV                       30-01-2007     
+Lawrenceville Suwanee                   Lansing                  Ohio                     MO                       25-12-2007     
+Carpinteria Avenue                      Denver                   Nebraska                 KY                       29-05-2008     
+Westside Freeway                        Nashville                North Dakota             AL                       21-03-2007     
+North Erringer Road                     Montpelier               New Mexico               WI                       25-07-2007     
+Bowles Avenue                           Jackson                  North Dakota             MA                       29-03-2007     
+San Marcos                              Bismarck                 Wisconsin                AZ                       27-03-2008     
+North Ventu Park Road                   Phoenix                  Washington               NY                       12-05-2008     
+San Luis Obispo North                   Charleston               Arizona                  CT                       12-03-2007     
+Castillo Drive                          Annapolis                Idaho                    AK                       02-02-2007     
+W. Russell St.                          Oklahoma City            Hawaii                   SD                       22-06-2007     
+Newbury Road                            Bismarck                 New Hampshire            WY                       25-02-2007     
+Tanger Blvd                             Augusta                  Kansas                   GA                       07-03-2007     
+North Atherton Street                   Des Moines               New Mexico               TN                       11-05-2008     
+East Main Street                        Columbus                 Ohio                     KY                       23-12-2008     
+Santa Rosa North                        Richmond                 North Dakota             AZ                       06-04-2007     
+Camelback Rd                            Dover                    Montana                  UT                       09-06-2007     
+Castillo Drive                          Nashville                Mississippi              AK                       01-06-2007     
+North Ventu Park Road                   Hartford                 New Jersey               NV                       11-04-2007     
+Camelback Rd                            Topeka                   Delaware                 TX                       12-02-2008     
+San Ysidro Blvd                         Trenton                  Alaska                   VA                       02-12-2008     
+Cleveland Ave.                          Montgomery               Florida                  AK                       08-10-2007     
+N Harrison St                           Carson City              Vermont                  VA                       12-07-2008     
+South Highway                           Baton Rouge              Oklahoma                 VT                       25-11-2007     
+Monroe Street                           Montpelier               Tennessee                NC                       23-10-2008     
+Richmond Hill                           Topeka                   South Carolina           RI                       28-11-2008     
+Cerrillos Road                          Atlanta                  Louisiana                RI                       09-11-2008     
+Lindbergh Blvd                          Little Rock              Rhode Island             MI                       21-12-2007     
+Monroe Street                           Tallahassee              Nevada                   IN                       20-12-2007     
+East Calle Primera                      Denver                   Indiana                  IN                       31-08-2007     
+Cabrillo Highway                        Jackson                  Maine                    TN                       11-11-2008     
+Lindbergh Blvd                          Salt Lake City           New Hampshire            AK                       17-10-2008     
+W. Russell St.                          Phoenix                  Virginia                 SD                       23-03-2007     
+East Calle Primera                      Topeka                   Indiana                  NJ                       29-10-2008     
+South Highway                           Olympia                  Mississippi              UT                       22-01-2008     
+Cerrillos Road                          Olympia                  Massachusetts            TN                       30-10-2008     
+Santa Rosa North                        Little Rock              Minnesota                ID                       05-01-2008     
+Santa Monica Road                       Des Moines               Delaware                 TN                       14-08-2007     
+Santa Rosa South                        Tallahassee              California               LA                       25-06-2007     
+Steele Lane                             Bismarck                 South Carolina           MN                       23-06-2008     
+Jean de la Fontaine                     Little Rock              Minnesota                VT                       29-07-2007     
+Fontaine Road                           Columbus                 Nebraska                 OH                       30-04-2008     
+Lake Tahoe Blvd.                        Denver                   Hawaii                   OR                       15-02-2008     
+El Camino Real                          Carson City              Nebraska                 MO                       13-01-2007     
+Fairview Avenue                         Olympia                  Delaware                 MO                       12-07-2007     
+Jean de la Fontaine                     Nashville                Indiana                  SD                       02-02-2008     
+Westside Freeway                        Honolulu                 Kansas                   CO                       19-02-2007     
+Cabrillo Highway                        Baton Rouge              Wyoming                  NJ                       25-11-2007     
+San Luis Obispo North                   Des Moines               Massachusetts            AK                       22-01-2007     
+Carpinteria South                       Indianapolis             South Dakota             KS                       14-02-2007     
+Hutchinson Rd                           Augusta                  Minnesota                VT                       04-09-2008     

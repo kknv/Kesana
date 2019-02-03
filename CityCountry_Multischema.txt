@@ -1,0 +1,20 @@
+01;ABW;Aruba;North America;Caribbean;193.0;;103000;78.4;828.0;793.0;Aruba;Nonmetropolitan Territory of The Netherlands;Beatrix;129;AW
+02;1;Kabul;AFG;Kabol;1780000
+01;AFG;Afghanistan;Asia;Southern and Central Asia;652090.0;1919;22720000;45.9;5976.0;;Afganistan/Afqanestan;Islamic Emirate;Mohammad Omar;1;AF
+02;5;Amsterdam;NLD;Noord-Holland;731200
+01;AGO;Angola;Africa;Central Africa;1246700.0;1975;12878000;38.3;6648.0;7984.0;Angola;Republic;José Eduardo dos Santos;56;AO
+02;10;Tilburg;NLD;Noord-Brabant;193238
+01;AIA;Anguilla;North America;Caribbean;96.0;;8000;76.1;63.2;;Anguilla;Dependent Territory of the UK;Elisabeth II;62;AI
+01;BFA;Burkina Faso;Africa;Western Africa;274000.0;1960;11937000;46.7;2425.0;2201.0;Burkina Faso;Republic;Blaise Compaoré;549;BF
+02;21;Amersfoort;NLD;Utrecht;126270
+01;BIH;Bosnia and Herzegovina;Europe;Southern Europe;51197.0;1992;3972000;71.5;2841.0;;Bosna i Hercegovina;Federal Republic;Ante Jelavic;201;BA
+02;37;Constantine;DZA;Constantine;443727
+01;CHL;Chile;South America;South America;756626.0;1810;15211000;75.7;72949.0;75780.0;Chile;Republic;Ricardo Lagos Escobar;554;CL
+02;50;Tiaret;DZA;Tiaret;100118
+01;COD;Congo, The Democratic Republic of the;Africa;Central Africa;2344858.0;1960;51654000;48.8;6964.0;2474.0;République Démocratique du Congo;Republic;Joseph Kabila;2298;CD
+01;CUB;Cuba;North America;Caribbean;110861.0;1902;11201000;76.2;17843.0;18862.0;Cuba;Socialistic Republic;Fidel Castro Ruz;2413;CU
+02;56;Luanda;AGO;Luanda;2022000
+01;DMA;Dominica;North America;Caribbean;751.0;1978;71000;73.4;256.0;243.0;Dominica;Republic;Vernon Shaw;586;DM
+02;66;Sharja;ARE;Sharja;320095
+01;ESP;Spain;Europe;Southern Europe;505992.0;1492;39441700;78.8;553233.0;532031.0;España;Constitutional Monarchy;Juan Carlos I;653;ES
+02;72;Rosario;ARG;Santa FÃ©;907718
