@@ -1,0 +1,4079 @@
+1;Kabul;AFG;Afghanistan;Kabol;1780000
+2;Qandahar;AFG;Afghanistan;Qandahar;237500
+3;Herat;AFG;Afghanistan;Herat;186800
+4;Mazar-e-Sharif;AFG;Afghanistan;Balkh;127800
+5;Amsterdam;NLD;Netherlands;Noord-Holland;731200
+6;Rotterdam;NLD;Netherlands;Zuid-Holland;593321
+7;Haag;NLD;Netherlands;Zuid-Holland;440900
+8;Utrecht;NLD;Netherlands;Utrecht;234323
+9;Eindhoven;NLD;Netherlands;Noord-Brabant;201843
+10;Tilburg;NLD;Netherlands;Noord-Brabant;193238
+11;Groningen;NLD;Netherlands;Groningen;172701
+12;Breda;NLD;Netherlands;Noord-Brabant;160398
+13;Apeldoorn;NLD;Netherlands;Gelderland;153491
+14;Nijmegen;NLD;Netherlands;Gelderland;152463
+15;Enschede;NLD;Netherlands;Overijssel;149544
+16;Haarlem;NLD;Netherlands;Noord-Holland;148772
+17;Almere;NLD;Netherlands;Flevoland;142465
+18;Arnhem;NLD;Netherlands;Gelderland;138020
+19;Zaanstad;NLD;Netherlands;Noord-Holland;135621
+20;�?s-Hertogenbosch;NLD;Netherlands;Noord-Brabant;129170
+21;Amersfoort;NLD;Netherlands;Utrecht;126270
+22;Maastricht;NLD;Netherlands;Limburg;122087
+23;Dordrecht;NLD;Netherlands;Zuid-Holland;119811
+24;Leiden;NLD;Netherlands;Zuid-Holland;117196
+25;Haarlemmermeer;NLD;Netherlands;Noord-Holland;110722
+26;Zoetermeer;NLD;Netherlands;Zuid-Holland;110214
+27;Emmen;NLD;Netherlands;Drenthe;105853
+28;Zwolle;NLD;Netherlands;Overijssel;105819
+29;Ede;NLD;Netherlands;Gelderland;101574
+30;Delft;NLD;Netherlands;Zuid-Holland;95268
+31;Heerlen;NLD;Netherlands;Limburg;95052
+32;Alkmaar;NLD;Netherlands;Noord-Holland;92713
+33;Willemstad;ANT;Netherlands Antilles;Curaçao;2345
+34;Tirana;ALB;Albania;Tirana;270000
+35;Alger;DZA;Algeria;Alger;2168000
+36;Oran;DZA;Algeria;Oran;609823
+37;Constantine;DZA;Algeria;Constantine;443727
+38;Annaba;DZA;Algeria;Annaba;222518
+39;Batna;DZA;Algeria;Batna;183377
+40;Sétif;DZA;Algeria;Sétif;179055
+41;Sidi Bel Abb�?s;DZA;Algeria;Sidi Bel Abb�?s;153106
+42;Skikda;DZA;Algeria;Skikda;128747
+43;Biskra;DZA;Algeria;Biskra;128281
+44;Blida (el-Boulaida);DZA;Algeria;Blida;127284
+45;Béjaïa;DZA;Algeria;Béjaïa;117162
+46;Mostaganem;DZA;Algeria;Mostaganem;115212
+47;Tébessa;DZA;Algeria;Tébessa;112007
+48;Tlemcen (Tilimsen);DZA;Algeria;Tlemcen;110242
+49;Béchar;DZA;Algeria;Béchar;107311
+50;Tiaret;DZA;Algeria;Tiaret;100118
+51;Ech-Chleff (el-Asnam);DZA;Algeria;Chlef;96794
+52;Ghardaïa;DZA;Algeria;Ghardaïa;89415
+53;Tafuna;ASM;American Samoa;Tutuila;5200
+54;Fagatogo;ASM;American Samoa;Tutuila;2323
+55;Andorra la Vella;AND;Andorra;Andorra la Vella;21189
+56;Luanda;AGO;Angola;Luanda;2022000
+57;Huambo;AGO;Angola;Huambo;163100
+58;Lobito;AGO;Angola;Benguela;130000
+59;Benguela;AGO;Angola;Benguela;128300
+60;Namibe;AGO;Angola;Namibe;118200
+61;South Hill;AIA;Anguilla;�?;961
+62;The Valley;AIA;Anguilla;�?;595
+63;Saint John�?s;ATG;Antigua and Barbuda;St John;24000
+64;Dubai;ARE;United Arab Emirates;Dubai;669181
+65;Abu Dhabi;ARE;United Arab Emirates;Abu Dhabi;398695
+66;Sharja;ARE;United Arab Emirates;Sharja;320095
+67;al-Ayn;ARE;United Arab Emirates;Abu Dhabi;225970
+68;Ajman;ARE;United Arab Emirates;Ajman;114395
+69;Buenos Aires;ARG;Argentina;Distrito Federal;2982146
+70;La Matanza;ARG;Argentina;Buenos Aires;1266461
+71;Córdoba;ARG;Argentina;Córdoba;1157507
+72;Rosario;ARG;Argentina;Santa Fé;907718
+73;Lomas de Zamora;ARG;Argentina;Buenos Aires;622013
+74;Quilmes;ARG;Argentina;Buenos Aires;559249
+75;Almirante Brown;ARG;Argentina;Buenos Aires;538918
+76;La Plata;ARG;Argentina;Buenos Aires;521936
+77;Mar del Plata;ARG;Argentina;Buenos Aires;512880
+78;San Miguel de Tucumán;ARG;Argentina;Tucumán;470809
+79;Lanús;ARG;Argentina;Buenos Aires;469735
+80;Merlo;ARG;Argentina;Buenos Aires;463846
+81;General San Martín;ARG;Argentina;Buenos Aires;422542
+82;Salta;ARG;Argentina;Salta;367550
+83;Moreno;ARG;Argentina;Buenos Aires;356993
+84;Santa Fé;ARG;Argentina;Santa Fé;353063
+85;Avellaneda;ARG;Argentina;Buenos Aires;353046
+86;Tres de Febrero;ARG;Argentina;Buenos Aires;352311
+87;Morón;ARG;Argentina;Buenos Aires;349246
+88;Florencio Varela;ARG;Argentina;Buenos Aires;315432
+89;San Isidro;ARG;Argentina;Buenos Aires;306341
+90;Tigre;ARG;Argentina;Buenos Aires;296226
+91;Malvinas Argentinas;ARG;Argentina;Buenos Aires;290335
+92;Vicente López;ARG;Argentina;Buenos Aires;288341
+93;Berazategui;ARG;Argentina;Buenos Aires;276916
+94;Corrientes;ARG;Argentina;Corrientes;258103
+95;San Miguel;ARG;Argentina;Buenos Aires;248700
+96;Bahía Blanca;ARG;Argentina;Buenos Aires;239810
+97;Esteban Echeverría;ARG;Argentina;Buenos Aires;235760
+98;Resistencia;ARG;Argentina;Chaco;229212
+99;José C. Paz;ARG;Argentina;Buenos Aires;221754
+100;Paraná;ARG;Argentina;Entre Rios;207041
+101;Godoy Cruz;ARG;Argentina;Mendoza;206998
+102;Posadas;ARG;Argentina;Misiones;201273
+103;Guaymallén;ARG;Argentina;Mendoza;200595
+104;Santiago del Estero;ARG;Argentina;Santiago del Estero;189947
+105;San Salvador de Jujuy;ARG;Argentina;Jujuy;178748
+106;Hurlingham;ARG;Argentina;Buenos Aires;170028
+107;Neuquén;ARG;Argentina;Neuquén;167296
+108;Ituzaingó;ARG;Argentina;Buenos Aires;158197
+109;San Fernando;ARG;Argentina;Buenos Aires;153036
+110;Formosa;ARG;Argentina;Formosa;147636
+111;Las Heras;ARG;Argentina;Mendoza;145823
+112;La Rioja;ARG;Argentina;La Rioja;138117
+113;San Fernando del Valle de Cata;ARG;Argentina;Catamarca;134935
+114;Río Cuarto;ARG;Argentina;Córdoba;134355
+115;Comodoro Rivadavia;ARG;Argentina;Chubut;124104
+116;Mendoza;ARG;Argentina;Mendoza;123027
+117;San Nicolás de los Arroyos;ARG;Argentina;Buenos Aires;119302
+118;San Juan;ARG;Argentina;San Juan;119152
+119;Escobar;ARG;Argentina;Buenos Aires;116675
+120;Concordia;ARG;Argentina;Entre Rios;116485
+121;Pilar;ARG;Argentina;Buenos Aires;113428
+122;San Luis;ARG;Argentina;San Luis;110136
+123;Ezeiza;ARG;Argentina;Buenos Aires;99578
+124;San Rafael;ARG;Argentina;Mendoza;94651
+125;Tandil;ARG;Argentina;Buenos Aires;91101
+126;Yerevan;ARM;Armenia;Yerevan;1248700
+127;Gjumri;ARM;Armenia;¦irak;211700
+128;Vanadzor;ARM;Armenia;Lori;172700
+129;Oranjestad;ABW;Aruba;�?;29034
+130;Sydney;AUS;Australia;New South Wales;3276207
+131;Melbourne;AUS;Australia;Victoria;2865329
+132;Brisbane;AUS;Australia;Queensland;1291117
+133;Perth;AUS;Australia;West Australia;1096829
+134;Adelaide;AUS;Australia;South Australia;978100
+135;Canberra;AUS;Australia;Capital Region;322723
+136;Gold Coast;AUS;Australia;Queensland;311932
+137;Newcastle;AUS;Australia;New South Wales;270324
+138;Central Coast;AUS;Australia;New South Wales;227657
+139;Wollongong;AUS;Australia;New South Wales;219761
+140;Hobart;AUS;Australia;Tasmania;126118
+141;Geelong;AUS;Australia;Victoria;125382
+142;Townsville;AUS;Australia;Queensland;109914
+143;Cairns;AUS;Australia;Queensland;92273
+144;Baku;AZE;Azerbaijan;Baki;1787800
+145;G�?nc�?;AZE;Azerbaijan;G�?nc�?;299300
+146;Sumqayit;AZE;Azerbaijan;Sumqayit;283000
+147;Ming�?çevir;AZE;Azerbaijan;Ming�?çevir;93900
+148;Nassau;BHS;Bahamas;New Providence;172000
+149;al-Manama;BHR;Bahrain;al-Manama;148000
+150;Dhaka;BGD;Bangladesh;Dhaka;3612850
+151;Chittagong;BGD;Bangladesh;Chittagong;1392860
+152;Khulna;BGD;Bangladesh;Khulna;663340
+153;Rajshahi;BGD;Bangladesh;Rajshahi;294056
+154;Narayanganj;BGD;Bangladesh;Dhaka;202134
+155;Rangpur;BGD;Bangladesh;Rajshahi;191398
+156;Mymensingh;BGD;Bangladesh;Dhaka;188713
+157;Barisal;BGD;Bangladesh;Barisal;170232
+158;Tungi;BGD;Bangladesh;Dhaka;168702
+159;Jessore;BGD;Bangladesh;Khulna;139710
+160;Comilla;BGD;Bangladesh;Chittagong;135313
+161;Nawabganj;BGD;Bangladesh;Rajshahi;130577
+162;Dinajpur;BGD;Bangladesh;Rajshahi;127815
+163;Bogra;BGD;Bangladesh;Rajshahi;120170
+164;Sylhet;BGD;Bangladesh;Sylhet;117396
+165;Brahmanbaria;BGD;Bangladesh;Chittagong;109032
+166;Tangail;BGD;Bangladesh;Dhaka;106004
+167;Jamalpur;BGD;Bangladesh;Dhaka;103556
+168;Pabna;BGD;Bangladesh;Rajshahi;103277
+169;Naogaon;BGD;Bangladesh;Rajshahi;101266
+170;Sirajganj;BGD;Bangladesh;Rajshahi;99669
+171;Narsinghdi;BGD;Bangladesh;Dhaka;98342
+172;Saidpur;BGD;Bangladesh;Rajshahi;96777
+173;Gazipur;BGD;Bangladesh;Dhaka;96717
+174;Bridgetown;BRB;Barbados;St Michael;6070
+175;Antwerpen;BEL;Belgium;Antwerpen;446525
+176;Gent;BEL;Belgium;East Flanderi;224180
+177;Charleroi;BEL;Belgium;Hainaut;200827
+178;Li�?ge;BEL;Belgium;Li�?ge;185639
+179;Bruxelles [Brussel];BEL;Belgium;Bryssel;133859
+180;Brugge;BEL;Belgium;West Flanderi;116246
+181;Schaerbeek;BEL;Belgium;Bryssel;105692
+182;Namur;BEL;Belgium;Namur;105419
+183;Mons;BEL;Belgium;Hainaut;90935
+184;Belize City;BLZ;Belize;Belize City;55810
+185;Belmopan;BLZ;Belize;Cayo;7105
+186;Cotonou;BEN;Benin;Atlantique;536827
+187;Porto-Novo;BEN;Benin;Ouémé;194000
+188;Djougou;BEN;Benin;Atacora;134099
+189;Parakou;BEN;Benin;Borgou;103577
+190;Saint George;BMU;Bermuda;Saint George�?s;1800
+191;Hamilton;BMU;Bermuda;Hamilton;1200
+192;Thimphu;BTN;Bhutan;Thimphu;22000
+193;Santa Cruz de la Sierra;BOL;Bolivia;Santa Cruz;935361
+194;La Paz;BOL;Bolivia;La Paz;758141
+195;El Alto;BOL;Bolivia;La Paz;534466
+196;Cochabamba;BOL;Bolivia;Cochabamba;482800
+197;Oruro;BOL;Bolivia;Oruro;223553
+198;Sucre;BOL;Bolivia;Chuquisaca;178426
+199;Potosí;BOL;Bolivia;Potosí;140642
+200;Tarija;BOL;Bolivia;Tarija;125255
+201;Sarajevo;BIH;Bosnia and Herzegovina;Federaatio;360000
+202;Banja Luka;BIH;Bosnia and Herzegovina;Republika Srpska;143079
+203;Zenica;BIH;Bosnia and Herzegovina;Federaatio;96027
+204;Gaborone;BWA;Botswana;Gaborone;213017
+205;Francistown;BWA;Botswana;Francistown;101805
+206;São Paulo;BRA;Brazil;São Paulo;9968485
+207;Rio de Janeiro;BRA;Brazil;Rio de Janeiro;5598953
+208;Salvador;BRA;Brazil;Bahia;2302832
+209;Belo Horizonte;BRA;Brazil;Minas Gerais;2139125
+210;Fortaleza;BRA;Brazil;Ceará;2097757
+211;Brasília;BRA;Brazil;Distrito Federal;1969868
+212;Curitiba;BRA;Brazil;Paraná;1584232
+213;Recife;BRA;Brazil;Pernambuco;1378087
+214;Porto Alegre;BRA;Brazil;Rio Grande do Sul;1314032
+215;Manaus;BRA;Brazil;Amazonas;1255049
+216;Belém;BRA;Brazil;Pará;1186926
+217;Guarulhos;BRA;Brazil;São Paulo;1095874
+218;Goiânia;BRA;Brazil;Goiás;1056330
+219;Campinas;BRA;Brazil;São Paulo;950043
+220;São Gonçalo;BRA;Brazil;Rio de Janeiro;869254
+221;Nova Iguaçu;BRA;Brazil;Rio de Janeiro;862225
+222;São Luís;BRA;Brazil;Maranhão;837588
+223;Maceió;BRA;Brazil;Alagoas;786288
+224;Duque de Caxias;BRA;Brazil;Rio de Janeiro;746758
+225;São Bernardo do Campo;BRA;Brazil;São Paulo;723132
+226;Teresina;BRA;Brazil;Piauí;691942
+227;Natal;BRA;Brazil;Rio Grande do Norte;688955
+228;Osasco;BRA;Brazil;São Paulo;659604
+229;Campo Grande;BRA;Brazil;Mato Grosso do Sul;649593
+230;Santo André;BRA;Brazil;São Paulo;630073
+231;João Pessoa;BRA;Brazil;Paraíba;584029
+232;Jaboatão dos Guararapes;BRA;Brazil;Pernambuco;558680
+233;Contagem;BRA;Brazil;Minas Gerais;520801
+234;São José dos Campos;BRA;Brazil;São Paulo;515553
+235;Uberlândia;BRA;Brazil;Minas Gerais;487222
+236;Feira de Santana;BRA;Brazil;Bahia;479992
+237;Ribeirão Preto;BRA;Brazil;São Paulo;473276
+238;Sorocaba;BRA;Brazil;São Paulo;466823
+239;Niterói;BRA;Brazil;Rio de Janeiro;459884
+240;Cuiabá;BRA;Brazil;Mato Grosso;453813
+241;Juiz de Fora;BRA;Brazil;Minas Gerais;450288
+242;Aracaju;BRA;Brazil;Sergipe;445555
+243;São João de Meriti;BRA;Brazil;Rio de Janeiro;440052
+244;Londrina;BRA;Brazil;Paraná;432257
+245;Joinville;BRA;Brazil;Santa Catarina;428011
+246;Belford Roxo;BRA;Brazil;Rio de Janeiro;425194
+247;Santos;BRA;Brazil;São Paulo;408748
+248;Ananindeua;BRA;Brazil;Pará;400940
+249;Campos dos Goytacazes;BRA;Brazil;Rio de Janeiro;398418
+250;Mauá;BRA;Brazil;São Paulo;375055
+251;Carapicuíba;BRA;Brazil;São Paulo;357552
+252;Olinda;BRA;Brazil;Pernambuco;354732
+253;Campina Grande;BRA;Brazil;Paraíba;352497
+254;São José do Rio Preto;BRA;Brazil;São Paulo;351944
+255;Caxias do Sul;BRA;Brazil;Rio Grande do Sul;349581
+256;Moji das Cruzes;BRA;Brazil;São Paulo;339194
+257;Diadema;BRA;Brazil;São Paulo;335078
+258;Aparecida de Goiânia;BRA;Brazil;Goiás;324662
+259;Piracicaba;BRA;Brazil;São Paulo;319104
+260;Cariacica;BRA;Brazil;Espírito Santo;319033
+261;Vila Velha;BRA;Brazil;Espírito Santo;318758
+262;Pelotas;BRA;Brazil;Rio Grande do Sul;315415
+263;Bauru;BRA;Brazil;São Paulo;313670
+264;Porto Velho;BRA;Brazil;Rond�?nia;309750
+265;Serra;BRA;Brazil;Espírito Santo;302666
+266;Betim;BRA;Brazil;Minas Gerais;302108
+267;Jundíaí;BRA;Brazil;São Paulo;296127
+268;Canoas;BRA;Brazil;Rio Grande do Sul;294125
+269;Franca;BRA;Brazil;São Paulo;290139
+270;São Vicente;BRA;Brazil;São Paulo;286848
+271;Maringá;BRA;Brazil;Paraná;286461
+272;Montes Claros;BRA;Brazil;Minas Gerais;286058
+273;Anápolis;BRA;Brazil;Goiás;282197
+274;Florianópolis;BRA;Brazil;Santa Catarina;281928
+275;Petrópolis;BRA;Brazil;Rio de Janeiro;279183
+276;Itaquaquecetuba;BRA;Brazil;São Paulo;270874
+277;Vitória;BRA;Brazil;Espírito Santo;270626
+278;Ponta Grossa;BRA;Brazil;Paraná;268013
+279;Rio Branco;BRA;Brazil;Acre;259537
+280;Foz do Iguaçu;BRA;Brazil;Paraná;259425
+281;Macapá;BRA;Brazil;Amapá;256033
+282;Ilhéus;BRA;Brazil;Bahia;254970
+283;Vitória da Conquista;BRA;Brazil;Bahia;253587
+284;Uberaba;BRA;Brazil;Minas Gerais;249225
+285;Paulista;BRA;Brazil;Pernambuco;248473
+286;Limeira;BRA;Brazil;São Paulo;245497
+287;Blumenau;BRA;Brazil;Santa Catarina;244379
+288;Caruaru;BRA;Brazil;Pernambuco;244247
+289;Santarém;BRA;Brazil;Pará;241771
+290;Volta Redonda;BRA;Brazil;Rio de Janeiro;240315
+291;Novo Hamburgo;BRA;Brazil;Rio Grande do Sul;239940
+292;Caucaia;BRA;Brazil;Ceará;238738
+293;Santa Maria;BRA;Brazil;Rio Grande do Sul;238473
+294;Cascavel;BRA;Brazil;Paraná;237510
+295;Guarujá;BRA;Brazil;São Paulo;237206
+296;Ribeirão das Neves;BRA;Brazil;Minas Gerais;232685
+297;Governador Valadares;BRA;Brazil;Minas Gerais;231724
+298;Taubaté;BRA;Brazil;São Paulo;229130
+299;Imperatriz;BRA;Brazil;Maranhão;224564
+300;Gravataí;BRA;Brazil;Rio Grande do Sul;223011
+301;Embu;BRA;Brazil;São Paulo;222223
+302;Mossoró;BRA;Brazil;Rio Grande do Norte;214901
+303;Várzea Grande;BRA;Brazil;Mato Grosso;214435
+304;Petrolina;BRA;Brazil;Pernambuco;210540
+305;Barueri;BRA;Brazil;São Paulo;208426
+306;Viamão;BRA;Brazil;Rio Grande do Sul;207557
+307;Ipatinga;BRA;Brazil;Minas Gerais;206338
+308;Juazeiro;BRA;Brazil;Bahia;201073
+309;Juazeiro do Norte;BRA;Brazil;Ceará;199636
+310;Taboão da Serra;BRA;Brazil;São Paulo;197550
+311;São José dos Pinhais;BRA;Brazil;Paraná;196884
+312;Magé;BRA;Brazil;Rio de Janeiro;196147
+313;Suzano;BRA;Brazil;São Paulo;195434
+314;São Leopoldo;BRA;Brazil;Rio Grande do Sul;189258
+315;Marília;BRA;Brazil;São Paulo;188691
+316;São Carlos;BRA;Brazil;São Paulo;187122
+317;Sumaré;BRA;Brazil;São Paulo;186205
+318;Presidente Prudente;BRA;Brazil;São Paulo;185340
+319;Divinópolis;BRA;Brazil;Minas Gerais;185047
+320;Sete Lagoas;BRA;Brazil;Minas Gerais;182984
+321;Rio Grande;BRA;Brazil;Rio Grande do Sul;182222
+322;Itabuna;BRA;Brazil;Bahia;182148
+323;Jequié;BRA;Brazil;Bahia;179128
+324;Arapiraca;BRA;Brazil;Alagoas;178988
+325;Colombo;BRA;Brazil;Paraná;177764
+326;Americana;BRA;Brazil;São Paulo;177409
+327;Alvorada;BRA;Brazil;Rio Grande do Sul;175574
+328;Araraquara;BRA;Brazil;São Paulo;174381
+329;Itaboraí;BRA;Brazil;Rio de Janeiro;173977
+330;Santa Bárbara d�?Oeste;BRA;Brazil;São Paulo;171657
+331;Nova Friburgo;BRA;Brazil;Rio de Janeiro;170697
+332;Jacareí;BRA;Brazil;São Paulo;170356
+333;Araçatuba;BRA;Brazil;São Paulo;169303
+334;Barra Mansa;BRA;Brazil;Rio de Janeiro;168953
+335;Praia Grande;BRA;Brazil;São Paulo;168434
+336;Marabá;BRA;Brazil;Pará;167795
+337;Criciúma;BRA;Brazil;Santa Catarina;167661
+338;Boa Vista;BRA;Brazil;Roraima;167185
+339;Passo Fundo;BRA;Brazil;Rio Grande do Sul;166343
+340;Dourados;BRA;Brazil;Mato Grosso do Sul;164716
+341;Santa Luzia;BRA;Brazil;Minas Gerais;164704
+342;Rio Claro;BRA;Brazil;São Paulo;163551
+343;Maracanaú;BRA;Brazil;Ceará;162022
+344;Guarapuava;BRA;Brazil;Paraná;160510
+345;Rondonópolis;BRA;Brazil;Mato Grosso;155115
+346;São José;BRA;Brazil;Santa Catarina;155105
+347;Cachoeiro de Itapemirim;BRA;Brazil;Espírito Santo;155024
+348;Nilópolis;BRA;Brazil;Rio de Janeiro;153383
+349;Itapevi;BRA;Brazil;São Paulo;150664
+350;Cabo de Santo Agostinho;BRA;Brazil;Pernambuco;149964
+351;Camaçari;BRA;Brazil;Bahia;149146
+352;Sobral;BRA;Brazil;Ceará;146005
+353;Itajaí;BRA;Brazil;Santa Catarina;145197
+354;Chapecó;BRA;Brazil;Santa Catarina;144158
+355;Cotia;BRA;Brazil;São Paulo;140042
+356;Lages;BRA;Brazil;Santa Catarina;139570
+357;Ferraz de Vasconcelos;BRA;Brazil;São Paulo;139283
+358;Indaiatuba;BRA;Brazil;São Paulo;135968
+359;Hortolândia;BRA;Brazil;São Paulo;135755
+360;Caxias;BRA;Brazil;Maranhão;133980
+361;São Caetano do Sul;BRA;Brazil;São Paulo;133321
+362;Itu;BRA;Brazil;São Paulo;132736
+363;Nossa Senhora do Socorro;BRA;Brazil;Sergipe;131351
+364;Parnaíba;BRA;Brazil;Piauí;129756
+365;Poços de Caldas;BRA;Brazil;Minas Gerais;129683
+366;Teresópolis;BRA;Brazil;Rio de Janeiro;128079
+367;Barreiras;BRA;Brazil;Bahia;127801
+368;Castanhal;BRA;Brazil;Pará;127634
+369;Alagoinhas;BRA;Brazil;Bahia;126820
+370;Itapecerica da Serra;BRA;Brazil;São Paulo;126672
+371;Uruguaiana;BRA;Brazil;Rio Grande do Sul;126305
+372;Paranaguá;BRA;Brazil;Paraná;126076
+373;Ibirité;BRA;Brazil;Minas Gerais;125982
+374;Timon;BRA;Brazil;Maranhão;125812
+375;Luziânia;BRA;Brazil;Goiás;125597
+376;Macaé;BRA;Brazil;Rio de Janeiro;125597
+377;Teófilo Otoni;BRA;Brazil;Minas Gerais;124489
+378;Moji-Guaçu;BRA;Brazil;São Paulo;123782
+379;Palmas;BRA;Brazil;Tocantins;121919
+380;Pindamonhangaba;BRA;Brazil;São Paulo;121904
+381;Francisco Morato;BRA;Brazil;São Paulo;121197
+382;Bagé;BRA;Brazil;Rio Grande do Sul;120793
+383;Sapucaia do Sul;BRA;Brazil;Rio Grande do Sul;120217
+384;Cabo Frio;BRA;Brazil;Rio de Janeiro;119503
+385;Itapetininga;BRA;Brazil;São Paulo;119391
+386;Patos de Minas;BRA;Brazil;Minas Gerais;119262
+387;Camaragibe;BRA;Brazil;Pernambuco;118968
+388;Bragança Paulista;BRA;Brazil;São Paulo;116929
+389;Queimados;BRA;Brazil;Rio de Janeiro;115020
+390;Araguaína;BRA;Brazil;Tocantins;114948
+391;Garanhuns;BRA;Brazil;Pernambuco;114603
+392;Vitória de Santo Antão;BRA;Brazil;Pernambuco;113595
+393;Santa Rita;BRA;Brazil;Paraíba;113135
+394;Barbacena;BRA;Brazil;Minas Gerais;113079
+395;Abaetetuba;BRA;Brazil;Pará;111258
+396;Jaú;BRA;Brazil;São Paulo;109965
+397;Lauro de Freitas;BRA;Brazil;Bahia;109236
+398;Franco da Rocha;BRA;Brazil;São Paulo;108964
+399;Teixeira de Freitas;BRA;Brazil;Bahia;108441
+400;Varginha;BRA;Brazil;Minas Gerais;108314
+401;Ribeirão Pires;BRA;Brazil;São Paulo;108121
+402;Sabará;BRA;Brazil;Minas Gerais;107781
+403;Catanduva;BRA;Brazil;São Paulo;107761
+404;Rio Verde;BRA;Brazil;Goiás;107755
+405;Botucatu;BRA;Brazil;São Paulo;107663
+406;Colatina;BRA;Brazil;Espírito Santo;107354
+407;Santa Cruz do Sul;BRA;Brazil;Rio Grande do Sul;106734
+408;Linhares;BRA;Brazil;Espírito Santo;106278
+409;Apucarana;BRA;Brazil;Paraná;105114
+410;Barretos;BRA;Brazil;São Paulo;104156
+411;Guaratinguetá;BRA;Brazil;São Paulo;103433
+412;Cachoeirinha;BRA;Brazil;Rio Grande do Sul;103240
+413;Codó;BRA;Brazil;Maranhão;103153
+414;Jaraguá do Sul;BRA;Brazil;Santa Catarina;102580
+415;Cubatão;BRA;Brazil;São Paulo;102372
+416;Itabira;BRA;Brazil;Minas Gerais;102217
+417;Itaituba;BRA;Brazil;Pará;101320
+418;Araras;BRA;Brazil;São Paulo;101046
+419;Resende;BRA;Brazil;Rio de Janeiro;100627
+420;Atibaia;BRA;Brazil;São Paulo;100356
+421;Pouso Alegre;BRA;Brazil;Minas Gerais;100028
+422;Toledo;BRA;Brazil;Paraná;99387
+423;Crato;BRA;Brazil;Ceará;98965
+424;Passos;BRA;Brazil;Minas Gerais;98570
+425;Araguari;BRA;Brazil;Minas Gerais;98399
+426;São José de Ribamar;BRA;Brazil;Maranhão;98318
+427;Pinhais;BRA;Brazil;Paraná;98198
+428;Sertãozinho;BRA;Brazil;São Paulo;98140
+429;Conselheiro Lafaiete;BRA;Brazil;Minas Gerais;97507
+430;Paulo Afonso;BRA;Brazil;Bahia;97291
+431;Angra dos Reis;BRA;Brazil;Rio de Janeiro;96864
+432;Eunápolis;BRA;Brazil;Bahia;96610
+433;Salto;BRA;Brazil;São Paulo;96348
+434;Ourinhos;BRA;Brazil;São Paulo;96291
+435;Parnamirim;BRA;Brazil;Rio Grande do Norte;96210
+436;Jacobina;BRA;Brazil;Bahia;96131
+437;Coronel Fabriciano;BRA;Brazil;Minas Gerais;95933
+438;Birigui;BRA;Brazil;São Paulo;94685
+439;Tatuí;BRA;Brazil;São Paulo;93897
+440;Ji-Paraná;BRA;Brazil;Rond�?nia;93346
+441;Bacabal;BRA;Brazil;Maranhão;93121
+442;Cametá;BRA;Brazil;Pará;92779
+443;Guaíba;BRA;Brazil;Rio Grande do Sul;92224
+444;São Lourenço da Mata;BRA;Brazil;Pernambuco;91999
+445;Santana do Livramento;BRA;Brazil;Rio Grande do Sul;91779
+446;Votorantim;BRA;Brazil;São Paulo;91777
+447;Campo Largo;BRA;Brazil;Paraná;91203
+448;Patos;BRA;Brazil;Paraíba;90519
+449;Ituiutaba;BRA;Brazil;Minas Gerais;90507
+450;Corumbá;BRA;Brazil;Mato Grosso do Sul;90111
+451;Palhoça;BRA;Brazil;Santa Catarina;89465
+452;Barra do Piraí;BRA;Brazil;Rio de Janeiro;89388
+453;Bento Gonçalves;BRA;Brazil;Rio Grande do Sul;89254
+454;Poá;BRA;Brazil;São Paulo;89236
+455;�?guas Lindas de Goiás;BRA;Brazil;Goiás;89200
+456;London;GBR;United Kingdom;England;7285000
+457;Birmingham;GBR;United Kingdom;England;1013000
+458;Glasgow;GBR;United Kingdom;Scotland;619680
+459;Liverpool;GBR;United Kingdom;England;461000
+460;Edinburgh;GBR;United Kingdom;Scotland;450180
+461;Sheffield;GBR;United Kingdom;England;431607
+462;Manchester;GBR;United Kingdom;England;430000
+463;Leeds;GBR;United Kingdom;England;424194
+464;Bristol;GBR;United Kingdom;England;402000
+465;Cardiff;GBR;United Kingdom;Wales;321000
+466;Coventry;GBR;United Kingdom;England;304000
+467;Leicester;GBR;United Kingdom;England;294000
+468;Bradford;GBR;United Kingdom;England;289376
+469;Belfast;GBR;United Kingdom;North Ireland;287500
+470;Nottingham;GBR;United Kingdom;England;287000
+471;Kingston upon Hull;GBR;United Kingdom;England;262000
+472;Plymouth;GBR;United Kingdom;England;253000
+473;Stoke-on-Trent;GBR;United Kingdom;England;252000
+474;Wolverhampton;GBR;United Kingdom;England;242000
+475;Derby;GBR;United Kingdom;England;236000
+476;Swansea;GBR;United Kingdom;Wales;230000
+477;Southampton;GBR;United Kingdom;England;216000
+478;Aberdeen;GBR;United Kingdom;Scotland;213070
+479;Northampton;GBR;United Kingdom;England;196000
+480;Dudley;GBR;United Kingdom;England;192171
+481;Portsmouth;GBR;United Kingdom;England;190000
+482;Newcastle upon Tyne;GBR;United Kingdom;England;189150
+483;Sunderland;GBR;United Kingdom;England;183310
+484;Luton;GBR;United Kingdom;England;183000
+485;Swindon;GBR;United Kingdom;England;180000
+486;Southend-on-Sea;GBR;United Kingdom;England;176000
+487;Walsall;GBR;United Kingdom;England;174739
+488;Bournemouth;GBR;United Kingdom;England;162000
+489;Peterborough;GBR;United Kingdom;England;156000
+490;Brighton;GBR;United Kingdom;England;156124
+491;Blackpool;GBR;United Kingdom;England;151000
+492;Dundee;GBR;United Kingdom;Scotland;146690
+493;West Bromwich;GBR;United Kingdom;England;146386
+494;Reading;GBR;United Kingdom;England;148000
+495;Oldbury/Smethwick (Warley);GBR;United Kingdom;England;145542
+496;Middlesbrough;GBR;United Kingdom;England;145000
+497;Huddersfield;GBR;United Kingdom;England;143726
+498;Oxford;GBR;United Kingdom;England;144000
+499;Poole;GBR;United Kingdom;England;141000
+500;Bolton;GBR;United Kingdom;England;139020
+501;Blackburn;GBR;United Kingdom;England;140000
+502;Newport;GBR;United Kingdom;Wales;139000
+503;Preston;GBR;United Kingdom;England;135000
+504;Stockport;GBR;United Kingdom;England;132813
+505;Norwich;GBR;United Kingdom;England;124000
+506;Rotherham;GBR;United Kingdom;England;121380
+507;Cambridge;GBR;United Kingdom;England;121000
+508;Watford;GBR;United Kingdom;England;113080
+509;Ipswich;GBR;United Kingdom;England;114000
+510;Slough;GBR;United Kingdom;England;112000
+511;Exeter;GBR;United Kingdom;England;111000
+512;Cheltenham;GBR;United Kingdom;England;106000
+513;Gloucester;GBR;United Kingdom;England;107000
+514;Saint Helens;GBR;United Kingdom;England;106293
+515;Sutton Coldfield;GBR;United Kingdom;England;106001
+516;York;GBR;United Kingdom;England;104425
+517;Oldham;GBR;United Kingdom;England;103931
+518;Basildon;GBR;United Kingdom;England;100924
+519;Worthing;GBR;United Kingdom;England;100000
+520;Chelmsford;GBR;United Kingdom;England;97451
+521;Colchester;GBR;United Kingdom;England;96063
+522;Crawley;GBR;United Kingdom;England;97000
+523;Gillingham;GBR;United Kingdom;England;92000
+524;Solihull;GBR;United Kingdom;England;94531
+525;Rochdale;GBR;United Kingdom;England;94313
+526;Birkenhead;GBR;United Kingdom;England;93087
+527;Worcester;GBR;United Kingdom;England;95000
+528;Hartlepool;GBR;United Kingdom;England;92000
+529;Halifax;GBR;United Kingdom;England;91069
+530;Woking/Byfleet;GBR;United Kingdom;England;92000
+531;Southport;GBR;United Kingdom;England;90959
+532;Maidstone;GBR;United Kingdom;England;90878
+533;Eastbourne;GBR;United Kingdom;England;90000
+534;Grimsby;GBR;United Kingdom;England;89000
+535;Saint Helier;GBR;United Kingdom;Jersey;27523
+536;Douglas;GBR;United Kingdom;�?;23487
+537;Road Town;VGB;Virgin Islands, British;Tortola;8000
+538;Bandar Seri Begawan;BRN;Brunei;Brunei and Muara;21484
+539;Sofija;BGR;Bulgaria;Grad Sofija;1122302
+540;Plovdiv;BGR;Bulgaria;Plovdiv;342584
+541;Varna;BGR;Bulgaria;Varna;299801
+542;Burgas;BGR;Bulgaria;Burgas;195255
+543;Ruse;BGR;Bulgaria;Ruse;166467
+544;Stara Zagora;BGR;Bulgaria;Haskovo;147939
+545;Pleven;BGR;Bulgaria;Lovec;121952
+546;Sliven;BGR;Bulgaria;Burgas;105530
+547;Dobric;BGR;Bulgaria;Varna;100399
+548;¦umen;BGR;Bulgaria;Varna;94686
+549;Ouagadougou;BFA;Burkina Faso;Kadiogo;824000
+550;Bobo-Dioulasso;BFA;Burkina Faso;Houet;300000
+551;Koudougou;BFA;Burkina Faso;Boulkiemdé;105000
+552;Bujumbura;BDI;Burundi;Bujumbura;300000
+553;George Town;CYM;Cayman Islands;Grand Cayman;19600
+554;Santiago de Chile;CHL;Chile;Santiago;4703954
+555;Puente Alto;CHL;Chile;Santiago;386236
+556;Viña del Mar;CHL;Chile;Valparaíso;312493
+557;Valparaíso;CHL;Chile;Valparaíso;293800
+558;Talcahuano;CHL;Chile;Bíobío;277752
+559;Antofagasta;CHL;Chile;Antofagasta;251429
+560;San Bernardo;CHL;Chile;Santiago;241910
+561;Temuco;CHL;Chile;La Araucanía;233041
+562;Concepción;CHL;Chile;Bíobío;217664
+563;Rancagua;CHL;Chile;O�?Higgins;212977
+564;Arica;CHL;Chile;Tarapacá;189036
+565;Talca;CHL;Chile;Maule;187557
+566;Chillán;CHL;Chile;Bíobío;178182
+567;Iquique;CHL;Chile;Tarapacá;177892
+568;Los Angeles;CHL;Chile;Bíobío;158215
+569;Puerto Montt;CHL;Chile;Los Lagos;152194
+570;Coquimbo;CHL;Chile;Coquimbo;143353
+571;Osorno;CHL;Chile;Los Lagos;141468
+572;La Serena;CHL;Chile;Coquimbo;137409
+573;Calama;CHL;Chile;Antofagasta;137265
+574;Valdivia;CHL;Chile;Los Lagos;133106
+575;Punta Arenas;CHL;Chile;Magallanes;125631
+576;Copiapó;CHL;Chile;Atacama;120128
+577;Quilpué;CHL;Chile;Valparaíso;118857
+578;Curicó;CHL;Chile;Maule;115766
+579;Ovalle;CHL;Chile;Coquimbo;94854
+580;Coronel;CHL;Chile;Bíobío;93061
+581;San Pedro de la Paz;CHL;Chile;Bíobío;91684
+582;Melipilla;CHL;Chile;Santiago;91056
+583;Avarua;COK;Cook Islands;Rarotonga;11900
+584;San José;CRI;Costa Rica;San José;339131
+585;Djibouti;DJI;Djibouti;Djibouti;383000
+586;Roseau;DMA;Dominica;St George;16243
+587;Santo Domingo de Guzmán;DOM;Dominican Republic;Distrito Nacional;1609966
+588;Santiago de los Caballeros;DOM;Dominican Republic;Santiago;365463
+589;La Romana;DOM;Dominican Republic;La Romana;140204
+590;San Pedro de Macorís;DOM;Dominican Republic;San Pedro de Macorí;124735
+591;San Francisco de Macorís;DOM;Dominican Republic;Duarte;108485
+592;San Felipe de Puerto Plata;DOM;Dominican Republic;Puerto Plata;89423
+593;Guayaquil;ECU;Ecuador;Guayas;2070040
+594;Quito;ECU;Ecuador;Pichincha;1573458
+595;Cuenca;ECU;Ecuador;Azuay;270353
+596;Machala;ECU;Ecuador;El Oro;210368
+597;Santo Domingo de los Colorados;ECU;Ecuador;Pichincha;202111
+598;Portoviejo;ECU;Ecuador;Manabí;176413
+599;Ambato;ECU;Ecuador;Tungurahua;169612
+600;Manta;ECU;Ecuador;Manabí;164739
+601;Duran [Eloy Alfaro];ECU;Ecuador;Guayas;152514
+602;Ibarra;ECU;Ecuador;Imbabura;130643
+603;Quevedo;ECU;Ecuador;Los Ríos;129631
+604;Milagro;ECU;Ecuador;Guayas;124177
+605;Loja;ECU;Ecuador;Loja;123875
+606;Ríobamba;ECU;Ecuador;Chimborazo;123163
+607;Esmeraldas;ECU;Ecuador;Esmeraldas;123045
+608;Cairo;EGY;Egypt;Kairo;6789479
+609;Alexandria;EGY;Egypt;Aleksandria;3328196
+610;Giza;EGY;Egypt;Giza;2221868
+611;Shubra al-Khayma;EGY;Egypt;al-Qalyubiya;870716
+612;Port Said;EGY;Egypt;Port Said;469533
+613;Suez;EGY;Egypt;Suez;417610
+614;al-Mahallat al-Kubra;EGY;Egypt;al-Gharbiya;395402
+615;Tanta;EGY;Egypt;al-Gharbiya;371010
+616;al-Mansura;EGY;Egypt;al-Daqahliya;369621
+617;Luxor;EGY;Egypt;Luxor;360503
+618;Asyut;EGY;Egypt;Asyut;343498
+619;Bahtim;EGY;Egypt;al-Qalyubiya;275807
+620;Zagazig;EGY;Egypt;al-Sharqiya;267351
+621;al-Faiyum;EGY;Egypt;al-Faiyum;260964
+622;Ismailia;EGY;Egypt;Ismailia;254477
+623;Kafr al-Dawwar;EGY;Egypt;al-Buhayra;231978
+624;Assuan;EGY;Egypt;Assuan;219017
+625;Damanhur;EGY;Egypt;al-Buhayra;212203
+626;al-Minya;EGY;Egypt;al-Minya;201360
+627;Bani Suwayf;EGY;Egypt;Bani Suwayf;172032
+628;Qina;EGY;Egypt;Qina;171275
+629;Sawhaj;EGY;Egypt;Sawhaj;170125
+630;Shibin al-Kawm;EGY;Egypt;al-Minufiya;159909
+631;Bulaq al-Dakrur;EGY;Egypt;Giza;148787
+632;Banha;EGY;Egypt;al-Qalyubiya;145792
+633;Warraq al-Arab;EGY;Egypt;Giza;127108
+634;Kafr al-Shaykh;EGY;Egypt;Kafr al-Shaykh;124819
+635;Mallawi;EGY;Egypt;al-Minya;119283
+636;Bilbays;EGY;Egypt;al-Sharqiya;113608
+637;Mit Ghamr;EGY;Egypt;al-Daqahliya;101801
+638;al-Arish;EGY;Egypt;Shamal Sina;100447
+639;Talkha;EGY;Egypt;al-Daqahliya;97700
+640;Qalyub;EGY;Egypt;al-Qalyubiya;97200
+641;Jirja;EGY;Egypt;Sawhaj;95400
+642;Idfu;EGY;Egypt;Qina;94200
+643;al-Hawamidiya;EGY;Egypt;Giza;91700
+644;Disuq;EGY;Egypt;Kafr al-Shaykh;91300
+645;San Salvador;SLV;El Salvador;San Salvador;415346
+646;Santa Ana;SLV;El Salvador;Santa Ana;139389
+647;Mejicanos;SLV;El Salvador;San Salvador;138800
+648;Soyapango;SLV;El Salvador;San Salvador;129800
+649;San Miguel;SLV;El Salvador;San Miguel;127696
+650;Nueva San Salvador;SLV;El Salvador;La Libertad;98400
+651;Apopa;SLV;El Salvador;San Salvador;88800
+652;Asmara;ERI;Eritrea;Maekel;431000
+653;Madrid;ESP;Spain;Madrid;2879052
+654;Barcelona;ESP;Spain;Katalonia;1503451
+655;Valencia;ESP;Spain;Valencia;739412
+656;Sevilla;ESP;Spain;Andalusia;701927
+657;Zaragoza;ESP;Spain;Aragonia;603367
+658;Málaga;ESP;Spain;Andalusia;530553
+659;Bilbao;ESP;Spain;Baskimaa;357589
+660;Las Palmas de Gran Canaria;ESP;Spain;Canary Islands;354757
+661;Murcia;ESP;Spain;Murcia;353504
+662;Palma de Mallorca;ESP;Spain;Balears;326993
+663;Valladolid;ESP;Spain;Castilla and León;319998
+664;Córdoba;ESP;Spain;Andalusia;311708
+665;Vigo;ESP;Spain;Galicia;283670
+666;Alicante [Alacant];ESP;Spain;Valencia;272432
+667;Gijón;ESP;Spain;Asturia;267980
+668;L�?Hospitalet de Llobregat;ESP;Spain;Katalonia;247986
+669;Granada;ESP;Spain;Andalusia;244767
+670;A Coruña (La Coruña);ESP;Spain;Galicia;243402
+671;Vitoria-Gasteiz;ESP;Spain;Baskimaa;217154
+672;Santa Cruz de Tenerife;ESP;Spain;Canary Islands;213050
+673;Badalona;ESP;Spain;Katalonia;209635
+674;Oviedo;ESP;Spain;Asturia;200453
+675;Móstoles;ESP;Spain;Madrid;195351
+676;Elche [Elx];ESP;Spain;Valencia;193174
+677;Sabadell;ESP;Spain;Katalonia;184859
+678;Santander;ESP;Spain;Cantabria;184165
+679;Jerez de la Frontera;ESP;Spain;Andalusia;182660
+680;Pamplona [Iruña];ESP;Spain;Navarra;180483
+681;Donostia-San Sebastián;ESP;Spain;Baskimaa;179208
+682;Cartagena;ESP;Spain;Murcia;177709
+683;Leganés;ESP;Spain;Madrid;173163
+684;Fuenlabrada;ESP;Spain;Madrid;171173
+685;Almería;ESP;Spain;Andalusia;169027
+686;Terrassa;ESP;Spain;Katalonia;168695
+687;Alcalá de Henares;ESP;Spain;Madrid;164463
+688;Burgos;ESP;Spain;Castilla and León;162802
+689;Salamanca;ESP;Spain;Castilla and León;158720
+690;Albacete;ESP;Spain;Kastilia-La Mancha;147527
+691;Getafe;ESP;Spain;Madrid;145371
+692;Cádiz;ESP;Spain;Andalusia;142449
+693;Alcorcón;ESP;Spain;Madrid;142048
+694;Huelva;ESP;Spain;Andalusia;140583
+695;León;ESP;Spain;Castilla and León;139809
+696;Castellón de la Plana [Castell;ESP;Spain;Valencia;139712
+697;Badajoz;ESP;Spain;Extremadura;136613
+698;[San Cristóbal de] la Laguna;ESP;Spain;Canary Islands;127945
+699;Logroño;ESP;Spain;La Rioja;127093
+700;Santa Coloma de Gramenet;ESP;Spain;Katalonia;120802
+701;Tarragona;ESP;Spain;Katalonia;113016
+702;Lleida (Lérida);ESP;Spain;Katalonia;112207
+703;Jaén;ESP;Spain;Andalusia;109247
+704;Ourense (Orense);ESP;Spain;Galicia;109120
+705;Mataró;ESP;Spain;Katalonia;104095
+706;Algeciras;ESP;Spain;Andalusia;103106
+707;Marbella;ESP;Spain;Andalusia;101144
+708;Barakaldo;ESP;Spain;Baskimaa;98212
+709;Dos Hermanas;ESP;Spain;Andalusia;94591
+710;Santiago de Compostela;ESP;Spain;Galicia;93745
+711;Torrejón de Ardoz;ESP;Spain;Madrid;92262
+712;Cape Town;ZAF;South Africa;Western Cape;2352121
+713;Soweto;ZAF;South Africa;Gauteng;904165
+714;Johannesburg;ZAF;South Africa;Gauteng;756653
+715;Port Elizabeth;ZAF;South Africa;Eastern Cape;752319
+716;Pretoria;ZAF;South Africa;Gauteng;658630
+717;Inanda;ZAF;South Africa;KwaZulu-Natal;634065
+718;Durban;ZAF;South Africa;KwaZulu-Natal;566120
+719;Vanderbijlpark;ZAF;South Africa;Gauteng;468931
+720;Kempton Park;ZAF;South Africa;Gauteng;442633
+721;Alberton;ZAF;South Africa;Gauteng;410102
+722;Pinetown;ZAF;South Africa;KwaZulu-Natal;378810
+723;Pietermaritzburg;ZAF;South Africa;KwaZulu-Natal;370190
+724;Benoni;ZAF;South Africa;Gauteng;365467
+725;Randburg;ZAF;South Africa;Gauteng;341288
+726;Umlazi;ZAF;South Africa;KwaZulu-Natal;339233
+727;Bloemfontein;ZAF;South Africa;Free State;334341
+728;Vereeniging;ZAF;South Africa;Gauteng;328535
+729;Wonderboom;ZAF;South Africa;Gauteng;283289
+730;Roodepoort;ZAF;South Africa;Gauteng;279340
+731;Boksburg;ZAF;South Africa;Gauteng;262648
+732;Klerksdorp;ZAF;South Africa;North West;261911
+733;Soshanguve;ZAF;South Africa;Gauteng;242727
+734;Newcastle;ZAF;South Africa;KwaZulu-Natal;222993
+735;East London;ZAF;South Africa;Eastern Cape;221047
+736;Welkom;ZAF;South Africa;Free State;203296
+737;Kimberley;ZAF;South Africa;Northern Cape;197254
+738;Uitenhage;ZAF;South Africa;Eastern Cape;192120
+739;Chatsworth;ZAF;South Africa;KwaZulu-Natal;189885
+740;Mdantsane;ZAF;South Africa;Eastern Cape;182639
+741;Krugersdorp;ZAF;South Africa;Gauteng;181503
+742;Botshabelo;ZAF;South Africa;Free State;177971
+743;Brakpan;ZAF;South Africa;Gauteng;171363
+744;Witbank;ZAF;South Africa;Mpumalanga;167183
+745;Oberholzer;ZAF;South Africa;Gauteng;164367
+746;Germiston;ZAF;South Africa;Gauteng;164252
+747;Springs;ZAF;South Africa;Gauteng;162072
+748;Westonaria;ZAF;South Africa;Gauteng;159632
+749;Randfontein;ZAF;South Africa;Gauteng;120838
+750;Paarl;ZAF;South Africa;Western Cape;105768
+751;Potchefstroom;ZAF;South Africa;North West;101817
+752;Rustenburg;ZAF;South Africa;North West;97008
+753;Nigel;ZAF;South Africa;Gauteng;96734
+754;George;ZAF;South Africa;Western Cape;93818
+755;Ladysmith;ZAF;South Africa;KwaZulu-Natal;89292
+756;Addis Abeba;ETH;Ethiopia;Addis Abeba;2495000
+757;Dire Dawa;ETH;Ethiopia;Dire Dawa;164851
+758;Nazret;ETH;Ethiopia;Oromia;127842
+759;Gonder;ETH;Ethiopia;Amhara;112249
+760;Dese;ETH;Ethiopia;Amhara;97314
+761;Mekele;ETH;Ethiopia;Tigray;96938
+762;Bahir Dar;ETH;Ethiopia;Amhara;96140
+763;Stanley;FLK;Falkland Islands;East Falkland;1636
+764;Suva;FJI;Fiji Islands;Central;77366
+765;Quezon;PHL;Philippines;National Capital Reg;2173831
+766;Manila;PHL;Philippines;National Capital Reg;1581082
+767;Kalookan;PHL;Philippines;National Capital Reg;1177604
+768;Davao;PHL;Philippines;Southern Mindanao;1147116
+769;Cebu;PHL;Philippines;Central Visayas;718821
+770;Zamboanga;PHL;Philippines;Western Mindanao;601794
+771;Pasig;PHL;Philippines;National Capital Reg;505058
+772;Valenzuela;PHL;Philippines;National Capital Reg;485433
+773;Las Piñas;PHL;Philippines;National Capital Reg;472780
+774;Antipolo;PHL;Philippines;Southern Tagalog;470866
+775;Taguig;PHL;Philippines;National Capital Reg;467375
+776;Cagayan de Oro;PHL;Philippines;Northern Mindanao;461877
+777;Parañaque;PHL;Philippines;National Capital Reg;449811
+778;Makati;PHL;Philippines;National Capital Reg;444867
+779;Bacolod;PHL;Philippines;Western Visayas;429076
+780;General Santos;PHL;Philippines;Southern Mindanao;411822
+781;Marikina;PHL;Philippines;National Capital Reg;391170
+782;Dasmariñas;PHL;Philippines;Southern Tagalog;379520
+783;Muntinlupa;PHL;Philippines;National Capital Reg;379310
+784;Iloilo;PHL;Philippines;Western Visayas;365820
+785;Pasay;PHL;Philippines;National Capital Reg;354908
+786;Malabon;PHL;Philippines;National Capital Reg;338855
+787;San José del Monte;PHL;Philippines;Central Luzon;315807
+788;Bacoor;PHL;Philippines;Southern Tagalog;305699
+789;Iligan;PHL;Philippines;Central Mindanao;285061
+790;Calamba;PHL;Philippines;Southern Tagalog;281146
+791;Mandaluyong;PHL;Philippines;National Capital Reg;278474
+792;Butuan;PHL;Philippines;Caraga;267279
+793;Angeles;PHL;Philippines;Central Luzon;263971
+794;Tarlac;PHL;Philippines;Central Luzon;262481
+795;Mandaue;PHL;Philippines;Central Visayas;259728
+796;Baguio;PHL;Philippines;CAR;252386
+797;Batangas;PHL;Philippines;Southern Tagalog;247588
+798;Cainta;PHL;Philippines;Southern Tagalog;242511
+799;San Pedro;PHL;Philippines;Southern Tagalog;231403
+800;Navotas;PHL;Philippines;National Capital Reg;230403
+801;Cabanatuan;PHL;Philippines;Central Luzon;222859
+802;San Fernando;PHL;Philippines;Central Luzon;221857
+803;Lipa;PHL;Philippines;Southern Tagalog;218447
+804;Lapu-Lapu;PHL;Philippines;Central Visayas;217019
+805;San Pablo;PHL;Philippines;Southern Tagalog;207927
+806;Biñan;PHL;Philippines;Southern Tagalog;201186
+807;Taytay;PHL;Philippines;Southern Tagalog;198183
+808;Lucena;PHL;Philippines;Southern Tagalog;196075
+809;Imus;PHL;Philippines;Southern Tagalog;195482
+810;Olongapo;PHL;Philippines;Central Luzon;194260
+811;Binangonan;PHL;Philippines;Southern Tagalog;187691
+812;Santa Rosa;PHL;Philippines;Southern Tagalog;185633
+813;Tagum;PHL;Philippines;Southern Mindanao;179531
+814;Tacloban;PHL;Philippines;Eastern Visayas;178639
+815;Malolos;PHL;Philippines;Central Luzon;175291
+816;Mabalacat;PHL;Philippines;Central Luzon;171045
+817;Cotabato;PHL;Philippines;Central Mindanao;163849
+818;Meycauayan;PHL;Philippines;Central Luzon;163037
+819;Puerto Princesa;PHL;Philippines;Southern Tagalog;161912
+820;Legazpi;PHL;Philippines;Bicol;157010
+821;Silang;PHL;Philippines;Southern Tagalog;156137
+822;Ormoc;PHL;Philippines;Eastern Visayas;154297
+823;San Carlos;PHL;Philippines;Ilocos;154264
+824;Kabankalan;PHL;Philippines;Western Visayas;149769
+825;Talisay;PHL;Philippines;Central Visayas;148110
+826;Valencia;PHL;Philippines;Northern Mindanao;147924
+827;Calbayog;PHL;Philippines;Eastern Visayas;147187
+828;Santa Maria;PHL;Philippines;Central Luzon;144282
+829;Pagadian;PHL;Philippines;Western Mindanao;142515
+830;Cadiz;PHL;Philippines;Western Visayas;141954
+831;Bago;PHL;Philippines;Western Visayas;141721
+832;Toledo;PHL;Philippines;Central Visayas;141174
+833;Naga;PHL;Philippines;Bicol;137810
+834;San Mateo;PHL;Philippines;Southern Tagalog;135603
+835;Panabo;PHL;Philippines;Southern Mindanao;133950
+836;Koronadal;PHL;Philippines;Southern Mindanao;133786
+837;Marawi;PHL;Philippines;Central Mindanao;131090
+838;Dagupan;PHL;Philippines;Ilocos;130328
+839;Sagay;PHL;Philippines;Western Visayas;129765
+840;Roxas;PHL;Philippines;Western Visayas;126352
+841;Lubao;PHL;Philippines;Central Luzon;125699
+842;Digos;PHL;Philippines;Southern Mindanao;125171
+843;San Miguel;PHL;Philippines;Central Luzon;123824
+844;Malaybalay;PHL;Philippines;Northern Mindanao;123672
+845;Tuguegarao;PHL;Philippines;Cagayan Valley;120645
+846;Ilagan;PHL;Philippines;Cagayan Valley;119990
+847;Baliuag;PHL;Philippines;Central Luzon;119675
+848;Surigao;PHL;Philippines;Caraga;118534
+849;San Carlos;PHL;Philippines;Western Visayas;118259
+850;San Juan del Monte;PHL;Philippines;National Capital Reg;117680
+851;Tanauan;PHL;Philippines;Southern Tagalog;117539
+852;Concepcion;PHL;Philippines;Central Luzon;115171
+853;Rodriguez (Montalban);PHL;Philippines;Southern Tagalog;115167
+854;Sariaya;PHL;Philippines;Southern Tagalog;114568
+855;Malasiqui;PHL;Philippines;Ilocos;113190
+856;General Mariano Alvarez;PHL;Philippines;Southern Tagalog;112446
+857;Urdaneta;PHL;Philippines;Ilocos;111582
+858;Hagonoy;PHL;Philippines;Central Luzon;111425
+859;San Jose;PHL;Philippines;Southern Tagalog;111009
+860;Polomolok;PHL;Philippines;Southern Mindanao;110709
+861;Santiago;PHL;Philippines;Cagayan Valley;110531
+862;Tanza;PHL;Philippines;Southern Tagalog;110517
+863;Ozamis;PHL;Philippines;Northern Mindanao;110420
+864;Mexico;PHL;Philippines;Central Luzon;109481
+865;San Jose;PHL;Philippines;Central Luzon;108254
+866;Silay;PHL;Philippines;Western Visayas;107722
+867;General Trias;PHL;Philippines;Southern Tagalog;107691
+868;Tabaco;PHL;Philippines;Bicol;107166
+869;Cabuyao;PHL;Philippines;Southern Tagalog;106630
+870;Calapan;PHL;Philippines;Southern Tagalog;105910
+871;Mati;PHL;Philippines;Southern Mindanao;105908
+872;Midsayap;PHL;Philippines;Central Mindanao;105760
+873;Cauayan;PHL;Philippines;Cagayan Valley;103952
+874;Gingoog;PHL;Philippines;Northern Mindanao;102379
+875;Dumaguete;PHL;Philippines;Central Visayas;102265
+876;San Fernando;PHL;Philippines;Ilocos;102082
+877;Arayat;PHL;Philippines;Central Luzon;101792
+878;Bayawan (Tulong);PHL;Philippines;Central Visayas;101391
+879;Kidapawan;PHL;Philippines;Central Mindanao;101205
+880;Daraga (Locsin);PHL;Philippines;Bicol;101031
+881;Marilao;PHL;Philippines;Central Luzon;101017
+882;Malita;PHL;Philippines;Southern Mindanao;100000
+883;Dipolog;PHL;Philippines;Western Mindanao;99862
+884;Cavite;PHL;Philippines;Southern Tagalog;99367
+885;Danao;PHL;Philippines;Central Visayas;98781
+886;Bislig;PHL;Philippines;Caraga;97860
+887;Talavera;PHL;Philippines;Central Luzon;97329
+888;Guagua;PHL;Philippines;Central Luzon;96858
+889;Bayambang;PHL;Philippines;Ilocos;96609
+890;Nasugbu;PHL;Philippines;Southern Tagalog;96113
+891;Baybay;PHL;Philippines;Eastern Visayas;95630
+892;Capas;PHL;Philippines;Central Luzon;95219
+893;Sultan Kudarat;PHL;Philippines;ARMM;94861
+894;Laoag;PHL;Philippines;Ilocos;94466
+895;Bayugan;PHL;Philippines;Caraga;93623
+896;Malungon;PHL;Philippines;Southern Mindanao;93232
+897;Santa Cruz;PHL;Philippines;Southern Tagalog;92694
+898;Sorsogon;PHL;Philippines;Bicol;92512
+899;Candelaria;PHL;Philippines;Southern Tagalog;92429
+900;Ligao;PHL;Philippines;Bicol;90603
+901;Tórshavn;FRO;Faroe Islands;Streymoyar;14542
+902;Libreville;GAB;Gabon;Estuaire;419000
+903;Serekunda;GMB;Gambia;Kombo St Mary;102600
+904;Banjul;GMB;Gambia;Banjul;42326
+905;Tbilisi;GEO;Georgia;Tbilisi;1235200
+906;Kutaisi;GEO;Georgia;Imereti;240900
+907;Rustavi;GEO;Georgia;Kvemo Kartli;155400
+908;Batumi;GEO;Georgia;Adzaria [At¨ara];137700
+909;Sohumi;GEO;Georgia;Abhasia [Aphazeti];111700
+910;Accra;GHA;Ghana;Greater Accra;1070000
+911;Kumasi;GHA;Ghana;Ashanti;385192
+912;Tamale;GHA;Ghana;Northern;151069
+913;Tema;GHA;Ghana;Greater Accra;109975
+914;Sekondi-Takoradi;GHA;Ghana;Western;103653
+915;Gibraltar;GIB;Gibraltar;�?;27025
+916;Saint George�?s;GRD;Grenada;St George;4621
+917;Nuuk;GRL;Greenland;Kitaa;13445
+918;Les Abymes;GLP;Guadeloupe;Grande-Terre;62947
+919;Basse-Terre;GLP;Guadeloupe;Basse-Terre;12433
+920;Tamuning;GUM;Guam;�?;9500
+921;Agaña;GUM;Guam;�?;1139
+922;Ciudad de Guatemala;GTM;Guatemala;Guatemala;823301
+923;Mixco;GTM;Guatemala;Guatemala;209791
+924;Villa Nueva;GTM;Guatemala;Guatemala;101295
+925;Quetzaltenango;GTM;Guatemala;Quetzaltenango;90801
+926;Conakry;GIN;Guinea;Conakry;1090610
+927;Bissau;GNB;Guinea-Bissau;Bissau;241000
+928;Georgetown;GUY;Guyana;Georgetown;254000
+929;Port-au-Prince;HTI;Haiti;Ouest;884472
+930;Carrefour;HTI;Haiti;Ouest;290204
+931;Delmas;HTI;Haiti;Ouest;240429
+932;Le-Cap-Haïtien;HTI;Haiti;Nord;102233
+933;Tegucigalpa;HND;Honduras;Distrito Central;813900
+934;San Pedro Sula;HND;Honduras;Cortés;383900
+935;La Ceiba;HND;Honduras;Atlántida;89200
+936;Kowloon and New Kowloon;HKG;Hong Kong;Kowloon and New Kowl;1987996
+937;Victoria;HKG;Hong Kong;Hongkong;1312637
+938;Longyearbyen;SJM;Svalbard and Jan Mayen;L�?nsimaa;1438
+939;Jakarta;IDN;Indonesia;Jakarta Raya;9604900
+940;Surabaya;IDN;Indonesia;East Java;2663820
+941;Bandung;IDN;Indonesia;West Java;2429000
+942;Medan;IDN;Indonesia;Sumatera Utara;1843919
+943;Palembang;IDN;Indonesia;Sumatera Selatan;1222764
+944;Tangerang;IDN;Indonesia;West Java;1198300
+945;Semarang;IDN;Indonesia;Central Java;1104405
+946;Ujung Pandang;IDN;Indonesia;Sulawesi Selatan;1060257
+947;Malang;IDN;Indonesia;East Java;716862
+948;Bandar Lampung;IDN;Indonesia;Lampung;680332
+949;Bekasi;IDN;Indonesia;West Java;644300
+950;Padang;IDN;Indonesia;Sumatera Barat;534474
+951;Surakarta;IDN;Indonesia;Central Java;518600
+952;Banjarmasin;IDN;Indonesia;Kalimantan Selatan;482931
+953;Pekan Baru;IDN;Indonesia;Riau;438638
+954;Denpasar;IDN;Indonesia;Bali;435000
+955;Yogyakarta;IDN;Indonesia;Yogyakarta;418944
+956;Pontianak;IDN;Indonesia;Kalimantan Barat;409632
+957;Samarinda;IDN;Indonesia;Kalimantan Timur;399175
+958;Jambi;IDN;Indonesia;Jambi;385201
+959;Depok;IDN;Indonesia;West Java;365200
+960;Cimahi;IDN;Indonesia;West Java;344600
+961;Balikpapan;IDN;Indonesia;Kalimantan Timur;338752
+962;Manado;IDN;Indonesia;Sulawesi Utara;332288
+963;Mataram;IDN;Indonesia;Nusa Tenggara Barat;306600
+964;Pekalongan;IDN;Indonesia;Central Java;301504
+965;Tegal;IDN;Indonesia;Central Java;289744
+966;Bogor;IDN;Indonesia;West Java;285114
+967;Ciputat;IDN;Indonesia;West Java;270800
+968;Pondokgede;IDN;Indonesia;West Java;263200
+969;Cirebon;IDN;Indonesia;West Java;254406
+970;Kediri;IDN;Indonesia;East Java;253760
+971;Ambon;IDN;Indonesia;Molukit;249312
+972;Jember;IDN;Indonesia;East Java;218500
+973;Cilacap;IDN;Indonesia;Central Java;206900
+974;Cimanggis;IDN;Indonesia;West Java;205100
+975;Pematang Siantar;IDN;Indonesia;Sumatera Utara;203056
+976;Purwokerto;IDN;Indonesia;Central Java;202500
+977;Ciomas;IDN;Indonesia;West Java;187400
+978;Tasikmalaya;IDN;Indonesia;West Java;179800
+979;Madiun;IDN;Indonesia;East Java;171532
+980;Bengkulu;IDN;Indonesia;Bengkulu;146439
+981;Karawang;IDN;Indonesia;West Java;145000
+982;Banda Aceh;IDN;Indonesia;Aceh;143409
+983;Palu;IDN;Indonesia;Sulawesi Tengah;142800
+984;Pasuruan;IDN;Indonesia;East Java;134019
+985;Kupang;IDN;Indonesia;Nusa Tenggara Timur;129300
+986;Tebing Tinggi;IDN;Indonesia;Sumatera Utara;129300
+987;Percut Sei Tuan;IDN;Indonesia;Sumatera Utara;129000
+988;Binjai;IDN;Indonesia;Sumatera Utara;127222
+989;Sukabumi;IDN;Indonesia;West Java;125766
+990;Waru;IDN;Indonesia;East Java;124300
+991;Pangkal Pinang;IDN;Indonesia;Sumatera Selatan;124000
+992;Magelang;IDN;Indonesia;Central Java;123800
+993;Blitar;IDN;Indonesia;East Java;122600
+994;Serang;IDN;Indonesia;West Java;122400
+995;Probolinggo;IDN;Indonesia;East Java;120770
+996;Cilegon;IDN;Indonesia;West Java;117000
+997;Cianjur;IDN;Indonesia;West Java;114300
+998;Ciparay;IDN;Indonesia;West Java;111500
+999;Lhokseumawe;IDN;Indonesia;Aceh;109600
+1000;Taman;IDN;Indonesia;East Java;107000
+1001;Depok;IDN;Indonesia;Yogyakarta;106800
+1002;Citeureup;IDN;Indonesia;West Java;105100
+1003;Pemalang;IDN;Indonesia;Central Java;103500
+1004;Klaten;IDN;Indonesia;Central Java;103300
+1005;Salatiga;IDN;Indonesia;Central Java;103000
+1006;Cibinong;IDN;Indonesia;West Java;101300
+1007;Palangka Raya;IDN;Indonesia;Kalimantan Tengah;99693
+1008;Mojokerto;IDN;Indonesia;East Java;96626
+1009;Purwakarta;IDN;Indonesia;West Java;95900
+1010;Garut;IDN;Indonesia;West Java;95800
+1011;Kudus;IDN;Indonesia;Central Java;95300
+1012;Kendari;IDN;Indonesia;Sulawesi Tenggara;94800
+1013;Jaya Pura;IDN;Indonesia;West Irian;94700
+1014;Gorontalo;IDN;Indonesia;Sulawesi Utara;94058
+1015;Majalaya;IDN;Indonesia;West Java;93200
+1016;Pondok Aren;IDN;Indonesia;West Java;92700
+1017;Jombang;IDN;Indonesia;East Java;92600
+1018;Sunggal;IDN;Indonesia;Sumatera Utara;92300
+1019;Batam;IDN;Indonesia;Riau;91871
+1020;Padang Sidempuan;IDN;Indonesia;Sumatera Utara;91200
+1021;Sawangan;IDN;Indonesia;West Java;91100
+1022;Banyuwangi;IDN;Indonesia;East Java;89900
+1023;Tanjung Pinang;IDN;Indonesia;Riau;89900
+1024;Mumbai (Bombay);IND;India;Maharashtra;10500000
+1025;Delhi;IND;India;Delhi;7206704
+1026;Calcutta [Kolkata];IND;India;West Bengali;4399819
+1027;Chennai (Madras);IND;India;Tamil Nadu;3841396
+1028;Hyderabad;IND;India;Andhra Pradesh;2964638
+1029;Ahmedabad;IND;India;Gujarat;2876710
+1030;Bangalore;IND;India;Karnataka;2660088
+1031;Kanpur;IND;India;Uttar Pradesh;1874409
+1032;Nagpur;IND;India;Maharashtra;1624752
+1033;Lucknow;IND;India;Uttar Pradesh;1619115
+1034;Pune;IND;India;Maharashtra;1566651
+1035;Surat;IND;India;Gujarat;1498817
+1036;Jaipur;IND;India;Rajasthan;1458483
+1037;Indore;IND;India;Madhya Pradesh;1091674
+1038;Bhopal;IND;India;Madhya Pradesh;1062771
+1039;Ludhiana;IND;India;Punjab;1042740
+1040;Vadodara (Baroda);IND;India;Gujarat;1031346
+1041;Kalyan;IND;India;Maharashtra;1014557
+1042;Madurai;IND;India;Tamil Nadu;977856
+1043;Haora (Howrah);IND;India;West Bengali;950435
+1044;Varanasi (Benares);IND;India;Uttar Pradesh;929270
+1045;Patna;IND;India;Bihar;917243
+1046;Srinagar;IND;India;Jammu and Kashmir;892506
+1047;Agra;IND;India;Uttar Pradesh;891790
+1048;Coimbatore;IND;India;Tamil Nadu;816321
+1049;Thane (Thana);IND;India;Maharashtra;803389
+1050;Allahabad;IND;India;Uttar Pradesh;792858
+1051;Meerut;IND;India;Uttar Pradesh;753778
+1052;Vishakhapatnam;IND;India;Andhra Pradesh;752037
+1053;Jabalpur;IND;India;Madhya Pradesh;741927
+1054;Amritsar;IND;India;Punjab;708835
+1055;Faridabad;IND;India;Haryana;703592
+1056;Vijayawada;IND;India;Andhra Pradesh;701827
+1057;Gwalior;IND;India;Madhya Pradesh;690765
+1058;Jodhpur;IND;India;Rajasthan;666279
+1059;Nashik (Nasik);IND;India;Maharashtra;656925
+1060;Hubli-Dharwad;IND;India;Karnataka;648298
+1061;Solapur (Sholapur);IND;India;Maharashtra;604215
+1062;Ranchi;IND;India;Jharkhand;599306
+1063;Bareilly;IND;India;Uttar Pradesh;587211
+1064;Guwahati (Gauhati);IND;India;Assam;584342
+1065;Shambajinagar (Aurangabad);IND;India;Maharashtra;573272
+1066;Cochin (Kochi);IND;India;Kerala;564589
+1067;Rajkot;IND;India;Gujarat;559407
+1068;Kota;IND;India;Rajasthan;537371
+1069;Thiruvananthapuram (Trivandrum;IND;India;Kerala;524006
+1070;Pimpri-Chinchwad;IND;India;Maharashtra;517083
+1071;Jalandhar (Jullundur);IND;India;Punjab;509510
+1072;Gorakhpur;IND;India;Uttar Pradesh;505566
+1073;Chandigarh;IND;India;Chandigarh;504094
+1074;Mysore;IND;India;Karnataka;480692
+1075;Aligarh;IND;India;Uttar Pradesh;480520
+1076;Guntur;IND;India;Andhra Pradesh;471051
+1077;Jamshedpur;IND;India;Jharkhand;460577
+1078;Ghaziabad;IND;India;Uttar Pradesh;454156
+1079;Warangal;IND;India;Andhra Pradesh;447657
+1080;Raipur;IND;India;Chhatisgarh;438639
+1081;Moradabad;IND;India;Uttar Pradesh;429214
+1082;Durgapur;IND;India;West Bengali;425836
+1083;Amravati;IND;India;Maharashtra;421576
+1084;Calicut (Kozhikode);IND;India;Kerala;419831
+1085;Bikaner;IND;India;Rajasthan;416289
+1086;Bhubaneswar;IND;India;Orissa;411542
+1087;Kolhapur;IND;India;Maharashtra;406370
+1088;Kataka (Cuttack);IND;India;Orissa;403418
+1089;Ajmer;IND;India;Rajasthan;402700
+1090;Bhavnagar;IND;India;Gujarat;402338
+1091;Tiruchirapalli;IND;India;Tamil Nadu;387223
+1092;Bhilai;IND;India;Chhatisgarh;386159
+1093;Bhiwandi;IND;India;Maharashtra;379070
+1094;Saharanpur;IND;India;Uttar Pradesh;374945
+1095;Ulhasnagar;IND;India;Maharashtra;369077
+1096;Salem;IND;India;Tamil Nadu;366712
+1097;Ujjain;IND;India;Madhya Pradesh;362266
+1098;Malegaon;IND;India;Maharashtra;342595
+1099;Jamnagar;IND;India;Gujarat;341637
+1100;Bokaro Steel City;IND;India;Jharkhand;333683
+1101;Akola;IND;India;Maharashtra;328034
+1102;Belgaum;IND;India;Karnataka;326399
+1103;Rajahmundry;IND;India;Andhra Pradesh;324851
+1104;Nellore;IND;India;Andhra Pradesh;316606
+1105;Udaipur;IND;India;Rajasthan;308571
+1106;New Bombay;IND;India;Maharashtra;307297
+1107;Bhatpara;IND;India;West Bengali;304952
+1108;Gulbarga;IND;India;Karnataka;304099
+1109;New Delhi;IND;India;Delhi;301297
+1110;Jhansi;IND;India;Uttar Pradesh;300850
+1111;Gaya;IND;India;Bihar;291675
+1112;Kakinada;IND;India;Andhra Pradesh;279980
+1113;Dhule (Dhulia);IND;India;Maharashtra;278317
+1114;Panihati;IND;India;West Bengali;275990
+1115;Nanded (Nander);IND;India;Maharashtra;275083
+1116;Mangalore;IND;India;Karnataka;273304
+1117;Dehra Dun;IND;India;Uttaranchal;270159
+1118;Kamarhati;IND;India;West Bengali;266889
+1119;Davangere;IND;India;Karnataka;266082
+1120;Asansol;IND;India;West Bengali;262188
+1121;Bhagalpur;IND;India;Bihar;253225
+1122;Bellary;IND;India;Karnataka;245391
+1123;Barddhaman (Burdwan);IND;India;West Bengali;245079
+1124;Rampur;IND;India;Uttar Pradesh;243742
+1125;Jalgaon;IND;India;Maharashtra;242193
+1126;Muzaffarpur;IND;India;Bihar;241107
+1127;Nizamabad;IND;India;Andhra Pradesh;241034
+1128;Muzaffarnagar;IND;India;Uttar Pradesh;240609
+1129;Patiala;IND;India;Punjab;238368
+1130;Shahjahanpur;IND;India;Uttar Pradesh;237713
+1131;Kurnool;IND;India;Andhra Pradesh;236800
+1132;Tiruppur (Tirupper);IND;India;Tamil Nadu;235661
+1133;Rohtak;IND;India;Haryana;233400
+1134;South Dum Dum;IND;India;West Bengali;232811
+1135;Mathura;IND;India;Uttar Pradesh;226691
+1136;Chandrapur;IND;India;Maharashtra;226105
+1137;Barahanagar (Baranagar);IND;India;West Bengali;224821
+1138;Darbhanga;IND;India;Bihar;218391
+1139;Siliguri (Shiliguri);IND;India;West Bengali;216950
+1140;Raurkela;IND;India;Orissa;215489
+1141;Ambattur;IND;India;Tamil Nadu;215424
+1142;Panipat;IND;India;Haryana;215218
+1143;Firozabad;IND;India;Uttar Pradesh;215128
+1144;Ichalkaranji;IND;India;Maharashtra;214950
+1145;Jammu;IND;India;Jammu and Kashmir;214737
+1146;Ramagundam;IND;India;Andhra Pradesh;214384
+1147;Eluru;IND;India;Andhra Pradesh;212866
+1148;Brahmapur;IND;India;Orissa;210418
+1149;Alwar;IND;India;Rajasthan;205086
+1150;Pondicherry;IND;India;Pondicherry;203065
+1151;Thanjavur;IND;India;Tamil Nadu;202013
+1152;Bihar Sharif;IND;India;Bihar;201323
+1153;Tuticorin;IND;India;Tamil Nadu;199854
+1154;Imphal;IND;India;Manipur;198535
+1155;Latur;IND;India;Maharashtra;197408
+1156;Sagar;IND;India;Madhya Pradesh;195346
+1157;Farrukhabad-cum-Fatehgarh;IND;India;Uttar Pradesh;194567
+1158;Sangli;IND;India;Maharashtra;193197
+1159;Parbhani;IND;India;Maharashtra;190255
+1160;Nagar Coil;IND;India;Tamil Nadu;190084
+1161;Bijapur;IND;India;Karnataka;186939
+1162;Kukatpalle;IND;India;Andhra Pradesh;185378
+1163;Bally;IND;India;West Bengali;184474
+1164;Bhilwara;IND;India;Rajasthan;183965
+1165;Ratlam;IND;India;Madhya Pradesh;183375
+1166;Avadi;IND;India;Tamil Nadu;183215
+1167;Dindigul;IND;India;Tamil Nadu;182477
+1168;Ahmadnagar;IND;India;Maharashtra;181339
+1169;Bilaspur;IND;India;Chhatisgarh;179833
+1170;Shimoga;IND;India;Karnataka;179258
+1171;Kharagpur;IND;India;West Bengali;177989
+1172;Mira Bhayandar;IND;India;Maharashtra;175372
+1173;Vellore;IND;India;Tamil Nadu;175061
+1174;Jalna;IND;India;Maharashtra;174985
+1175;Burnpur;IND;India;West Bengali;174933
+1176;Anantapur;IND;India;Andhra Pradesh;174924
+1177;Allappuzha (Alleppey);IND;India;Kerala;174666
+1178;Tirupati;IND;India;Andhra Pradesh;174369
+1179;Karnal;IND;India;Haryana;173751
+1180;Burhanpur;IND;India;Madhya Pradesh;172710
+1181;Hisar (Hissar);IND;India;Haryana;172677
+1182;Tiruvottiyur;IND;India;Tamil Nadu;172562
+1183;Mirzapur-cum-Vindhyachal;IND;India;Uttar Pradesh;169336
+1184;Secunderabad;IND;India;Andhra Pradesh;167461
+1185;Nadiad;IND;India;Gujarat;167051
+1186;Dewas;IND;India;Madhya Pradesh;164364
+1187;Murwara (Katni);IND;India;Madhya Pradesh;163431
+1188;Ganganagar;IND;India;Rajasthan;161482
+1189;Vizianagaram;IND;India;Andhra Pradesh;160359
+1190;Erode;IND;India;Tamil Nadu;159232
+1191;Machilipatnam (Masulipatam);IND;India;Andhra Pradesh;159110
+1192;Bhatinda (Bathinda);IND;India;Punjab;159042
+1193;Raichur;IND;India;Karnataka;157551
+1194;Agartala;IND;India;Tripura;157358
+1195;Arrah (Ara);IND;India;Bihar;157082
+1196;Satna;IND;India;Madhya Pradesh;156630
+1197;Lalbahadur Nagar;IND;India;Andhra Pradesh;155500
+1198;Aizawl;IND;India;Mizoram;155240
+1199;Uluberia;IND;India;West Bengali;155172
+1200;Katihar;IND;India;Bihar;154367
+1201;Cuddalore;IND;India;Tamil Nadu;153086
+1202;Hugli-Chinsurah;IND;India;West Bengali;151806
+1203;Dhanbad;IND;India;Jharkhand;151789
+1204;Raiganj;IND;India;West Bengali;151045
+1205;Sambhal;IND;India;Uttar Pradesh;150869
+1206;Durg;IND;India;Chhatisgarh;150645
+1207;Munger (Monghyr);IND;India;Bihar;150112
+1208;Kanchipuram;IND;India;Tamil Nadu;150100
+1209;North Dum Dum;IND;India;West Bengali;149965
+1210;Karimnagar;IND;India;Andhra Pradesh;148583
+1211;Bharatpur;IND;India;Rajasthan;148519
+1212;Sikar;IND;India;Rajasthan;148272
+1213;Hardwar (Haridwar);IND;India;Uttaranchal;147305
+1214;Dabgram;IND;India;West Bengali;147217
+1215;Morena;IND;India;Madhya Pradesh;147124
+1216;Noida;IND;India;Uttar Pradesh;146514
+1217;Hapur;IND;India;Uttar Pradesh;146262
+1218;Bhusawal;IND;India;Maharashtra;145143
+1219;Khandwa;IND;India;Madhya Pradesh;145133
+1220;Yamuna Nagar;IND;India;Haryana;144346
+1221;Sonipat (Sonepat);IND;India;Haryana;143922
+1222;Tenali;IND;India;Andhra Pradesh;143726
+1223;Raurkela Civil Township;IND;India;Orissa;140408
+1224;Kollam (Quilon);IND;India;Kerala;139852
+1225;Kumbakonam;IND;India;Tamil Nadu;139483
+1226;Ingraj Bazar (English Bazar);IND;India;West Bengali;139204
+1227;Timkur;IND;India;Karnataka;138903
+1228;Amroha;IND;India;Uttar Pradesh;137061
+1229;Serampore;IND;India;West Bengali;137028
+1230;Chapra;IND;India;Bihar;136877
+1231;Pali;IND;India;Rajasthan;136842
+1232;Maunath Bhanjan;IND;India;Uttar Pradesh;136697
+1233;Adoni;IND;India;Andhra Pradesh;136182
+1234;Jaunpur;IND;India;Uttar Pradesh;136062
+1235;Tirunelveli;IND;India;Tamil Nadu;135825
+1236;Bahraich;IND;India;Uttar Pradesh;135400
+1237;Gadag Betigeri;IND;India;Karnataka;134051
+1238;Proddatur;IND;India;Andhra Pradesh;133914
+1239;Chittoor;IND;India;Andhra Pradesh;133462
+1240;Barrackpur;IND;India;West Bengali;133265
+1241;Bharuch (Broach);IND;India;Gujarat;133102
+1242;Naihati;IND;India;West Bengali;132701
+1243;Shillong;IND;India;Meghalaya;131719
+1244;Sambalpur;IND;India;Orissa;131138
+1245;Junagadh;IND;India;Gujarat;130484
+1246;Rae Bareli;IND;India;Uttar Pradesh;129904
+1247;Rewa;IND;India;Madhya Pradesh;128981
+1248;Gurgaon;IND;India;Haryana;128608
+1249;Khammam;IND;India;Andhra Pradesh;127992
+1250;Bulandshahr;IND;India;Uttar Pradesh;127201
+1251;Navsari;IND;India;Gujarat;126089
+1252;Malkajgiri;IND;India;Andhra Pradesh;126066
+1253;Midnapore (Medinipur);IND;India;West Bengali;125498
+1254;Miraj;IND;India;Maharashtra;125407
+1255;Raj Nandgaon;IND;India;Chhatisgarh;125371
+1256;Alandur;IND;India;Tamil Nadu;125244
+1257;Puri;IND;India;Orissa;125199
+1258;Navadwip;IND;India;West Bengali;125037
+1259;Sirsa;IND;India;Haryana;125000
+1260;Korba;IND;India;Chhatisgarh;124501
+1261;Faizabad;IND;India;Uttar Pradesh;124437
+1262;Etawah;IND;India;Uttar Pradesh;124072
+1263;Pathankot;IND;India;Punjab;123930
+1264;Gandhinagar;IND;India;Gujarat;123359
+1265;Palghat (Palakkad);IND;India;Kerala;123289
+1266;Veraval;IND;India;Gujarat;123000
+1267;Hoshiarpur;IND;India;Punjab;122705
+1268;Ambala;IND;India;Haryana;122596
+1269;Sitapur;IND;India;Uttar Pradesh;121842
+1270;Bhiwani;IND;India;Haryana;121629
+1271;Cuddapah;IND;India;Andhra Pradesh;121463
+1272;Bhimavaram;IND;India;Andhra Pradesh;121314
+1273;Krishnanagar;IND;India;West Bengali;121110
+1274;Chandannagar;IND;India;West Bengali;120378
+1275;Mandya;IND;India;Karnataka;120265
+1276;Dibrugarh;IND;India;Assam;120127
+1277;Nandyal;IND;India;Andhra Pradesh;119813
+1278;Balurghat;IND;India;West Bengali;119796
+1279;Neyveli;IND;India;Tamil Nadu;118080
+1280;Fatehpur;IND;India;Uttar Pradesh;117675
+1281;Mahbubnagar;IND;India;Andhra Pradesh;116833
+1282;Budaun;IND;India;Uttar Pradesh;116695
+1283;Porbandar;IND;India;Gujarat;116671
+1284;Silchar;IND;India;Assam;115483
+1285;Berhampore (Baharampur);IND;India;West Bengali;115144
+1286;Purnea (Purnia);IND;India;Jharkhand;114912
+1287;Bankura;IND;India;West Bengali;114876
+1288;Rajapalaiyam;IND;India;Tamil Nadu;114202
+1289;Titagarh;IND;India;West Bengali;114085
+1290;Halisahar;IND;India;West Bengali;114028
+1291;Hathras;IND;India;Uttar Pradesh;113285
+1292;Bhir (Bid);IND;India;Maharashtra;112434
+1293;Pallavaram;IND;India;Tamil Nadu;111866
+1294;Anand;IND;India;Gujarat;110266
+1295;Mango;IND;India;Jharkhand;110024
+1296;Santipur;IND;India;West Bengali;109956
+1297;Bhind;IND;India;Madhya Pradesh;109755
+1298;Gondiya;IND;India;Maharashtra;109470
+1299;Tiruvannamalai;IND;India;Tamil Nadu;109196
+1300;Yeotmal (Yavatmal);IND;India;Maharashtra;108578
+1301;Kulti-Barakar;IND;India;West Bengali;108518
+1302;Moga;IND;India;Punjab;108304
+1303;Shivapuri;IND;India;Madhya Pradesh;108277
+1304;Bidar;IND;India;Karnataka;108016
+1305;Guntakal;IND;India;Andhra Pradesh;107592
+1306;Unnao;IND;India;Uttar Pradesh;107425
+1307;Barasat;IND;India;West Bengali;107365
+1308;Tambaram;IND;India;Tamil Nadu;107187
+1309;Abohar;IND;India;Punjab;107163
+1310;Pilibhit;IND;India;Uttar Pradesh;106605
+1311;Valparai;IND;India;Tamil Nadu;106523
+1312;Gonda;IND;India;Uttar Pradesh;106078
+1313;Surendranagar;IND;India;Gujarat;105973
+1314;Qutubullapur;IND;India;Andhra Pradesh;105380
+1315;Beawar;IND;India;Rajasthan;105363
+1316;Hindupur;IND;India;Andhra Pradesh;104651
+1317;Gandhidham;IND;India;Gujarat;104585
+1318;Haldwani-cum-Kathgodam;IND;India;Uttaranchal;104195
+1319;Tellicherry (Thalassery);IND;India;Kerala;103579
+1320;Wardha;IND;India;Maharashtra;102985
+1321;Rishra;IND;India;West Bengali;102649
+1322;Bhuj;IND;India;Gujarat;102176
+1323;Modinagar;IND;India;Uttar Pradesh;101660
+1324;Gudivada;IND;India;Andhra Pradesh;101656
+1325;Basirhat;IND;India;West Bengali;101409
+1326;Uttarpara-Kotrung;IND;India;West Bengali;100867
+1327;Ongole;IND;India;Andhra Pradesh;100836
+1328;North Barrackpur;IND;India;West Bengali;100513
+1329;Guna;IND;India;Madhya Pradesh;100490
+1330;Haldia;IND;India;West Bengali;100347
+1331;Habra;IND;India;West Bengali;100223
+1332;Kanchrapara;IND;India;West Bengali;100194
+1333;Tonk;IND;India;Rajasthan;100079
+1334;Champdani;IND;India;West Bengali;98818
+1335;Orai;IND;India;Uttar Pradesh;98640
+1336;Pudukkottai;IND;India;Tamil Nadu;98619
+1337;Sasaram;IND;India;Bihar;98220
+1338;Hazaribag;IND;India;Jharkhand;97712
+1339;Palayankottai;IND;India;Tamil Nadu;97662
+1340;Banda;IND;India;Uttar Pradesh;97227
+1341;Godhra;IND;India;Gujarat;96813
+1342;Hospet;IND;India;Karnataka;96322
+1343;Ashoknagar-Kalyangarh;IND;India;West Bengali;96315
+1344;Achalpur;IND;India;Maharashtra;96216
+1345;Patan;IND;India;Gujarat;96109
+1346;Mandasor;IND;India;Madhya Pradesh;95758
+1347;Damoh;IND;India;Madhya Pradesh;95661
+1348;Satara;IND;India;Maharashtra;95133
+1349;Meerut Cantonment;IND;India;Uttar Pradesh;94876
+1350;Dehri;IND;India;Bihar;94526
+1351;Delhi Cantonment;IND;India;Delhi;94326
+1352;Chhindwara;IND;India;Madhya Pradesh;93731
+1353;Bansberia;IND;India;West Bengali;93447
+1354;Nagaon;IND;India;Assam;93350
+1355;Kanpur Cantonment;IND;India;Uttar Pradesh;93109
+1356;Vidisha;IND;India;Madhya Pradesh;92917
+1357;Bettiah;IND;India;Bihar;92583
+1358;Purulia;IND;India;Jharkhand;92574
+1359;Hassan;IND;India;Karnataka;90803
+1360;Ambala Sadar;IND;India;Haryana;90712
+1361;Baidyabati;IND;India;West Bengali;90601
+1362;Morvi;IND;India;Gujarat;90357
+1363;Raigarh;IND;India;Chhatisgarh;89166
+1364;Vejalpur;IND;India;Gujarat;89053
+1365;Baghdad;IRQ;Iraq;Baghdad;4336000
+1366;Mosul;IRQ;Iraq;Ninawa;879000
+1367;Irbil;IRQ;Iraq;Irbil;485968
+1368;Kirkuk;IRQ;Iraq;al-Tamim;418624
+1369;Basra;IRQ;Iraq;Basra;406296
+1370;al-Sulaymaniya;IRQ;Iraq;al-Sulaymaniya;364096
+1371;al-Najaf;IRQ;Iraq;al-Najaf;309010
+1372;Karbala;IRQ;Iraq;Karbala;296705
+1373;al-Hilla;IRQ;Iraq;Babil;268834
+1374;al-Nasiriya;IRQ;Iraq;DhiQar;265937
+1375;al-Amara;IRQ;Iraq;Maysan;208797
+1376;al-Diwaniya;IRQ;Iraq;al-Qadisiya;196519
+1377;al-Ramadi;IRQ;Iraq;al-Anbar;192556
+1378;al-Kut;IRQ;Iraq;Wasit;183183
+1379;Baquba;IRQ;Iraq;Diyala;114516
+1380;Teheran;IRN;Iran;Teheran;6758845
+1381;Mashhad;IRN;Iran;Khorasan;1887405
+1382;Esfahan;IRN;Iran;Esfahan;1266072
+1383;Tabriz;IRN;Iran;East Azerbaidzan;1191043
+1384;Shiraz;IRN;Iran;Fars;1053025
+1385;Karaj;IRN;Iran;Teheran;940968
+1386;Ahvaz;IRN;Iran;Khuzestan;804980
+1387;Qom;IRN;Iran;Qom;777677
+1388;Kermanshah;IRN;Iran;Kermanshah;692986
+1389;Urmia;IRN;Iran;West Azerbaidzan;435200
+1390;Zahedan;IRN;Iran;Sistan va Baluchesta;419518
+1391;Rasht;IRN;Iran;Gilan;417748
+1392;Hamadan;IRN;Iran;Hamadan;401281
+1393;Kerman;IRN;Iran;Kerman;384991
+1394;Arak;IRN;Iran;Markazi;380755
+1395;Ardebil;IRN;Iran;Ardebil;340386
+1396;Yazd;IRN;Iran;Yazd;326776
+1397;Qazvin;IRN;Iran;Qazvin;291117
+1398;Zanjan;IRN;Iran;Zanjan;286295
+1399;Sanandaj;IRN;Iran;Kordestan;277808
+1400;Bandar-e-Abbas;IRN;Iran;Hormozgan;273578
+1401;Khorramabad;IRN;Iran;Lorestan;272815
+1402;Eslamshahr;IRN;Iran;Teheran;265450
+1403;Borujerd;IRN;Iran;Lorestan;217804
+1404;Abadan;IRN;Iran;Khuzestan;206073
+1405;Dezful;IRN;Iran;Khuzestan;202639
+1406;Kashan;IRN;Iran;Esfahan;201372
+1407;Sari;IRN;Iran;Mazandaran;195882
+1408;Gorgan;IRN;Iran;Golestan;188710
+1409;Najafabad;IRN;Iran;Esfahan;178498
+1410;Sabzevar;IRN;Iran;Khorasan;170738
+1411;Khomeynishahr;IRN;Iran;Esfahan;165888
+1412;Amol;IRN;Iran;Mazandaran;159092
+1413;Neyshabur;IRN;Iran;Khorasan;158847
+1414;Babol;IRN;Iran;Mazandaran;158346
+1415;Khoy;IRN;Iran;West Azerbaidzan;148944
+1416;Malayer;IRN;Iran;Hamadan;144373
+1417;Bushehr;IRN;Iran;Bushehr;143641
+1418;Qaemshahr;IRN;Iran;Mazandaran;143286
+1419;Qarchak;IRN;Iran;Teheran;142690
+1420;Qods;IRN;Iran;Teheran;138278
+1421;Sirjan;IRN;Iran;Kerman;135024
+1422;Bojnurd;IRN;Iran;Khorasan;134835
+1423;Maragheh;IRN;Iran;East Azerbaidzan;132318
+1424;Birjand;IRN;Iran;Khorasan;127608
+1425;Ilam;IRN;Iran;Ilam;126346
+1426;Bukan;IRN;Iran;West Azerbaidzan;120020
+1427;Masjed-e-Soleyman;IRN;Iran;Khuzestan;116883
+1428;Saqqez;IRN;Iran;Kordestan;115394
+1429;Gonbad-e Qabus;IRN;Iran;Mazandaran;111253
+1430;Saveh;IRN;Iran;Qom;111245
+1431;Mahabad;IRN;Iran;West Azerbaidzan;107799
+1432;Varamin;IRN;Iran;Teheran;107233
+1433;Andimeshk;IRN;Iran;Khuzestan;106923
+1434;Khorramshahr;IRN;Iran;Khuzestan;105636
+1435;Shahrud;IRN;Iran;Semnan;104765
+1436;Marv Dasht;IRN;Iran;Fars;103579
+1437;Zabol;IRN;Iran;Sistan va Baluchesta;100887
+1438;Shahr-e Kord;IRN;Iran;Chaharmahal va Bakht;100477
+1439;Bandar-e Anzali;IRN;Iran;Gilan;98500
+1440;Rafsanjan;IRN;Iran;Kerman;98300
+1441;Marand;IRN;Iran;East Azerbaidzan;96400
+1442;Torbat-e Heydariyeh;IRN;Iran;Khorasan;94600
+1443;Jahrom;IRN;Iran;Fars;94200
+1444;Semnan;IRN;Iran;Semnan;91045
+1445;Miandoab;IRN;Iran;West Azerbaidzan;90100
+1446;Qomsheh;IRN;Iran;Esfahan;89800
+1447;Dublin;IRL;Ireland;Leinster;481854
+1448;Cork;IRL;Ireland;Munster;127187
+1449;Reykjavík;ISL;Iceland;Höfuðborgarsv�?ði;109184
+1450;Jerusalem;ISR;Israel;Jerusalem;633700
+1451;Tel Aviv-Jaffa;ISR;Israel;Tel Aviv;348100
+1452;Haifa;ISR;Israel;Haifa;265700
+1453;Rishon Le Ziyyon;ISR;Israel;Ha Merkaz;188200
+1454;Beerseba;ISR;Israel;Ha Darom;163700
+1455;Holon;ISR;Israel;Tel Aviv;163100
+1456;Petah Tiqwa;ISR;Israel;Ha Merkaz;159400
+1457;Ashdod;ISR;Israel;Ha Darom;155800
+1458;Netanya;ISR;Israel;Ha Merkaz;154900
+1459;Bat Yam;ISR;Israel;Tel Aviv;137000
+1460;Bene Beraq;ISR;Israel;Tel Aviv;133900
+1461;Ramat Gan;ISR;Israel;Tel Aviv;126900
+1462;Ashqelon;ISR;Israel;Ha Darom;92300
+1463;Rehovot;ISR;Israel;Ha Merkaz;90300
+1464;Roma;ITA;Italy;Latium;2643581
+1465;Milano;ITA;Italy;Lombardia;1300977
+1466;Napoli;ITA;Italy;Campania;1002619
+1467;Torino;ITA;Italy;Piemonte;903705
+1468;Palermo;ITA;Italy;Sisilia;683794
+1469;Genova;ITA;Italy;Liguria;636104
+1470;Bologna;ITA;Italy;Emilia-Romagna;381161
+1471;Firenze;ITA;Italy;Toscana;376662
+1472;Catania;ITA;Italy;Sisilia;337862
+1473;Bari;ITA;Italy;Apulia;331848
+1474;Venezia;ITA;Italy;Veneto;277305
+1475;Messina;ITA;Italy;Sisilia;259156
+1476;Verona;ITA;Italy;Veneto;255268
+1477;Trieste;ITA;Italy;Friuli-Venezia Giuli;216459
+1478;Padova;ITA;Italy;Veneto;211391
+1479;Taranto;ITA;Italy;Apulia;208214
+1480;Brescia;ITA;Italy;Lombardia;191317
+1481;Reggio di Calabria;ITA;Italy;Calabria;179617
+1482;Modena;ITA;Italy;Emilia-Romagna;176022
+1483;Prato;ITA;Italy;Toscana;172473
+1484;Parma;ITA;Italy;Emilia-Romagna;168717
+1485;Cagliari;ITA;Italy;Sardinia;165926
+1486;Livorno;ITA;Italy;Toscana;161673
+1487;Perugia;ITA;Italy;Umbria;156673
+1488;Foggia;ITA;Italy;Apulia;154891
+1489;Reggio nell�? Emilia;ITA;Italy;Emilia-Romagna;143664
+1490;Salerno;ITA;Italy;Campania;142055
+1491;Ravenna;ITA;Italy;Emilia-Romagna;138418
+1492;Ferrara;ITA;Italy;Emilia-Romagna;132127
+1493;Rimini;ITA;Italy;Emilia-Romagna;131062
+1494;Syrakusa;ITA;Italy;Sisilia;126282
+1495;Sassari;ITA;Italy;Sardinia;120803
+1496;Monza;ITA;Italy;Lombardia;119516
+1497;Bergamo;ITA;Italy;Lombardia;117837
+1498;Pescara;ITA;Italy;Abruzzit;115698
+1499;Latina;ITA;Italy;Latium;114099
+1500;Vicenza;ITA;Italy;Veneto;109738
+1501;Terni;ITA;Italy;Umbria;107770
+1502;Forlì;ITA;Italy;Emilia-Romagna;107475
+1503;Trento;ITA;Italy;Trentino-Alto Adige;104906
+1504;Novara;ITA;Italy;Piemonte;102037
+1505;Piacenza;ITA;Italy;Emilia-Romagna;98384
+1506;Ancona;ITA;Italy;Marche;98329
+1507;Lecce;ITA;Italy;Apulia;98208
+1508;Bolzano;ITA;Italy;Trentino-Alto Adige;97232
+1509;Catanzaro;ITA;Italy;Calabria;96700
+1510;La Spezia;ITA;Italy;Liguria;95504
+1511;Udine;ITA;Italy;Friuli-Venezia Giuli;94932
+1512;Torre del Greco;ITA;Italy;Campania;94505
+1513;Andria;ITA;Italy;Apulia;94443
+1514;Brindisi;ITA;Italy;Apulia;93454
+1515;Giugliano in Campania;ITA;Italy;Campania;93286
+1516;Pisa;ITA;Italy;Toscana;92379
+1517;Barletta;ITA;Italy;Apulia;91904
+1518;Arezzo;ITA;Italy;Toscana;91729
+1519;Alessandria;ITA;Italy;Piemonte;90289
+1520;Cesena;ITA;Italy;Emilia-Romagna;89852
+1521;Pesaro;ITA;Italy;Marche;88987
+1522;Dili;TMP;East Timor;Dili;47900
+1523;Wien;AUT;Austria;Wien;1608144
+1524;Graz;AUT;Austria;Steiermark;240967
+1525;Linz;AUT;Austria;North Austria;188022
+1526;Salzburg;AUT;Austria;Salzburg;144247
+1527;Innsbruck;AUT;Austria;Tiroli;111752
+1528;Klagenfurt;AUT;Austria;K�?rnten;91141
+1529;Spanish Town;JAM;Jamaica;St. Catherine;110379
+1530;Kingston;JAM;Jamaica;St. Andrew;103962
+1531;Portmore;JAM;Jamaica;St. Andrew;99799
+1532;Tokyo;JPN;Japan;Tokyo-to;7980230
+1533;Jokohama [Yokohama];JPN;Japan;Kanagawa;3339594
+1534;Osaka;JPN;Japan;Osaka;2595674
+1535;Nagoya;JPN;Japan;Aichi;2154376
+1536;Sapporo;JPN;Japan;Hokkaido;1790886
+1537;Kioto;JPN;Japan;Kyoto;1461974
+1538;Kobe;JPN;Japan;Hyogo;1425139
+1539;Fukuoka;JPN;Japan;Fukuoka;1308379
+1540;Kawasaki;JPN;Japan;Kanagawa;1217359
+1541;Hiroshima;JPN;Japan;Hiroshima;1119117
+1542;Kitakyushu;JPN;Japan;Fukuoka;1016264
+1543;Sendai;JPN;Japan;Miyagi;989975
+1544;Chiba;JPN;Japan;Chiba;863930
+1545;Sakai;JPN;Japan;Osaka;797735
+1546;Kumamoto;JPN;Japan;Kumamoto;656734
+1547;Okayama;JPN;Japan;Okayama;624269
+1548;Sagamihara;JPN;Japan;Kanagawa;586300
+1549;Hamamatsu;JPN;Japan;Shizuoka;568796
+1550;Kagoshima;JPN;Japan;Kagoshima;549977
+1551;Funabashi;JPN;Japan;Chiba;545299
+1552;Higashiosaka;JPN;Japan;Osaka;517785
+1553;Hachioji;JPN;Japan;Tokyo-to;513451
+1554;Niigata;JPN;Japan;Niigata;497464
+1555;Amagasaki;JPN;Japan;Hyogo;481434
+1556;Himeji;JPN;Japan;Hyogo;475167
+1557;Shizuoka;JPN;Japan;Shizuoka;473854
+1558;Urawa;JPN;Japan;Saitama;469675
+1559;Matsuyama;JPN;Japan;Ehime;466133
+1560;Matsudo;JPN;Japan;Chiba;461126
+1561;Kanazawa;JPN;Japan;Ishikawa;455386
+1562;Kawaguchi;JPN;Japan;Saitama;452155
+1563;Ichikawa;JPN;Japan;Chiba;441893
+1564;Omiya;JPN;Japan;Saitama;441649
+1565;Utsunomiya;JPN;Japan;Tochigi;440353
+1566;Oita;JPN;Japan;Oita;433401
+1567;Nagasaki;JPN;Japan;Nagasaki;432759
+1568;Yokosuka;JPN;Japan;Kanagawa;430200
+1569;Kurashiki;JPN;Japan;Okayama;425103
+1570;Gifu;JPN;Japan;Gifu;408007
+1571;Hirakata;JPN;Japan;Osaka;403151
+1572;Nishinomiya;JPN;Japan;Hyogo;397618
+1573;Toyonaka;JPN;Japan;Osaka;396689
+1574;Wakayama;JPN;Japan;Wakayama;391233
+1575;Fukuyama;JPN;Japan;Hiroshima;376921
+1576;Fujisawa;JPN;Japan;Kanagawa;372840
+1577;Asahikawa;JPN;Japan;Hokkaido;364813
+1578;Machida;JPN;Japan;Tokyo-to;364197
+1579;Nara;JPN;Japan;Nara;362812
+1580;Takatsuki;JPN;Japan;Osaka;361747
+1581;Iwaki;JPN;Japan;Fukushima;361737
+1582;Nagano;JPN;Japan;Nagano;361391
+1583;Toyohashi;JPN;Japan;Aichi;360066
+1584;Toyota;JPN;Japan;Aichi;346090
+1585;Suita;JPN;Japan;Osaka;345750
+1586;Takamatsu;JPN;Japan;Kagawa;332471
+1587;Koriyama;JPN;Japan;Fukushima;330335
+1588;Okazaki;JPN;Japan;Aichi;328711
+1589;Kawagoe;JPN;Japan;Saitama;327211
+1590;Tokorozawa;JPN;Japan;Saitama;325809
+1591;Toyama;JPN;Japan;Toyama;325790
+1592;Kochi;JPN;Japan;Kochi;324710
+1593;Kashiwa;JPN;Japan;Chiba;320296
+1594;Akita;JPN;Japan;Akita;314440
+1595;Miyazaki;JPN;Japan;Miyazaki;303784
+1596;Koshigaya;JPN;Japan;Saitama;301446
+1597;Naha;JPN;Japan;Okinawa;299851
+1598;Aomori;JPN;Japan;Aomori;295969
+1599;Hakodate;JPN;Japan;Hokkaido;294788
+1600;Akashi;JPN;Japan;Hyogo;292253
+1601;Yokkaichi;JPN;Japan;Mie;288173
+1602;Fukushima;JPN;Japan;Fukushima;287525
+1603;Morioka;JPN;Japan;Iwate;287353
+1604;Maebashi;JPN;Japan;Gumma;284473
+1605;Kasugai;JPN;Japan;Aichi;282348
+1606;Otsu;JPN;Japan;Shiga;282070
+1607;Ichihara;JPN;Japan;Chiba;279280
+1608;Yao;JPN;Japan;Osaka;276421
+1609;Ichinomiya;JPN;Japan;Aichi;270828
+1610;Tokushima;JPN;Japan;Tokushima;269649
+1611;Kakogawa;JPN;Japan;Hyogo;266281
+1612;Ibaraki;JPN;Japan;Osaka;261020
+1613;Neyagawa;JPN;Japan;Osaka;257315
+1614;Shimonoseki;JPN;Japan;Yamaguchi;257263
+1615;Yamagata;JPN;Japan;Yamagata;255617
+1616;Fukui;JPN;Japan;Fukui;254818
+1617;Hiratsuka;JPN;Japan;Kanagawa;254207
+1618;Mito;JPN;Japan;Ibaragi;246559
+1619;Sasebo;JPN;Japan;Nagasaki;244240
+1620;Hachinohe;JPN;Japan;Aomori;242979
+1621;Takasaki;JPN;Japan;Gumma;239124
+1622;Shimizu;JPN;Japan;Shizuoka;239123
+1623;Kurume;JPN;Japan;Fukuoka;235611
+1624;Fuji;JPN;Japan;Shizuoka;231527
+1625;Soka;JPN;Japan;Saitama;222768
+1626;Fuchu;JPN;Japan;Tokyo-to;220576
+1627;Chigasaki;JPN;Japan;Kanagawa;216015
+1628;Atsugi;JPN;Japan;Kanagawa;212407
+1629;Numazu;JPN;Japan;Shizuoka;211382
+1630;Ageo;JPN;Japan;Saitama;209442
+1631;Yamato;JPN;Japan;Kanagawa;208234
+1632;Matsumoto;JPN;Japan;Nagano;206801
+1633;Kure;JPN;Japan;Hiroshima;206504
+1634;Takarazuka;JPN;Japan;Hyogo;205993
+1635;Kasukabe;JPN;Japan;Saitama;201838
+1636;Chofu;JPN;Japan;Tokyo-to;201585
+1637;Odawara;JPN;Japan;Kanagawa;200171
+1638;Kofu;JPN;Japan;Yamanashi;199753
+1639;Kushiro;JPN;Japan;Hokkaido;197608
+1640;Kishiwada;JPN;Japan;Osaka;197276
+1641;Hitachi;JPN;Japan;Ibaragi;196622
+1642;Nagaoka;JPN;Japan;Niigata;192407
+1643;Itami;JPN;Japan;Hyogo;190886
+1644;Uji;JPN;Japan;Kyoto;188735
+1645;Suzuka;JPN;Japan;Mie;184061
+1646;Hirosaki;JPN;Japan;Aomori;177522
+1647;Ube;JPN;Japan;Yamaguchi;175206
+1648;Kodaira;JPN;Japan;Tokyo-to;174984
+1649;Takaoka;JPN;Japan;Toyama;174380
+1650;Obihiro;JPN;Japan;Hokkaido;173685
+1651;Tomakomai;JPN;Japan;Hokkaido;171958
+1652;Saga;JPN;Japan;Saga;170034
+1653;Sakura;JPN;Japan;Chiba;168072
+1654;Kamakura;JPN;Japan;Kanagawa;167661
+1655;Mitaka;JPN;Japan;Tokyo-to;167268
+1656;Izumi;JPN;Japan;Osaka;166979
+1657;Hino;JPN;Japan;Tokyo-to;166770
+1658;Hadano;JPN;Japan;Kanagawa;166512
+1659;Ashikaga;JPN;Japan;Tochigi;165243
+1660;Tsu;JPN;Japan;Mie;164543
+1661;Sayama;JPN;Japan;Saitama;162472
+1662;Yachiyo;JPN;Japan;Chiba;161222
+1663;Tsukuba;JPN;Japan;Ibaragi;160768
+1664;Tachikawa;JPN;Japan;Tokyo-to;159430
+1665;Kumagaya;JPN;Japan;Saitama;157171
+1666;Moriguchi;JPN;Japan;Osaka;155941
+1667;Otaru;JPN;Japan;Hokkaido;155784
+1668;Anjo;JPN;Japan;Aichi;153823
+1669;Narashino;JPN;Japan;Chiba;152849
+1670;Oyama;JPN;Japan;Tochigi;152820
+1671;Ogaki;JPN;Japan;Gifu;151758
+1672;Matsue;JPN;Japan;Shimane;149821
+1673;Kawanishi;JPN;Japan;Hyogo;149794
+1674;Hitachinaka;JPN;Japan;Tokyo-to;148006
+1675;Niiza;JPN;Japan;Saitama;147744
+1676;Nagareyama;JPN;Japan;Chiba;147738
+1677;Tottori;JPN;Japan;Tottori;147523
+1678;Tama;JPN;Japan;Ibaragi;146712
+1679;Iruma;JPN;Japan;Saitama;145922
+1680;Ota;JPN;Japan;Gumma;145317
+1681;Omuta;JPN;Japan;Fukuoka;142889
+1682;Komaki;JPN;Japan;Aichi;139827
+1683;Ome;JPN;Japan;Tokyo-to;139216
+1684;Kadoma;JPN;Japan;Osaka;138953
+1685;Yamaguchi;JPN;Japan;Yamaguchi;138210
+1686;Higashimurayama;JPN;Japan;Tokyo-to;136970
+1687;Yonago;JPN;Japan;Tottori;136461
+1688;Matsubara;JPN;Japan;Osaka;135010
+1689;Musashino;JPN;Japan;Tokyo-to;134426
+1690;Tsuchiura;JPN;Japan;Ibaragi;134072
+1691;Joetsu;JPN;Japan;Niigata;133505
+1692;Miyakonojo;JPN;Japan;Miyazaki;133183
+1693;Misato;JPN;Japan;Saitama;132957
+1694;Kakamigahara;JPN;Japan;Gifu;131831
+1695;Daito;JPN;Japan;Osaka;130594
+1696;Seto;JPN;Japan;Aichi;130470
+1697;Kariya;JPN;Japan;Aichi;127969
+1698;Urayasu;JPN;Japan;Chiba;127550
+1699;Beppu;JPN;Japan;Oita;127486
+1700;Niihama;JPN;Japan;Ehime;127207
+1701;Minoo;JPN;Japan;Osaka;127026
+1702;Fujieda;JPN;Japan;Shizuoka;126897
+1703;Abiko;JPN;Japan;Chiba;126670
+1704;Nobeoka;JPN;Japan;Miyazaki;125547
+1705;Tondabayashi;JPN;Japan;Osaka;125094
+1706;Ueda;JPN;Japan;Nagano;124217
+1707;Kashihara;JPN;Japan;Nara;124013
+1708;Matsusaka;JPN;Japan;Mie;123582
+1709;Isesaki;JPN;Japan;Gumma;123285
+1710;Zama;JPN;Japan;Kanagawa;122046
+1711;Kisarazu;JPN;Japan;Chiba;121967
+1712;Noda;JPN;Japan;Chiba;121030
+1713;Ishinomaki;JPN;Japan;Miyagi;120963
+1714;Fujinomiya;JPN;Japan;Shizuoka;119714
+1715;Kawachinagano;JPN;Japan;Osaka;119666
+1716;Imabari;JPN;Japan;Ehime;119357
+1717;Aizuwakamatsu;JPN;Japan;Fukushima;119287
+1718;Higashihiroshima;JPN;Japan;Hiroshima;119166
+1719;Habikino;JPN;Japan;Osaka;118968
+1720;Ebetsu;JPN;Japan;Hokkaido;118805
+1721;Hofu;JPN;Japan;Yamaguchi;118751
+1722;Kiryu;JPN;Japan;Gumma;118326
+1723;Okinawa;JPN;Japan;Okinawa;117748
+1724;Yaizu;JPN;Japan;Shizuoka;117258
+1725;Toyokawa;JPN;Japan;Aichi;115781
+1726;Ebina;JPN;Japan;Kanagawa;115571
+1727;Asaka;JPN;Japan;Saitama;114815
+1728;Higashikurume;JPN;Japan;Tokyo-to;111666
+1729;Ikoma;JPN;Japan;Nara;111645
+1730;Kitami;JPN;Japan;Hokkaido;111295
+1731;Koganei;JPN;Japan;Tokyo-to;110969
+1732;Iwatsuki;JPN;Japan;Saitama;110034
+1733;Mishima;JPN;Japan;Shizuoka;109699
+1734;Handa;JPN;Japan;Aichi;108600
+1735;Muroran;JPN;Japan;Hokkaido;108275
+1736;Komatsu;JPN;Japan;Ishikawa;107937
+1737;Yatsushiro;JPN;Japan;Kumamoto;107661
+1738;Iida;JPN;Japan;Nagano;107583
+1739;Tokuyama;JPN;Japan;Yamaguchi;107078
+1740;Kokubunji;JPN;Japan;Tokyo-to;106996
+1741;Akishima;JPN;Japan;Tokyo-to;106914
+1742;Iwakuni;JPN;Japan;Yamaguchi;106647
+1743;Kusatsu;JPN;Japan;Shiga;106232
+1744;Kuwana;JPN;Japan;Mie;106121
+1745;Sanda;JPN;Japan;Hyogo;105643
+1746;Hikone;JPN;Japan;Shiga;105508
+1747;Toda;JPN;Japan;Saitama;103969
+1748;Tajimi;JPN;Japan;Gifu;103171
+1749;Ikeda;JPN;Japan;Osaka;102710
+1750;Fukaya;JPN;Japan;Saitama;102156
+1751;Ise;JPN;Japan;Mie;101732
+1752;Sakata;JPN;Japan;Yamagata;101651
+1753;Kasuga;JPN;Japan;Fukuoka;101344
+1754;Kamagaya;JPN;Japan;Chiba;100821
+1755;Tsuruoka;JPN;Japan;Yamagata;100713
+1756;Hoya;JPN;Japan;Tokyo-to;100313
+1757;Nishio;JPN;Japan;Chiba;100032
+1758;Tokai;JPN;Japan;Aichi;99738
+1759;Inazawa;JPN;Japan;Aichi;98746
+1760;Sakado;JPN;Japan;Saitama;98221
+1761;Isehara;JPN;Japan;Kanagawa;98123
+1762;Takasago;JPN;Japan;Hyogo;97632
+1763;Fujimi;JPN;Japan;Saitama;96972
+1764;Urasoe;JPN;Japan;Okinawa;96002
+1765;Yonezawa;JPN;Japan;Yamagata;95592
+1766;Konan;JPN;Japan;Aichi;95521
+1767;Yamatokoriyama;JPN;Japan;Nara;95165
+1768;Maizuru;JPN;Japan;Kyoto;94784
+1769;Onomichi;JPN;Japan;Hiroshima;93756
+1770;Higashimatsuyama;JPN;Japan;Saitama;93342
+1771;Kimitsu;JPN;Japan;Chiba;93216
+1772;Isahaya;JPN;Japan;Nagasaki;93058
+1773;Kanuma;JPN;Japan;Tochigi;93053
+1774;Izumisano;JPN;Japan;Osaka;92583
+1775;Kameoka;JPN;Japan;Kyoto;92398
+1776;Mobara;JPN;Japan;Chiba;91664
+1777;Narita;JPN;Japan;Chiba;91470
+1778;Kashiwazaki;JPN;Japan;Niigata;91229
+1779;Tsuyama;JPN;Japan;Okayama;91170
+1780;Sanaa;YEM;Yemen;Sanaa;503600
+1781;Aden;YEM;Yemen;Aden;398300
+1782;Taizz;YEM;Yemen;Taizz;317600
+1783;Hodeida;YEM;Yemen;Hodeida;298500
+1784;al-Mukalla;YEM;Yemen;Hadramawt;122400
+1785;Ibb;YEM;Yemen;Ibb;103300
+1786;Amman;JOR;Jordan;Amman;1000000
+1787;al-Zarqa;JOR;Jordan;al-Zarqa;389815
+1788;Irbid;JOR;Jordan;Irbid;231511
+1789;al-Rusayfa;JOR;Jordan;al-Zarqa;137247
+1790;Wadi al-Sir;JOR;Jordan;Amman;89104
+1791;Flying Fish Cove;CXR;Christmas Island;�?;700
+1792;Beograd;YUG;Yugoslavia;Central Serbia;1204000
+1793;Novi Sad;YUG;Yugoslavia;Vojvodina;179626
+1794;Ni¨;YUG;Yugoslavia;Central Serbia;175391
+1795;Pri¨tina;YUG;Yugoslavia;Kosovo and Metohija;155496
+1796;Kragujevac;YUG;Yugoslavia;Central Serbia;147305
+1797;Podgorica;YUG;Yugoslavia;Montenegro;135000
+1798;Subotica;YUG;Yugoslavia;Vojvodina;100386
+1799;Prizren;YUG;Yugoslavia;Kosovo and Metohija;92303
+1800;Phnom Penh;KHM;Cambodia;Phnom Penh;570155
+1801;Battambang;KHM;Cambodia;Battambang;129800
+1802;Siem Reap;KHM;Cambodia;Siem Reap;105100
+1803;Douala;CMR;Cameroon;Littoral;1448300
+1804;Yaoundé;CMR;Cameroon;Centre;1372800
+1805;Garoua;CMR;Cameroon;Nord;177000
+1806;Maroua;CMR;Cameroon;Extrême-Nord;143000
+1807;Bamenda;CMR;Cameroon;Nord-Ouest;138000
+1808;Bafoussam;CMR;Cameroon;Ouest;131000
+1809;Nkongsamba;CMR;Cameroon;Littoral;112454
+1810;Montréal;CAN;Canada;Québec;1016376
+1811;Calgary;CAN;Canada;Alberta;768082
+1812;Toronto;CAN;Canada;Ontario;688275
+1813;North York;CAN;Canada;Ontario;622632
+1814;Winnipeg;CAN;Canada;Manitoba;618477
+1815;Edmonton;CAN;Canada;Alberta;616306
+1816;Mississauga;CAN;Canada;Ontario;608072
+1817;Scarborough;CAN;Canada;Ontario;594501
+1818;Vancouver;CAN;Canada;British Colombia;514008
+1819;Etobicoke;CAN;Canada;Ontario;348845
+1820;London;CAN;Canada;Ontario;339917
+1821;Hamilton;CAN;Canada;Ontario;335614
+1822;Ottawa;CAN;Canada;Ontario;335277
+1823;Laval;CAN;Canada;Québec;330393
+1824;Surrey;CAN;Canada;British Colombia;304477
+1825;Brampton;CAN;Canada;Ontario;296711
+1826;Windsor;CAN;Canada;Ontario;207588
+1827;Saskatoon;CAN;Canada;Saskatchewan;193647
+1828;Kitchener;CAN;Canada;Ontario;189959
+1829;Markham;CAN;Canada;Ontario;189098
+1830;Regina;CAN;Canada;Saskatchewan;180400
+1831;Burnaby;CAN;Canada;British Colombia;179209
+1832;Québec;CAN;Canada;Québec;167264
+1833;York;CAN;Canada;Ontario;154980
+1834;Richmond;CAN;Canada;British Colombia;148867
+1835;Vaughan;CAN;Canada;Ontario;147889
+1836;Burlington;CAN;Canada;Ontario;145150
+1837;Oshawa;CAN;Canada;Ontario;140173
+1838;Oakville;CAN;Canada;Ontario;139192
+1839;Saint Catharines;CAN;Canada;Ontario;136216
+1840;Longueuil;CAN;Canada;Québec;127977
+1841;Richmond Hill;CAN;Canada;Ontario;116428
+1842;Thunder Bay;CAN;Canada;Ontario;115913
+1843;Nepean;CAN;Canada;Ontario;115100
+1844;Cape Breton;CAN;Canada;Nova Scotia;114733
+1845;East York;CAN;Canada;Ontario;114034
+1846;Halifax;CAN;Canada;Nova Scotia;113910
+1847;Cambridge;CAN;Canada;Ontario;109186
+1848;Gloucester;CAN;Canada;Ontario;107314
+1849;Abbotsford;CAN;Canada;British Colombia;105403
+1850;Guelph;CAN;Canada;Ontario;103593
+1851;Saint John�?s;CAN;Canada;Newfoundland;101936
+1852;Coquitlam;CAN;Canada;British Colombia;101820
+1853;Saanich;CAN;Canada;British Colombia;101388
+1854;Gatineau;CAN;Canada;Québec;100702
+1855;Delta;CAN;Canada;British Colombia;95411
+1856;Sudbury;CAN;Canada;Ontario;92686
+1857;Kelowna;CAN;Canada;British Colombia;89442
+1858;Barrie;CAN;Canada;Ontario;89269
+1859;Praia;CPV;Cape Verde;São Tiago;94800
+1860;Almaty;KAZ;Kazakstan;Almaty Qalasy;1129400
+1861;Qaraghandy;KAZ;Kazakstan;Qaraghandy;436900
+1862;Shymkent;KAZ;Kazakstan;South Kazakstan;360100
+1863;Taraz;KAZ;Kazakstan;Taraz;330100
+1864;Astana;KAZ;Kazakstan;Astana;311200
+1865;�?skemen;KAZ;Kazakstan;East Kazakstan;311000
+1866;Pavlodar;KAZ;Kazakstan;Pavlodar;300500
+1867;Semey;KAZ;Kazakstan;East Kazakstan;269600
+1868;Aqtöbe;KAZ;Kazakstan;Aqtöbe;253100
+1869;Qostanay;KAZ;Kazakstan;Qostanay;221400
+1870;Petropavl;KAZ;Kazakstan;North Kazakstan;203500
+1871;Oral;KAZ;Kazakstan;West Kazakstan;195500
+1872;Temirtau;KAZ;Kazakstan;Qaraghandy;170500
+1873;Qyzylorda;KAZ;Kazakstan;Qyzylorda;157400
+1874;Aqtau;KAZ;Kazakstan;Mangghystau;143400
+1875;Atyrau;KAZ;Kazakstan;Atyrau;142500
+1876;Ekibastuz;KAZ;Kazakstan;Pavlodar;127200
+1877;Kökshetau;KAZ;Kazakstan;North Kazakstan;123400
+1878;Rudnyy;KAZ;Kazakstan;Qostanay;109500
+1879;Taldyqorghan;KAZ;Kazakstan;Almaty;98000
+1880;Zhezqazghan;KAZ;Kazakstan;Qaraghandy;90000
+1881;Nairobi;KEN;Kenya;Nairobi;2290000
+1882;Mombasa;KEN;Kenya;Coast;461753
+1883;Kisumu;KEN;Kenya;Nyanza;192733
+1884;Nakuru;KEN;Kenya;Rift Valley;163927
+1885;Machakos;KEN;Kenya;Eastern;116293
+1886;Eldoret;KEN;Kenya;Rift Valley;111882
+1887;Meru;KEN;Kenya;Eastern;94947
+1888;Nyeri;KEN;Kenya;Central;91258
+1889;Bangui;CAF;Central African Republic;Bangui;524000
+1890;Shanghai;CHN;China;Shanghai;9696300
+1891;Peking;CHN;China;Peking;7472000
+1892;Chongqing;CHN;China;Chongqing;6351600
+1893;Tianjin;CHN;China;Tianjin;5286800
+1894;Wuhan;CHN;China;Hubei;4344600
+1895;Harbin;CHN;China;Heilongjiang;4289800
+1896;Shenyang;CHN;China;Liaoning;4265200
+1897;Kanton [Guangzhou];CHN;China;Guangdong;4256300
+1898;Chengdu;CHN;China;Sichuan;3361500
+1899;Nanking [Nanjing];CHN;China;Jiangsu;2870300
+1900;Changchun;CHN;China;Jilin;2812000
+1901;Xi�?an;CHN;China;Shaanxi;2761400
+1902;Dalian;CHN;China;Liaoning;2697000
+1903;Qingdao;CHN;China;Shandong;2596000
+1904;Jinan;CHN;China;Shandong;2278100
+1905;Hangzhou;CHN;China;Zhejiang;2190500
+1906;Zhengzhou;CHN;China;Henan;2107200
+1907;Shijiazhuang;CHN;China;Hebei;2041500
+1908;Taiyuan;CHN;China;Shanxi;1968400
+1909;Kunming;CHN;China;Yunnan;1829500
+1910;Changsha;CHN;China;Hunan;1809800
+1911;Nanchang;CHN;China;Jiangxi;1691600
+1912;Fuzhou;CHN;China;Fujian;1593800
+1913;Lanzhou;CHN;China;Gansu;1565800
+1914;Guiyang;CHN;China;Guizhou;1465200
+1915;Ningbo;CHN;China;Zhejiang;1371200
+1916;Hefei;CHN;China;Anhui;1369100
+1917;Urumt¨i [ýr�?mqi];CHN;China;Xinxiang;1310100
+1918;Anshan;CHN;China;Liaoning;1200000
+1919;Fushun;CHN;China;Liaoning;1200000
+1920;Nanning;CHN;China;Guangxi;1161800
+1921;Zibo;CHN;China;Shandong;1140000
+1922;Qiqihar;CHN;China;Heilongjiang;1070000
+1923;Jilin;CHN;China;Jilin;1040000
+1924;Tangshan;CHN;China;Hebei;1040000
+1925;Baotou;CHN;China;Inner Mongolia;980000
+1926;Shenzhen;CHN;China;Guangdong;950500
+1927;Hohhot;CHN;China;Inner Mongolia;916700
+1928;Handan;CHN;China;Hebei;840000
+1929;Wuxi;CHN;China;Jiangsu;830000
+1930;Xuzhou;CHN;China;Jiangsu;810000
+1931;Datong;CHN;China;Shanxi;800000
+1932;Yichun;CHN;China;Heilongjiang;800000
+1933;Benxi;CHN;China;Liaoning;770000
+1934;Luoyang;CHN;China;Henan;760000
+1935;Suzhou;CHN;China;Jiangsu;710000
+1936;Xining;CHN;China;Qinghai;700200
+1937;Huainan;CHN;China;Anhui;700000
+1938;Jixi;CHN;China;Heilongjiang;683885
+1939;Daqing;CHN;China;Heilongjiang;660000
+1940;Fuxin;CHN;China;Liaoning;640000
+1941;Amoy [Xiamen];CHN;China;Fujian;627500
+1942;Liuzhou;CHN;China;Guangxi;610000
+1943;Shantou;CHN;China;Guangdong;580000
+1944;Jinzhou;CHN;China;Liaoning;570000
+1945;Mudanjiang;CHN;China;Heilongjiang;570000
+1946;Yinchuan;CHN;China;Ningxia;544500
+1947;Changzhou;CHN;China;Jiangsu;530000
+1948;Zhangjiakou;CHN;China;Hebei;530000
+1949;Dandong;CHN;China;Liaoning;520000
+1950;Hegang;CHN;China;Heilongjiang;520000
+1951;Kaifeng;CHN;China;Henan;510000
+1952;Jiamusi;CHN;China;Heilongjiang;493409
+1953;Liaoyang;CHN;China;Liaoning;492559
+1954;Hengyang;CHN;China;Hunan;487148
+1955;Baoding;CHN;China;Hebei;483155
+1956;Hunjiang;CHN;China;Jilin;482043
+1957;Xinxiang;CHN;China;Henan;473762
+1958;Huangshi;CHN;China;Hubei;457601
+1959;Haikou;CHN;China;Hainan;454300
+1960;Yantai;CHN;China;Shandong;452127
+1961;Bengbu;CHN;China;Anhui;449245
+1962;Xiangtan;CHN;China;Hunan;441968
+1963;Weifang;CHN;China;Shandong;428522
+1964;Wuhu;CHN;China;Anhui;425740
+1965;Pingxiang;CHN;China;Jiangxi;425579
+1966;Yingkou;CHN;China;Liaoning;421589
+1967;Anyang;CHN;China;Henan;420332
+1968;Panzhihua;CHN;China;Sichuan;415466
+1969;Pingdingshan;CHN;China;Henan;410775
+1970;Xiangfan;CHN;China;Hubei;410407
+1971;Zhuzhou;CHN;China;Hunan;409924
+1972;Jiaozuo;CHN;China;Henan;409100
+1973;Wenzhou;CHN;China;Zhejiang;401871
+1974;Zhangjiang;CHN;China;Guangdong;400997
+1975;Zigong;CHN;China;Sichuan;393184
+1976;Shuangyashan;CHN;China;Heilongjiang;386081
+1977;Zaozhuang;CHN;China;Shandong;380846
+1978;Yakeshi;CHN;China;Inner Mongolia;377869
+1979;Yichang;CHN;China;Hubei;371601
+1980;Zhenjiang;CHN;China;Jiangsu;368316
+1981;Huaibei;CHN;China;Anhui;366549
+1982;Qinhuangdao;CHN;China;Hebei;364972
+1983;Guilin;CHN;China;Guangxi;364130
+1984;Liupanshui;CHN;China;Guizhou;363954
+1985;Panjin;CHN;China;Liaoning;362773
+1986;Yangquan;CHN;China;Shanxi;362268
+1987;Jinxi;CHN;China;Liaoning;357052
+1988;Liaoyuan;CHN;China;Jilin;354141
+1989;Lianyungang;CHN;China;Jiangsu;354139
+1990;Xianyang;CHN;China;Shaanxi;352125
+1991;Tai�?an;CHN;China;Shandong;350696
+1992;Chifeng;CHN;China;Inner Mongolia;350077
+1993;Shaoguan;CHN;China;Guangdong;350043
+1994;Nantong;CHN;China;Jiangsu;343341
+1995;Leshan;CHN;China;Sichuan;341128
+1996;Baoji;CHN;China;Shaanxi;337765
+1997;Linyi;CHN;China;Shandong;324720
+1998;Tonghua;CHN;China;Jilin;324600
+1999;Siping;CHN;China;Jilin;317223
+2000;Changzhi;CHN;China;Shanxi;317144
+2001;Tengzhou;CHN;China;Shandong;315083
+2002;Chaozhou;CHN;China;Guangdong;313469
+2003;Yangzhou;CHN;China;Jiangsu;312892
+2004;Dongwan;CHN;China;Guangdong;308669
+2005;Ma�?anshan;CHN;China;Anhui;305421
+2006;Foshan;CHN;China;Guangdong;303160
+2007;Yueyang;CHN;China;Hunan;302800
+2008;Xingtai;CHN;China;Hebei;302789
+2009;Changde;CHN;China;Hunan;301276
+2010;Shihezi;CHN;China;Xinxiang;299676
+2011;Yancheng;CHN;China;Jiangsu;296831
+2012;Jiujiang;CHN;China;Jiangxi;291187
+2013;Dongying;CHN;China;Shandong;281728
+2014;Shashi;CHN;China;Hubei;281352
+2015;Xintai;CHN;China;Shandong;281248
+2016;Jingdezhen;CHN;China;Jiangxi;281183
+2017;Tongchuan;CHN;China;Shaanxi;280657
+2018;Zhongshan;CHN;China;Guangdong;278829
+2019;Shiyan;CHN;China;Hubei;273786
+2020;Tieli;CHN;China;Heilongjiang;265683
+2021;Jining;CHN;China;Shandong;265248
+2022;Wuhai;CHN;China;Inner Mongolia;264081
+2023;Mianyang;CHN;China;Sichuan;262947
+2024;Luzhou;CHN;China;Sichuan;262892
+2025;Zunyi;CHN;China;Guizhou;261862
+2026;Shizuishan;CHN;China;Ningxia;257862
+2027;Neijiang;CHN;China;Sichuan;256012
+2028;Tongliao;CHN;China;Inner Mongolia;255129
+2029;Tieling;CHN;China;Liaoning;254842
+2030;Wafangdian;CHN;China;Liaoning;251733
+2031;Anqing;CHN;China;Anhui;250718
+2032;Shaoyang;CHN;China;Hunan;247227
+2033;Laiwu;CHN;China;Shandong;246833
+2034;Chengde;CHN;China;Hebei;246799
+2035;Tianshui;CHN;China;Gansu;244974
+2036;Nanyang;CHN;China;Henan;243303
+2037;Cangzhou;CHN;China;Hebei;242708
+2038;Yibin;CHN;China;Sichuan;241019
+2039;Huaiyin;CHN;China;Jiangsu;239675
+2040;Dunhua;CHN;China;Jilin;235100
+2041;Yanji;CHN;China;Jilin;230892
+2042;Jiangmen;CHN;China;Guangdong;230587
+2043;Tongling;CHN;China;Anhui;228017
+2044;Suihua;CHN;China;Heilongjiang;227881
+2045;Gongziling;CHN;China;Jilin;226569
+2046;Xiantao;CHN;China;Hubei;222884
+2047;Chaoyang;CHN;China;Liaoning;222394
+2048;Ganzhou;CHN;China;Jiangxi;220129
+2049;Huzhou;CHN;China;Zhejiang;218071
+2050;Baicheng;CHN;China;Jilin;217987
+2051;Shangzi;CHN;China;Heilongjiang;215373
+2052;Yangjiang;CHN;China;Guangdong;215196
+2053;Qitaihe;CHN;China;Heilongjiang;214957
+2054;Gejiu;CHN;China;Yunnan;214294
+2055;Jiangyin;CHN;China;Jiangsu;213659
+2056;Hebi;CHN;China;Henan;212976
+2057;Jiaxing;CHN;China;Zhejiang;211526
+2058;Wuzhou;CHN;China;Guangxi;210452
+2059;Meihekou;CHN;China;Jilin;209038
+2060;Xuchang;CHN;China;Henan;208815
+2061;Liaocheng;CHN;China;Shandong;207844
+2062;Haicheng;CHN;China;Liaoning;205560
+2063;Qianjiang;CHN;China;Hubei;205504
+2064;Baiyin;CHN;China;Gansu;204970
+2065;Bei�?an;CHN;China;Heilongjiang;204899
+2066;Yixing;CHN;China;Jiangsu;200824
+2067;Laizhou;CHN;China;Shandong;198664
+2068;Qaramay;CHN;China;Xinxiang;197602
+2069;Acheng;CHN;China;Heilongjiang;197595
+2070;Dezhou;CHN;China;Shandong;195485
+2071;Nanping;CHN;China;Fujian;195064
+2072;Zhaoqing;CHN;China;Guangdong;194784
+2073;Beipiao;CHN;China;Liaoning;194301
+2074;Fengcheng;CHN;China;Jiangxi;193784
+2075;Fuyu;CHN;China;Jilin;192981
+2076;Xinyang;CHN;China;Henan;192509
+2077;Dongtai;CHN;China;Jiangsu;192247
+2078;Yuci;CHN;China;Shanxi;191356
+2079;Honghu;CHN;China;Hubei;190772
+2080;Ezhou;CHN;China;Hubei;190123
+2081;Heze;CHN;China;Shandong;189293
+2082;Daxian;CHN;China;Sichuan;188101
+2083;Linfen;CHN;China;Shanxi;187309
+2084;Tianmen;CHN;China;Hubei;186332
+2085;Yiyang;CHN;China;Hunan;185818
+2086;Quanzhou;CHN;China;Fujian;185154
+2087;Rizhao;CHN;China;Shandong;185048
+2088;Deyang;CHN;China;Sichuan;182488
+2089;Guangyuan;CHN;China;Sichuan;182241
+2090;Changshu;CHN;China;Jiangsu;181805
+2091;Zhangzhou;CHN;China;Fujian;181424
+2092;Hailar;CHN;China;Inner Mongolia;180650
+2093;Nanchong;CHN;China;Sichuan;180273
+2094;Jiutai;CHN;China;Jilin;180130
+2095;Zhaodong;CHN;China;Heilongjiang;179976
+2096;Shaoxing;CHN;China;Zhejiang;179818
+2097;Fuyang;CHN;China;Anhui;179572
+2098;Maoming;CHN;China;Guangdong;178683
+2099;Qujing;CHN;China;Yunnan;178669
+2100;Ghulja;CHN;China;Xinxiang;177193
+2101;Jiaohe;CHN;China;Jilin;176367
+2102;Puyang;CHN;China;Henan;175988
+2103;Huadian;CHN;China;Jilin;175873
+2104;Jiangyou;CHN;China;Sichuan;175753
+2105;Qashqar;CHN;China;Xinxiang;174570
+2106;Anshun;CHN;China;Guizhou;174142
+2107;Fuling;CHN;China;Sichuan;173878
+2108;Xinyu;CHN;China;Jiangxi;173524
+2109;Hanzhong;CHN;China;Shaanxi;169930
+2110;Danyang;CHN;China;Jiangsu;169603
+2111;Chenzhou;CHN;China;Hunan;169400
+2112;Xiaogan;CHN;China;Hubei;166280
+2113;Shangqiu;CHN;China;Henan;164880
+2114;Zhuhai;CHN;China;Guangdong;164747
+2115;Qingyuan;CHN;China;Guangdong;164641
+2116;Aqsu;CHN;China;Xinxiang;164092
+2117;Jining;CHN;China;Inner Mongolia;163552
+2118;Xiaoshan;CHN;China;Zhejiang;162930
+2119;Zaoyang;CHN;China;Hubei;162198
+2120;Xinghua;CHN;China;Jiangsu;161910
+2121;Hami;CHN;China;Xinxiang;161315
+2122;Huizhou;CHN;China;Guangdong;161023
+2123;Jinmen;CHN;China;Hubei;160794
+2124;Sanming;CHN;China;Fujian;160691
+2125;Ulanhot;CHN;China;Inner Mongolia;159538
+2126;Korla;CHN;China;Xinxiang;159344
+2127;Wanxian;CHN;China;Sichuan;156823
+2128;Rui�?an;CHN;China;Zhejiang;156468
+2129;Zhoushan;CHN;China;Zhejiang;156317
+2130;Liangcheng;CHN;China;Shandong;156307
+2131;Jiaozhou;CHN;China;Shandong;153364
+2132;Taizhou;CHN;China;Jiangsu;152442
+2133;Suzhou;CHN;China;Anhui;151862
+2134;Yichun;CHN;China;Jiangxi;151585
+2135;Taonan;CHN;China;Jilin;150168
+2136;Pingdu;CHN;China;Shandong;150123
+2137;Ji�?an;CHN;China;Jiangxi;148583
+2138;Longkou;CHN;China;Shandong;148362
+2139;Langfang;CHN;China;Hebei;148105
+2140;Zhoukou;CHN;China;Henan;146288
+2141;Suining;CHN;China;Sichuan;146086
+2142;Yulin;CHN;China;Guangxi;144467
+2143;Jinhua;CHN;China;Zhejiang;144280
+2144;Liu�?an;CHN;China;Anhui;144248
+2145;Shuangcheng;CHN;China;Heilongjiang;142659
+2146;Suizhou;CHN;China;Hubei;142302
+2147;Ankang;CHN;China;Shaanxi;142170
+2148;Weinan;CHN;China;Shaanxi;140169
+2149;Longjing;CHN;China;Jilin;139417
+2150;Da�?an;CHN;China;Jilin;138963
+2151;Lengshuijiang;CHN;China;Hunan;137994
+2152;Laiyang;CHN;China;Shandong;137080
+2153;Xianning;CHN;China;Hubei;136811
+2154;Dali;CHN;China;Yunnan;136554
+2155;Anda;CHN;China;Heilongjiang;136446
+2156;Jincheng;CHN;China;Shanxi;136396
+2157;Longyan;CHN;China;Fujian;134481
+2158;Xichang;CHN;China;Sichuan;134419
+2159;Wendeng;CHN;China;Shandong;133910
+2160;Hailun;CHN;China;Heilongjiang;133565
+2161;Binzhou;CHN;China;Shandong;133555
+2162;Linhe;CHN;China;Inner Mongolia;133183
+2163;Wuwei;CHN;China;Gansu;133101
+2164;Duyun;CHN;China;Guizhou;132971
+2165;Mishan;CHN;China;Heilongjiang;132744
+2166;Shangrao;CHN;China;Jiangxi;132455
+2167;Changji;CHN;China;Xinxiang;132260
+2168;Meixian;CHN;China;Guangdong;132156
+2169;Yushu;CHN;China;Jilin;131861
+2170;Tiefa;CHN;China;Liaoning;131807
+2171;Huai�?an;CHN;China;Jiangsu;131149
+2172;Leiyang;CHN;China;Hunan;130115
+2173;Zalantun;CHN;China;Inner Mongolia;130031
+2174;Weihai;CHN;China;Shandong;128888
+2175;Loudi;CHN;China;Hunan;128418
+2176;Qingzhou;CHN;China;Shandong;128258
+2177;Qidong;CHN;China;Jiangsu;126872
+2178;Huaihua;CHN;China;Hunan;126785
+2179;Luohe;CHN;China;Henan;126438
+2180;Chuzhou;CHN;China;Anhui;125341
+2181;Kaiyuan;CHN;China;Liaoning;124219
+2182;Linqing;CHN;China;Shandong;123958
+2183;Chaohu;CHN;China;Anhui;123676
+2184;Laohekou;CHN;China;Hubei;123366
+2185;Dujiangyan;CHN;China;Sichuan;123357
+2186;Zhumadian;CHN;China;Henan;123232
+2187;Linchuan;CHN;China;Jiangxi;121949
+2188;Jiaonan;CHN;China;Shandong;121397
+2189;Sanmenxia;CHN;China;Henan;120523
+2190;Heyuan;CHN;China;Guangdong;120101
+2191;Manzhouli;CHN;China;Inner Mongolia;120023
+2192;Lhasa;CHN;China;Tibet;120000
+2193;Lianyuan;CHN;China;Hunan;118858
+2194;Kuytun;CHN;China;Xinxiang;118553
+2195;Puqi;CHN;China;Hubei;117264
+2196;Hongjiang;CHN;China;Hunan;116188
+2197;Qinzhou;CHN;China;Guangxi;114586
+2198;Renqiu;CHN;China;Hebei;114256
+2199;Yuyao;CHN;China;Zhejiang;114065
+2200;Guigang;CHN;China;Guangxi;114025
+2201;Kaili;CHN;China;Guizhou;113958
+2202;Yan�?an;CHN;China;Shaanxi;113277
+2203;Beihai;CHN;China;Guangxi;112673
+2204;Xuangzhou;CHN;China;Anhui;112673
+2205;Quzhou;CHN;China;Zhejiang;112373
+2206;Yong�?an;CHN;China;Fujian;111762
+2207;Zixing;CHN;China;Hunan;110048
+2208;Liyang;CHN;China;Jiangsu;109520
+2209;Yizheng;CHN;China;Jiangsu;109268
+2210;Yumen;CHN;China;Gansu;109234
+2211;Liling;CHN;China;Hunan;108504
+2212;Yuncheng;CHN;China;Shanxi;108359
+2213;Shanwei;CHN;China;Guangdong;107847
+2214;Cixi;CHN;China;Zhejiang;107329
+2215;Yuanjiang;CHN;China;Hunan;107004
+2216;Bozhou;CHN;China;Anhui;106346
+2217;Jinchang;CHN;China;Gansu;105287
+2218;Fu�?an;CHN;China;Fujian;105265
+2219;Suqian;CHN;China;Jiangsu;105021
+2220;Shishou;CHN;China;Hubei;104571
+2221;Hengshui;CHN;China;Hebei;104269
+2222;Danjiangkou;CHN;China;Hubei;103211
+2223;Fujin;CHN;China;Heilongjiang;103104
+2224;Sanya;CHN;China;Hainan;102820
+2225;Guangshui;CHN;China;Hubei;102770
+2226;Huangshan;CHN;China;Anhui;102628
+2227;Xingcheng;CHN;China;Liaoning;102384
+2228;Zhucheng;CHN;China;Shandong;102134
+2229;Kunshan;CHN;China;Jiangsu;102052
+2230;Haining;CHN;China;Zhejiang;100478
+2231;Pingliang;CHN;China;Gansu;99265
+2232;Fuqing;CHN;China;Fujian;99193
+2233;Xinzhou;CHN;China;Shanxi;98667
+2234;Jieyang;CHN;China;Guangdong;98531
+2235;Zhangjiagang;CHN;China;Jiangsu;97994
+2236;Tong Xian;CHN;China;Peking;97168
+2237;Ya�?an;CHN;China;Sichuan;95900
+2238;Jinzhou;CHN;China;Liaoning;95761
+2239;Emeishan;CHN;China;Sichuan;94000
+2240;Enshi;CHN;China;Hubei;93056
+2241;Bose;CHN;China;Guangxi;93009
+2242;Yuzhou;CHN;China;Henan;92889
+2243;Kaiyuan;CHN;China;Yunnan;91999
+2244;Tumen;CHN;China;Jilin;91471
+2245;Putian;CHN;China;Fujian;91030
+2246;Linhai;CHN;China;Zhejiang;90870
+2247;Xilin Hot;CHN;China;Inner Mongolia;90646
+2248;Shaowu;CHN;China;Fujian;90286
+2249;Junan;CHN;China;Shandong;90222
+2250;Huaying;CHN;China;Sichuan;89400
+2251;Pingyi;CHN;China;Shandong;89373
+2252;Huangyan;CHN;China;Zhejiang;89288
+2253;Bishkek;KGZ;Kyrgyzstan;Bishkek shaary;589400
+2254;Osh;KGZ;Kyrgyzstan;Osh;222700
+2255;Bikenibeu;KIR;Kiribati;South Tarawa;5055
+2256;Bairiki;KIR;Kiribati;South Tarawa;2226
+2257;Santafé de Bogotá;COL;Colombia;Santafé de Bogotá;6260862
+2258;Cali;COL;Colombia;Valle;2077386
+2259;Medellín;COL;Colombia;Antioquia;1861265
+2260;Barranquilla;COL;Colombia;Atlántico;1223260
+2261;Cartagena;COL;Colombia;Bolívar;805757
+2262;Cúcuta;COL;Colombia;Norte de Santander;606932
+2263;Bucaramanga;COL;Colombia;Santander;515555
+2264;Ibagué;COL;Colombia;Tolima;393664
+2265;Pereira;COL;Colombia;Risaralda;381725
+2266;Santa Marta;COL;Colombia;Magdalena;359147
+2267;Manizales;COL;Colombia;Caldas;337580
+2268;Bello;COL;Colombia;Antioquia;333470
+2269;Pasto;COL;Colombia;Nariño;332396
+2270;Neiva;COL;Colombia;Huila;300052
+2271;Soledad;COL;Colombia;Atlántico;295058
+2272;Armenia;COL;Colombia;Quindío;288977
+2273;Villavicencio;COL;Colombia;Meta;273140
+2274;Soacha;COL;Colombia;Cundinamarca;272058
+2275;Valledupar;COL;Colombia;Cesar;263247
+2276;Montería;COL;Colombia;Córdoba;248245
+2277;Itag�?í;COL;Colombia;Antioquia;228985
+2278;Palmira;COL;Colombia;Valle;226509
+2279;Buenaventura;COL;Colombia;Valle;224336
+2280;Floridablanca;COL;Colombia;Santander;221913
+2281;Sincelejo;COL;Colombia;Sucre;220704
+2282;Popayán;COL;Colombia;Cauca;200719
+2283;Barrancabermeja;COL;Colombia;Santander;178020
+2284;Dos Quebradas;COL;Colombia;Risaralda;159363
+2285;Tuluá;COL;Colombia;Valle;152488
+2286;Envigado;COL;Colombia;Antioquia;135848
+2287;Cartago;COL;Colombia;Valle;125884
+2288;Girardot;COL;Colombia;Cundinamarca;110963
+2289;Buga;COL;Colombia;Valle;110699
+2290;Tunja;COL;Colombia;Boyacá;109740
+2291;Florencia;COL;Colombia;Caquetá;108574
+2292;Maicao;COL;Colombia;La Guajira;108053
+2293;Sogamoso;COL;Colombia;Boyacá;107728
+2294;Giron;COL;Colombia;Santander;90688
+2295;Moroni;COM;Comoros;Njazidja;36000
+2296;Brazzaville;COG;Congo;Brazzaville;950000
+2297;Pointe-Noire;COG;Congo;Kouilou;500000
+2298;Kinshasa;COD;Congo, The Democratic Republic of the;Kinshasa;5064000
+2299;Lubumbashi;COD;Congo, The Democratic Republic of the;Shaba;851381
+2300;Mbuji-Mayi;COD;Congo, The Democratic Republic of the;East Kasai;806475
+2301;Kolwezi;COD;Congo, The Democratic Republic of the;Shaba;417810
+2302;Kisangani;COD;Congo, The Democratic Republic of the;Haute-Zaïre;417517
+2303;Kananga;COD;Congo, The Democratic Republic of the;West Kasai;393030
+2304;Likasi;COD;Congo, The Democratic Republic of the;Shaba;299118
+2305;Bukavu;COD;Congo, The Democratic Republic of the;South Kivu;201569
+2306;Kikwit;COD;Congo, The Democratic Republic of the;Bandundu;182142
+2307;Tshikapa;COD;Congo, The Democratic Republic of the;West Kasai;180860
+2308;Matadi;COD;Congo, The Democratic Republic of the;Bas-Zaïre;172730
+2309;Mbandaka;COD;Congo, The Democratic Republic of the;Equateur;169841
+2310;Mwene-Ditu;COD;Congo, The Democratic Republic of the;East Kasai;137459
+2311;Boma;COD;Congo, The Democratic Republic of the;Bas-Zaïre;135284
+2312;Uvira;COD;Congo, The Democratic Republic of the;South Kivu;115590
+2313;Butembo;COD;Congo, The Democratic Republic of the;North Kivu;109406
+2314;Goma;COD;Congo, The Democratic Republic of the;North Kivu;109094
+2315;Kalemie;COD;Congo, The Democratic Republic of the;Shaba;101309
+2316;Bantam;CCK;Cocos (Keeling) Islands;Home Island;503
+2317;West Island;CCK;Cocos (Keeling) Islands;West Island;167
+2318;Pyongyang;PRK;North Korea;Pyongyang-si;2484000
+2319;Hamhung;PRK;North Korea;Hamgyong N;709730
+2320;Chongjin;PRK;North Korea;Hamgyong P;582480
+2321;Nampo;PRK;North Korea;Nampo-si;566200
+2322;Sinuiju;PRK;North Korea;Pyongan P;326011
+2323;Wonsan;PRK;North Korea;Kangwon;300148
+2324;Phyongsong;PRK;North Korea;Pyongan N;272934
+2325;Sariwon;PRK;North Korea;Hwanghae P;254146
+2326;Haeju;PRK;North Korea;Hwanghae N;229172
+2327;Kanggye;PRK;North Korea;Chagang;223410
+2328;Kimchaek;PRK;North Korea;Hamgyong P;179000
+2329;Hyesan;PRK;North Korea;Yanggang;178020
+2330;Kaesong;PRK;North Korea;Kaesong-si;171500
+2331;Seoul;KOR;South Korea;Seoul;9981619
+2332;Pusan;KOR;South Korea;Pusan;3804522
+2333;Inchon;KOR;South Korea;Inchon;2559424
+2334;Taegu;KOR;South Korea;Taegu;2548568
+2335;Taejon;KOR;South Korea;Taejon;1425835
+2336;Kwangju;KOR;South Korea;Kwangju;1368341
+2337;Ulsan;KOR;South Korea;Kyongsangnam;1084891
+2338;Songnam;KOR;South Korea;Kyonggi;869094
+2339;Puchon;KOR;South Korea;Kyonggi;779412
+2340;Suwon;KOR;South Korea;Kyonggi;755550
+2341;Anyang;KOR;South Korea;Kyonggi;591106
+2342;Chonju;KOR;South Korea;Chollabuk;563153
+2343;Chongju;KOR;South Korea;Chungchongbuk;531376
+2344;Koyang;KOR;South Korea;Kyonggi;518282
+2345;Ansan;KOR;South Korea;Kyonggi;510314
+2346;Pohang;KOR;South Korea;Kyongsangbuk;508899
+2347;Chang-won;KOR;South Korea;Kyongsangnam;481694
+2348;Masan;KOR;South Korea;Kyongsangnam;441242
+2349;Kwangmyong;KOR;South Korea;Kyonggi;350914
+2350;Chonan;KOR;South Korea;Chungchongnam;330259
+2351;Chinju;KOR;South Korea;Kyongsangnam;329886
+2352;Iksan;KOR;South Korea;Chollabuk;322685
+2353;Pyongtaek;KOR;South Korea;Kyonggi;312927
+2354;Kumi;KOR;South Korea;Kyongsangbuk;311431
+2355;Uijongbu;KOR;South Korea;Kyonggi;276111
+2356;Kyongju;KOR;South Korea;Kyongsangbuk;272968
+2357;Kunsan;KOR;South Korea;Chollabuk;266569
+2358;Cheju;KOR;South Korea;Cheju;258511
+2359;Kimhae;KOR;South Korea;Kyongsangnam;256370
+2360;Sunchon;KOR;South Korea;Chollanam;249263
+2361;Mokpo;KOR;South Korea;Chollanam;247452
+2362;Yong-in;KOR;South Korea;Kyonggi;242643
+2363;Wonju;KOR;South Korea;Kang-won;237460
+2364;Kunpo;KOR;South Korea;Kyonggi;235233
+2365;Chunchon;KOR;South Korea;Kang-won;234528
+2366;Namyangju;KOR;South Korea;Kyonggi;229060
+2367;Kangnung;KOR;South Korea;Kang-won;220403
+2368;Chungju;KOR;South Korea;Chungchongbuk;205206
+2369;Andong;KOR;South Korea;Kyongsangbuk;188443
+2370;Yosu;KOR;South Korea;Chollanam;183596
+2371;Kyongsan;KOR;South Korea;Kyongsangbuk;173746
+2372;Paju;KOR;South Korea;Kyonggi;163379
+2373;Yangsan;KOR;South Korea;Kyongsangnam;163351
+2374;Ichon;KOR;South Korea;Kyonggi;155332
+2375;Asan;KOR;South Korea;Chungchongnam;154663
+2376;Koje;KOR;South Korea;Kyongsangnam;147562
+2377;Kimchon;KOR;South Korea;Kyongsangbuk;147027
+2378;Nonsan;KOR;South Korea;Chungchongnam;146619
+2379;Kuri;KOR;South Korea;Kyonggi;142173
+2380;Chong-up;KOR;South Korea;Chollabuk;139111
+2381;Chechon;KOR;South Korea;Chungchongbuk;137070
+2382;Sosan;KOR;South Korea;Chungchongnam;134746
+2383;Shihung;KOR;South Korea;Kyonggi;133443
+2384;Tong-yong;KOR;South Korea;Kyongsangnam;131717
+2385;Kongju;KOR;South Korea;Chungchongnam;131229
+2386;Yongju;KOR;South Korea;Kyongsangbuk;131097
+2387;Chinhae;KOR;South Korea;Kyongsangnam;125997
+2388;Sangju;KOR;South Korea;Kyongsangbuk;124116
+2389;Poryong;KOR;South Korea;Chungchongnam;122604
+2390;Kwang-yang;KOR;South Korea;Chollanam;122052
+2391;Miryang;KOR;South Korea;Kyongsangnam;121501
+2392;Hanam;KOR;South Korea;Kyonggi;115812
+2393;Kimje;KOR;South Korea;Chollabuk;115427
+2394;Yongchon;KOR;South Korea;Kyongsangbuk;113511
+2395;Sachon;KOR;South Korea;Kyongsangnam;113494
+2396;Uiwang;KOR;South Korea;Kyonggi;108788
+2397;Naju;KOR;South Korea;Chollanam;107831
+2398;Namwon;KOR;South Korea;Chollabuk;103544
+2399;Tonghae;KOR;South Korea;Kang-won;95472
+2400;Mun-gyong;KOR;South Korea;Kyongsangbuk;92239
+2401;Athenai;GRC;Greece;Attika;772072
+2402;Thessaloniki;GRC;Greece;Central Macedonia;383967
+2403;Pireus;GRC;Greece;Attika;182671
+2404;Patras;GRC;Greece;West Greece;153344
+2405;Peristerion;GRC;Greece;Attika;137288
+2406;Herakleion;GRC;Greece;Crete;116178
+2407;Kallithea;GRC;Greece;Attika;114233
+2408;Larisa;GRC;Greece;Thessalia;113090
+2409;Zagreb;HRV;Croatia;Grad Zagreb;706770
+2410;Split;HRV;Croatia;Split-Dalmatia;189388
+2411;Rijeka;HRV;Croatia;Primorje-Gorski Kota;167964
+2412;Osijek;HRV;Croatia;Osijek-Baranja;104761
+2413;La Habana;CUB;Cuba;La Habana;2256000
+2414;Santiago de Cuba;CUB;Cuba;Santiago de Cuba;433180
+2415;Camag�?ey;CUB;Cuba;Camag�?ey;298726
+2416;Holguín;CUB;Cuba;Holguín;249492
+2417;Santa Clara;CUB;Cuba;Villa Clara;207350
+2418;Guantánamo;CUB;Cuba;Guantánamo;205078
+2419;Pinar del Río;CUB;Cuba;Pinar del Río;142100
+2420;Bayamo;CUB;Cuba;Granma;141000
+2421;Cienfuegos;CUB;Cuba;Cienfuegos;132770
+2422;Victoria de las Tunas;CUB;Cuba;Las Tunas;132350
+2423;Matanzas;CUB;Cuba;Matanzas;123273
+2424;Manzanillo;CUB;Cuba;Granma;109350
+2425;Sancti-Spíritus;CUB;Cuba;Sancti-Spíritus;100751
+2426;Ciego de �?vila;CUB;Cuba;Ciego de �?vila;98505
+2427;al-Salimiya;KWT;Kuwait;Hawalli;130215
+2428;Jalib al-Shuyukh;KWT;Kuwait;Hawalli;102178
+2429;Kuwait;KWT;Kuwait;al-Asima;28859
+2430;Nicosia;CYP;Cyprus;Nicosia;195000
+2431;Limassol;CYP;Cyprus;Limassol;154400
+2432;Vientiane;LAO;Laos;Viangchan;531800
+2433;Savannakhet;LAO;Laos;Savannakhet;96652
+2434;Riga;LVA;Latvia;Riika;764328
+2435;Daugavpils;LVA;Latvia;Daugavpils;114829
+2436;Liepaja;LVA;Latvia;Liepaja;89439
+2437;Maseru;LSO;Lesotho;Maseru;297000
+2438;Beirut;LBN;Lebanon;Beirut;1100000
+2439;Tripoli;LBN;Lebanon;al-Shamal;240000
+2440;Monrovia;LBR;Liberia;Montserrado;850000
+2441;Tripoli;LBY;Libyan Arab Jamahiriya;Tripoli;1682000
+2442;Bengasi;LBY;Libyan Arab Jamahiriya;Bengasi;804000
+2443;Misrata;LBY;Libyan Arab Jamahiriya;Misrata;121669
+2444;al-Zawiya;LBY;Libyan Arab Jamahiriya;al-Zawiya;89338
+2445;Schaan;LIE;Liechtenstein;Schaan;5346
+2446;Vaduz;LIE;Liechtenstein;Vaduz;5043
+2447;Vilnius;LTU;Lithuania;Vilna;577969
+2448;Kaunas;LTU;Lithuania;Kaunas;412639
+2449;Klaipeda;LTU;Lithuania;Klaipeda;202451
+2450;¦iauliai;LTU;Lithuania;¦iauliai;146563
+2451;Panevezys;LTU;Lithuania;Panevezys;133695
+2452;Luxembourg [Luxemburg/Lëtzebuerg];LUX;Luxembourg;Luxembourg;80700
+2453;El-Aaiún;ESH;Western Sahara;El-Aaiún;169000
+2454;Macao;MAC;Macao;Macau;437500
+2455;Antananarivo;MDG;Madagascar;Antananarivo;675669
+2456;Toamasina;MDG;Madagascar;Toamasina;127441
+2457;Antsirabé;MDG;Madagascar;Antananarivo;120239
+2458;Mahajanga;MDG;Madagascar;Mahajanga;100807
+2459;Fianarantsoa;MDG;Madagascar;Fianarantsoa;99005
+2460;Skopje;MKD;Macedonia;Skopje;444299
+2461;Blantyre;MWI;Malawi;Blantyre;478155
+2462;Lilongwe;MWI;Malawi;Lilongwe;435964
+2463;Male;MDV;Maldives;Maale;71000
+2464;Kuala Lumpur;MYS;Malaysia;Wilayah Persekutuan;1297526
+2465;Ipoh;MYS;Malaysia;Perak;382853
+2466;Johor Baharu;MYS;Malaysia;Johor;328436
+2467;Petaling Jaya;MYS;Malaysia;Selangor;254350
+2468;Kelang;MYS;Malaysia;Selangor;243355
+2469;Kuala Terengganu;MYS;Malaysia;Terengganu;228119
+2470;Pinang;MYS;Malaysia;Pulau Pinang;219603
+2471;Kota Bharu;MYS;Malaysia;Kelantan;219582
+2472;Kuantan;MYS;Malaysia;Pahang;199484
+2473;Taiping;MYS;Malaysia;Perak;183261
+2474;Seremban;MYS;Malaysia;Negeri Sembilan;182869
+2475;Kuching;MYS;Malaysia;Sarawak;148059
+2476;Sibu;MYS;Malaysia;Sarawak;126381
+2477;Sandakan;MYS;Malaysia;Sabah;125841
+2478;Alor Setar;MYS;Malaysia;Kedah;124412
+2479;Selayang Baru;MYS;Malaysia;Selangor;124228
+2480;Sungai Petani;MYS;Malaysia;Kedah;114763
+2481;Shah Alam;MYS;Malaysia;Selangor;102019
+2482;Bamako;MLI;Mali;Bamako;809552
+2483;Birkirkara;MLT;Malta;Outer Harbour;21445
+2484;Valletta;MLT;Malta;Inner Harbour;7073
+2485;Casablanca;MAR;Morocco;Casablanca;2940623
+2486;Rabat;MAR;Morocco;Rabat-Salé-Zammour-;623457
+2487;Marrakech;MAR;Morocco;Marrakech-Tensift-Al;621914
+2488;F�?s;MAR;Morocco;F�?s-Boulemane;541162
+2489;Tanger;MAR;Morocco;Tanger-Tétouan;521735
+2490;Salé;MAR;Morocco;Rabat-Salé-Zammour-;504420
+2491;Mekn�?s;MAR;Morocco;Mekn�?s-Tafilalet;460000
+2492;Oujda;MAR;Morocco;Oriental;365382
+2493;Kénitra;MAR;Morocco;Gharb-Chrarda-Béni;292600
+2494;Tétouan;MAR;Morocco;Tanger-Tétouan;277516
+2495;Safi;MAR;Morocco;Doukkala-Abda;262300
+2496;Agadir;MAR;Morocco;Souss Massa-Draâ;155244
+2497;Mohammedia;MAR;Morocco;Casablanca;154706
+2498;Khouribga;MAR;Morocco;Chaouia-Ouardigha;152090
+2499;Beni-Mellal;MAR;Morocco;Tadla-Azilal;140212
+2500;Témara;MAR;Morocco;Rabat-Salé-Zammour-;126303
+2501;El Jadida;MAR;Morocco;Doukkala-Abda;119083
+2502;Nador;MAR;Morocco;Oriental;112450
+2503;Ksar el Kebir;MAR;Morocco;Tanger-Tétouan;107065
+2504;Settat;MAR;Morocco;Chaouia-Ouardigha;96200
+2505;Taza;MAR;Morocco;Taza-Al Hoceima-Taou;92700
+2506;El Araich;MAR;Morocco;Tanger-Tétouan;90400
+2507;Dalap-Uliga-Darrit;MHL;Marshall Islands;Majuro;28000
+2508;Fort-de-France;MTQ;Martinique;Fort-de-France;94050
+2509;Nouakchott;MRT;Mauritania;Nouakchott;667300
+2510;Nouâdhibou;MRT;Mauritania;Dakhlet Nouâdhibou;97600
+2511;Port-Louis;MUS;Mauritius;Port-Louis;138200
+2512;Beau Bassin-Rose Hill;MUS;Mauritius;Plaines Wilhelms;100616
+2513;Vacoas-Phoenix;MUS;Mauritius;Plaines Wilhelms;98464
+2514;Mamoutzou;MYT;Mayotte;Mamoutzou;12000
+2515;Ciudad de México;MEX;Mexico;Distrito Federal;8591309
+2516;Guadalajara;MEX;Mexico;Jalisco;1647720
+2517;Ecatepec de Morelos;MEX;Mexico;México;1620303
+2518;Puebla;MEX;Mexico;Puebla;1346176
+2519;Nezahualcóyotl;MEX;Mexico;México;1224924
+2520;Juárez;MEX;Mexico;Chihuahua;1217818
+2521;Tijuana;MEX;Mexico;Baja California;1212232
+2522;León;MEX;Mexico;Guanajuato;1133576
+2523;Monterrey;MEX;Mexico;Nuevo León;1108499
+2524;Zapopan;MEX;Mexico;Jalisco;1002239
+2525;Naucalpan de Juárez;MEX;Mexico;México;857511
+2526;Mexicali;MEX;Mexico;Baja California;764902
+2527;Culiacán;MEX;Mexico;Sinaloa;744859
+2528;Acapulco de Juárez;MEX;Mexico;Guerrero;721011
+2529;Tlalnepantla de Baz;MEX;Mexico;México;720755
+2530;Mérida;MEX;Mexico;Yucatán;703324
+2531;Chihuahua;MEX;Mexico;Chihuahua;670208
+2532;San Luis Potosí;MEX;Mexico;San Luis Potosí;669353
+2533;Guadalupe;MEX;Mexico;Nuevo León;668780
+2534;Toluca;MEX;Mexico;México;665617
+2535;Aguascalientes;MEX;Mexico;Aguascalientes;643360
+2536;Querétaro;MEX;Mexico;Querétaro de Arteag;639839
+2537;Morelia;MEX;Mexico;Michoacán de Ocampo;619958
+2538;Hermosillo;MEX;Mexico;Sonora;608697
+2539;Saltillo;MEX;Mexico;Coahuila de Zaragoza;577352
+2540;Torreón;MEX;Mexico;Coahuila de Zaragoza;529093
+2541;Centro (Villahermosa);MEX;Mexico;Tabasco;519873
+2542;San Nicolás de los Garza;MEX;Mexico;Nuevo León;495540
+2543;Durango;MEX;Mexico;Durango;490524
+2544;Chimalhuacán;MEX;Mexico;México;490245
+2545;Tlaquepaque;MEX;Mexico;Jalisco;475472
+2546;Atizapán de Zaragoza;MEX;Mexico;México;467262
+2547;Veracruz;MEX;Mexico;Veracruz;457119
+2548;Cuautitlán Izcalli;MEX;Mexico;México;452976
+2549;Irapuato;MEX;Mexico;Guanajuato;440039
+2550;Tuxtla Gutiérrez;MEX;Mexico;Chiapas;433544
+2551;Tultitlán;MEX;Mexico;México;432411
+2552;Reynosa;MEX;Mexico;Tamaulipas;419776
+2553;Benito Juárez;MEX;Mexico;Quintana Roo;419276
+2554;Matamoros;MEX;Mexico;Tamaulipas;416428
+2555;Xalapa;MEX;Mexico;Veracruz;390058
+2556;Celaya;MEX;Mexico;Guanajuato;382140
+2557;Mazatlán;MEX;Mexico;Sinaloa;380265
+2558;Ensenada;MEX;Mexico;Baja California;369573
+2559;Ahome;MEX;Mexico;Sinaloa;358663
+2560;Cajeme;MEX;Mexico;Sonora;355679
+2561;Cuernavaca;MEX;Mexico;Morelos;337966
+2562;Tonalá;MEX;Mexico;Jalisco;336109
+2563;Valle de Chalco Solidaridad;MEX;Mexico;México;323113
+2564;Nuevo Laredo;MEX;Mexico;Tamaulipas;310277
+2565;Tepic;MEX;Mexico;Nayarit;305025
+2566;Tampico;MEX;Mexico;Tamaulipas;294789
+2567;Ixtapaluca;MEX;Mexico;México;293160
+2568;Apodaca;MEX;Mexico;Nuevo León;282941
+2569;Guasave;MEX;Mexico;Sinaloa;277201
+2570;Gómez Palacio;MEX;Mexico;Durango;272806
+2571;Tapachula;MEX;Mexico;Chiapas;271141
+2572;Nicolás Romero;MEX;Mexico;México;269393
+2573;Coatzacoalcos;MEX;Mexico;Veracruz;267037
+2574;Uruapan;MEX;Mexico;Michoacán de Ocampo;265211
+2575;Victoria;MEX;Mexico;Tamaulipas;262686
+2576;Oaxaca de Juárez;MEX;Mexico;Oaxaca;256848
+2577;Coacalco de Berriozábal;MEX;Mexico;México;252270
+2578;Pachuca de Soto;MEX;Mexico;Hidalgo;244688
+2579;General Escobedo;MEX;Mexico;Nuevo León;232961
+2580;Salamanca;MEX;Mexico;Guanajuato;226864
+2581;Santa Catarina;MEX;Mexico;Nuevo León;226573
+2582;Tehuacán;MEX;Mexico;Puebla;225943
+2583;Chalco;MEX;Mexico;México;222201
+2584;Cárdenas;MEX;Mexico;Tabasco;216903
+2585;Campeche;MEX;Mexico;Campeche;216735
+2586;La Paz;MEX;Mexico;México;213045
+2587;Othón P. Blanco (Chetumal);MEX;Mexico;Quintana Roo;208014
+2588;Texcoco;MEX;Mexico;México;203681
+2589;La Paz;MEX;Mexico;Baja California Sur;196708
+2590;Metepec;MEX;Mexico;México;194265
+2591;Monclova;MEX;Mexico;Coahuila de Zaragoza;193657
+2592;Huixquilucan;MEX;Mexico;México;193156
+2593;Chilpancingo de los Bravo;MEX;Mexico;Guerrero;192509
+2594;Puerto Vallarta;MEX;Mexico;Jalisco;183741
+2595;Fresnillo;MEX;Mexico;Zacatecas;182744
+2596;Ciudad Madero;MEX;Mexico;Tamaulipas;182012
+2597;Soledad de Graciano Sánchez;MEX;Mexico;San Luis Potosí;179956
+2598;San Juan del Río;MEX;Mexico;Querétaro;179300
+2599;San Felipe del Progreso;MEX;Mexico;México;177330
+2600;Córdoba;MEX;Mexico;Veracruz;176952
+2601;Tecámac;MEX;Mexico;México;172410
+2602;Ocosingo;MEX;Mexico;Chiapas;171495
+2603;Carmen;MEX;Mexico;Campeche;171367
+2604;Lázaro Cárdenas;MEX;Mexico;Michoacán de Ocampo;170878
+2605;Jiutepec;MEX;Mexico;Morelos;170428
+2606;Papantla;MEX;Mexico;Veracruz;170123
+2607;Comalcalco;MEX;Mexico;Tabasco;164640
+2608;Zamora;MEX;Mexico;Michoacán de Ocampo;161191
+2609;Nogales;MEX;Mexico;Sonora;159103
+2610;Huimanguillo;MEX;Mexico;Tabasco;158335
+2611;Cuautla;MEX;Mexico;Morelos;153132
+2612;Minatitlán;MEX;Mexico;Veracruz;152983
+2613;Poza Rica de Hidalgo;MEX;Mexico;Veracruz;152678
+2614;Ciudad Valles;MEX;Mexico;San Luis Potosí;146411
+2615;Navolato;MEX;Mexico;Sinaloa;145396
+2616;San Luis Río Colorado;MEX;Mexico;Sonora;145276
+2617;Pénjamo;MEX;Mexico;Guanajuato;143927
+2618;San Andrés Tuxtla;MEX;Mexico;Veracruz;142251
+2619;Guanajuato;MEX;Mexico;Guanajuato;141215
+2620;Navojoa;MEX;Mexico;Sonora;140495
+2621;Zitácuaro;MEX;Mexico;Michoacán de Ocampo;137970
+2622;Boca del Río;MEX;Mexico;Veracruz-Llave;135721
+2623;Allende;MEX;Mexico;Guanajuato;134645
+2624;Silao;MEX;Mexico;Guanajuato;134037
+2625;Macuspana;MEX;Mexico;Tabasco;133795
+2626;San Juan Bautista Tuxtepec;MEX;Mexico;Oaxaca;133675
+2627;San Cristóbal de las Casas;MEX;Mexico;Chiapas;132317
+2628;Valle de Santiago;MEX;Mexico;Guanajuato;130557
+2629;Guaymas;MEX;Mexico;Sonora;130108
+2630;Colima;MEX;Mexico;Colima;129454
+2631;Dolores Hidalgo;MEX;Mexico;Guanajuato;128675
+2632;Lagos de Moreno;MEX;Mexico;Jalisco;127949
+2633;Piedras Negras;MEX;Mexico;Coahuila de Zaragoza;127898
+2634;Altamira;MEX;Mexico;Tamaulipas;127490
+2635;Túxpam;MEX;Mexico;Veracruz;126475
+2636;San Pedro Garza García;MEX;Mexico;Nuevo León;126147
+2637;Cuauhtémoc;MEX;Mexico;Chihuahua;124279
+2638;Manzanillo;MEX;Mexico;Colima;124014
+2639;Iguala de la Independencia;MEX;Mexico;Guerrero;123883
+2640;Zacatecas;MEX;Mexico;Zacatecas;123700
+2641;Tlajomulco de Zúñiga;MEX;Mexico;Jalisco;123220
+2642;Tulancingo de Bravo;MEX;Mexico;Hidalgo;121946
+2643;Zinacantepec;MEX;Mexico;México;121715
+2644;San Martín Texmelucan;MEX;Mexico;Puebla;121093
+2645;Tepatitlán de Morelos;MEX;Mexico;Jalisco;118948
+2646;Martínez de la Torre;MEX;Mexico;Veracruz;118815
+2647;Orizaba;MEX;Mexico;Veracruz;118488
+2648;Apatzingán;MEX;Mexico;Michoacán de Ocampo;117849
+2649;Atlixco;MEX;Mexico;Puebla;117019
+2650;Delicias;MEX;Mexico;Chihuahua;116132
+2651;Ixtlahuaca;MEX;Mexico;México;115548
+2652;El Mante;MEX;Mexico;Tamaulipas;112453
+2653;Lerdo;MEX;Mexico;Durango;112272
+2654;Almoloya de Juárez;MEX;Mexico;México;110550
+2655;Acámbaro;MEX;Mexico;Guanajuato;110487
+2656;Acuña;MEX;Mexico;Coahuila de Zaragoza;110388
+2657;Guadalupe;MEX;Mexico;Zacatecas;108881
+2658;Huejutla de Reyes;MEX;Mexico;Hidalgo;108017
+2659;Hidalgo;MEX;Mexico;Michoacán de Ocampo;106198
+2660;Los Cabos;MEX;Mexico;Baja California Sur;105199
+2661;Comitán de Domínguez;MEX;Mexico;Chiapas;104986
+2662;Cunduacán;MEX;Mexico;Tabasco;104164
+2663;Río Bravo;MEX;Mexico;Tamaulipas;103901
+2664;Temapache;MEX;Mexico;Veracruz;102824
+2665;Chilapa de Alvarez;MEX;Mexico;Guerrero;102716
+2666;Hidalgo del Parral;MEX;Mexico;Chihuahua;100881
+2667;San Francisco del Rincón;MEX;Mexico;Guanajuato;100149
+2668;Taxco de Alarcón;MEX;Mexico;Guerrero;99907
+2669;Zumpango;MEX;Mexico;México;99781
+2670;San Pedro Cholula;MEX;Mexico;Puebla;99734
+2671;Lerma;MEX;Mexico;México;99714
+2672;Tecomán;MEX;Mexico;Colima;99296
+2673;Las Margaritas;MEX;Mexico;Chiapas;97389
+2674;Cosoleacaque;MEX;Mexico;Veracruz;97199
+2675;San Luis de la Paz;MEX;Mexico;Guanajuato;96763
+2676;José Azueta;MEX;Mexico;Guerrero;95448
+2677;Santiago Ixcuintla;MEX;Mexico;Nayarit;95311
+2678;San Felipe;MEX;Mexico;Guanajuato;95305
+2679;Tejupilco;MEX;Mexico;México;94934
+2680;Tantoyuca;MEX;Mexico;Veracruz;94709
+2681;Salvatierra;MEX;Mexico;Guanajuato;94322
+2682;Tultepec;MEX;Mexico;México;93364
+2683;Temixco;MEX;Mexico;Morelos;92686
+2684;Matamoros;MEX;Mexico;Coahuila de Zaragoza;91858
+2685;Pánuco;MEX;Mexico;Veracruz;90551
+2686;El Fuerte;MEX;Mexico;Sinaloa;89556
+2687;Tierra Blanca;MEX;Mexico;Veracruz;89143
+2688;Weno;FSM;Micronesia, Federated States of;Chuuk;22000
+2689;Palikir;FSM;Micronesia, Federated States of;Pohnpei;8600
+2690;Chisinau;MDA;Moldova;Chisinau;719900
+2691;Tiraspol;MDA;Moldova;Dnjestria;194300
+2692;Balti;MDA;Moldova;Balti;153400
+2693;Bender (Tîghina);MDA;Moldova;Bender (Tîghina);125700
+2694;Monte-Carlo;MCO;Monaco;�?;13154
+2695;Monaco-Ville;MCO;Monaco;�?;1234
+2696;Ulan Bator;MNG;Mongolia;Ulaanbaatar;773700
+2697;Plymouth;MSR;Montserrat;Plymouth;2000
+2698;Maputo;MOZ;Mozambique;Maputo;1018938
+2699;Matola;MOZ;Mozambique;Maputo;424662
+2700;Beira;MOZ;Mozambique;Sofala;397368
+2701;Nampula;MOZ;Mozambique;Nampula;303346
+2702;Chimoio;MOZ;Mozambique;Manica;171056
+2703;Naçala-Porto;MOZ;Mozambique;Nampula;158248
+2704;Quelimane;MOZ;Mozambique;Zambézia;150116
+2705;Mocuba;MOZ;Mozambique;Zambézia;124700
+2706;Tete;MOZ;Mozambique;Tete;101984
+2707;Xai-Xai;MOZ;Mozambique;Gaza;99442
+2708;Gurue;MOZ;Mozambique;Zambézia;99300
+2709;Maxixe;MOZ;Mozambique;Inhambane;93985
+2710;Rangoon (Yangon);MMR;Myanmar;Rangoon [Yangon];3361700
+2711;Mandalay;MMR;Myanmar;Mandalay;885300
+2712;Moulmein (Mawlamyine);MMR;Myanmar;Mon;307900
+2713;Pegu (Bago);MMR;Myanmar;Pegu [Bago];190900
+2714;Bassein (Pathein);MMR;Myanmar;Irrawaddy [Ayeyarwad;183900
+2715;Monywa;MMR;Myanmar;Sagaing;138600
+2716;Sittwe (Akyab);MMR;Myanmar;Rakhine;137600
+2717;Taunggyi (Taunggye);MMR;Myanmar;Shan;131500
+2718;Meikhtila;MMR;Myanmar;Mandalay;129700
+2719;Mergui (Myeik);MMR;Myanmar;Tenasserim [Tanintha;122700
+2720;Lashio (Lasho);MMR;Myanmar;Shan;107600
+2721;Prome (Pyay);MMR;Myanmar;Pegu [Bago];105700
+2722;Henzada (Hinthada);MMR;Myanmar;Irrawaddy [Ayeyarwad;104700
+2723;Myingyan;MMR;Myanmar;Mandalay;103600
+2724;Tavoy (Dawei);MMR;Myanmar;Tenasserim [Tanintha;96800
+2725;Pagakku (Pakokku);MMR;Myanmar;Magwe [Magway];94800
+2726;Windhoek;NAM;Namibia;Khomas;169000
+2727;Yangor;NRU;Nauru;�?;4050
+2728;Yaren;NRU;Nauru;�?;559
+2729;Kathmandu;NPL;Nepal;Central;591835
+2730;Biratnagar;NPL;Nepal;Eastern;157764
+2731;Pokhara;NPL;Nepal;Western;146318
+2732;Lalitapur;NPL;Nepal;Central;145847
+2733;Birgunj;NPL;Nepal;Central;90639
+2734;Managua;NIC;Nicaragua;Managua;959000
+2735;León;NIC;Nicaragua;León;123865
+2736;Chinandega;NIC;Nicaragua;Chinandega;97387
+2737;Masaya;NIC;Nicaragua;Masaya;88971
+2738;Niamey;NER;Niger;Niamey;420000
+2739;Zinder;NER;Niger;Zinder;120892
+2740;Maradi;NER;Niger;Maradi;112965
+2741;Lagos;NGA;Nigeria;Lagos;1518000
+2742;Ibadan;NGA;Nigeria;Oyo & Osun;1432000
+2743;Ogbomosho;NGA;Nigeria;Oyo & Osun;730000
+2744;Kano;NGA;Nigeria;Kano & Jigawa;674100
+2745;Oshogbo;NGA;Nigeria;Oyo & Osun;476800
+2746;Ilorin;NGA;Nigeria;Kwara & Kogi;475800
+2747;Abeokuta;NGA;Nigeria;Ogun;427400
+2748;Port Harcourt;NGA;Nigeria;Rivers & Bayelsa;410000
+2749;Zaria;NGA;Nigeria;Kaduna;379200
+2750;Ilesha;NGA;Nigeria;Oyo & Osun;378400
+2751;Onitsha;NGA;Nigeria;Anambra & Enugu & Eb;371900
+2752;Iwo;NGA;Nigeria;Oyo & Osun;362000
+2753;Ado-Ekiti;NGA;Nigeria;Ondo & Ekiti;359400
+2754;Abuja;NGA;Nigeria;Federal Capital Dist;350100
+2755;Kaduna;NGA;Nigeria;Kaduna;342200
+2756;Mushin;NGA;Nigeria;Lagos;333200
+2757;Maiduguri;NGA;Nigeria;Borno & Yobe;320000
+2758;Enugu;NGA;Nigeria;Anambra & Enugu & Eb;316100
+2759;Ede;NGA;Nigeria;Oyo & Osun;307100
+2760;Aba;NGA;Nigeria;Imo & Abia;298900
+2761;Ife;NGA;Nigeria;Oyo & Osun;296800
+2762;Ila;NGA;Nigeria;Oyo & Osun;264000
+2763;Oyo;NGA;Nigeria;Oyo & Osun;256400
+2764;Ikerre;NGA;Nigeria;Ondo & Ekiti;244600
+2765;Benin City;NGA;Nigeria;Edo & Delta;229400
+2766;Iseyin;NGA;Nigeria;Oyo & Osun;217300
+2767;Katsina;NGA;Nigeria;Katsina;206500
+2768;Jos;NGA;Nigeria;Plateau & Nassarawa;206300
+2769;Sokoto;NGA;Nigeria;Sokoto & Kebbi & Zam;204900
+2770;Ilobu;NGA;Nigeria;Oyo & Osun;199000
+2771;Offa;NGA;Nigeria;Kwara & Kogi;197200
+2772;Ikorodu;NGA;Nigeria;Lagos;184900
+2773;Ilawe-Ekiti;NGA;Nigeria;Ondo & Ekiti;184500
+2774;Owo;NGA;Nigeria;Ondo & Ekiti;183500
+2775;Ikirun;NGA;Nigeria;Oyo & Osun;181400
+2776;Shaki;NGA;Nigeria;Oyo & Osun;174500
+2777;Calabar;NGA;Nigeria;Cross River;174400
+2778;Ondo;NGA;Nigeria;Ondo & Ekiti;173600
+2779;Akure;NGA;Nigeria;Ondo & Ekiti;162300
+2780;Gusau;NGA;Nigeria;Sokoto & Kebbi & Zam;158000
+2781;Ijebu-Ode;NGA;Nigeria;Ogun;156400
+2782;Effon-Alaiye;NGA;Nigeria;Oyo & Osun;153100
+2783;Kumo;NGA;Nigeria;Bauchi & Gombe;148000
+2784;Shomolu;NGA;Nigeria;Lagos;147700
+2785;Oka-Akoko;NGA;Nigeria;Ondo & Ekiti;142900
+2786;Ikare;NGA;Nigeria;Ondo & Ekiti;140800
+2787;Sapele;NGA;Nigeria;Edo & Delta;139200
+2788;Deba Habe;NGA;Nigeria;Bauchi & Gombe;138600
+2789;Minna;NGA;Nigeria;Niger;136900
+2790;Warri;NGA;Nigeria;Edo & Delta;126100
+2791;Bida;NGA;Nigeria;Niger;125500
+2792;Ikire;NGA;Nigeria;Oyo & Osun;123300
+2793;Makurdi;NGA;Nigeria;Benue;123100
+2794;Lafia;NGA;Nigeria;Plateau & Nassarawa;122500
+2795;Inisa;NGA;Nigeria;Oyo & Osun;119800
+2796;Shagamu;NGA;Nigeria;Ogun;117200
+2797;Awka;NGA;Nigeria;Anambra & Enugu & Eb;111200
+2798;Gombe;NGA;Nigeria;Bauchi & Gombe;107800
+2799;Igboho;NGA;Nigeria;Oyo & Osun;106800
+2800;Ejigbo;NGA;Nigeria;Oyo & Osun;105900
+2801;Agege;NGA;Nigeria;Lagos;105000
+2802;Ise-Ekiti;NGA;Nigeria;Ondo & Ekiti;103400
+2803;Ugep;NGA;Nigeria;Cross River;102600
+2804;Epe;NGA;Nigeria;Lagos;101000
+2805;Alofi;NIU;Niue;�?;682
+2806;Kingston;NFK;Norfolk Island;�?;800
+2807;Oslo;NOR;Norway;Oslo;508726
+2808;Bergen;NOR;Norway;Hordaland;230948
+2809;Trondheim;NOR;Norway;S�?r-Tr�?ndelag;150166
+2810;Stavanger;NOR;Norway;Rogaland;108848
+2811;B�?rum;NOR;Norway;Akershus;101340
+2812;Abidjan;CIV;C�?te d�?Ivoire;Abidjan;2500000
+2813;Bouaké;CIV;C�?te d�?Ivoire;Bouaké;329850
+2814;Yamoussoukro;CIV;C�?te d�?Ivoire;Yamoussoukro;130000
+2815;Daloa;CIV;C�?te d�?Ivoire;Daloa;121842
+2816;Korhogo;CIV;C�?te d�?Ivoire;Korhogo;109445
+2817;al-Sib;OMN;Oman;Masqat;155000
+2818;Salala;OMN;Oman;Zufar;131813
+2819;Bawshar;OMN;Oman;Masqat;107500
+2820;Suhar;OMN;Oman;al-Batina;90814
+2821;Masqat;OMN;Oman;Masqat;51969
+2822;Karachi;PAK;Pakistan;Sindh;9269265
+2823;Lahore;PAK;Pakistan;Punjab;5063499
+2824;Faisalabad;PAK;Pakistan;Punjab;1977246
+2825;Rawalpindi;PAK;Pakistan;Punjab;1406214
+2826;Multan;PAK;Pakistan;Punjab;1182441
+2827;Hyderabad;PAK;Pakistan;Sindh;1151274
+2828;Gujranwala;PAK;Pakistan;Punjab;1124749
+2829;Peshawar;PAK;Pakistan;Nothwest Border Prov;988005
+2830;Quetta;PAK;Pakistan;Baluchistan;560307
+2831;Islamabad;PAK;Pakistan;Islamabad;524500
+2832;Sargodha;PAK;Pakistan;Punjab;455360
+2833;Sialkot;PAK;Pakistan;Punjab;417597
+2834;Bahawalpur;PAK;Pakistan;Punjab;403408
+2835;Sukkur;PAK;Pakistan;Sindh;329176
+2836;Jhang;PAK;Pakistan;Punjab;292214
+2837;Sheikhupura;PAK;Pakistan;Punjab;271875
+2838;Larkana;PAK;Pakistan;Sindh;270366
+2839;Gujrat;PAK;Pakistan;Punjab;250121
+2840;Mardan;PAK;Pakistan;Nothwest Border Prov;244511
+2841;Kasur;PAK;Pakistan;Punjab;241649
+2842;Rahim Yar Khan;PAK;Pakistan;Punjab;228479
+2843;Sahiwal;PAK;Pakistan;Punjab;207388
+2844;Okara;PAK;Pakistan;Punjab;200901
+2845;Wah;PAK;Pakistan;Punjab;198400
+2846;Dera Ghazi Khan;PAK;Pakistan;Punjab;188100
+2847;Mirpur Khas;PAK;Pakistan;Sind;184500
+2848;Nawabshah;PAK;Pakistan;Sind;183100
+2849;Mingora;PAK;Pakistan;Nothwest Border Prov;174500
+2850;Chiniot;PAK;Pakistan;Punjab;169300
+2851;Kamoke;PAK;Pakistan;Punjab;151000
+2852;Mandi Burewala;PAK;Pakistan;Punjab;149900
+2853;Jhelum;PAK;Pakistan;Punjab;145800
+2854;Sadiqabad;PAK;Pakistan;Punjab;141500
+2855;Jacobabad;PAK;Pakistan;Sind;137700
+2856;Shikarpur;PAK;Pakistan;Sind;133300
+2857;Khanewal;PAK;Pakistan;Punjab;133000
+2858;Hafizabad;PAK;Pakistan;Punjab;130200
+2859;Kohat;PAK;Pakistan;Nothwest Border Prov;125300
+2860;Muzaffargarh;PAK;Pakistan;Punjab;121600
+2861;Khanpur;PAK;Pakistan;Punjab;117800
+2862;Gojra;PAK;Pakistan;Punjab;115000
+2863;Bahawalnagar;PAK;Pakistan;Punjab;109600
+2864;Muridke;PAK;Pakistan;Punjab;108600
+2865;Pak Pattan;PAK;Pakistan;Punjab;107800
+2866;Abottabad;PAK;Pakistan;Nothwest Border Prov;106000
+2867;Tando Adam;PAK;Pakistan;Sind;103400
+2868;Jaranwala;PAK;Pakistan;Punjab;103300
+2869;Khairpur;PAK;Pakistan;Sind;102200
+2870;Chishtian Mandi;PAK;Pakistan;Punjab;101700
+2871;Daska;PAK;Pakistan;Punjab;101500
+2872;Dadu;PAK;Pakistan;Sind;98600
+2873;Mandi Bahauddin;PAK;Pakistan;Punjab;97300
+2874;Ahmadpur East;PAK;Pakistan;Punjab;96000
+2875;Kamalia;PAK;Pakistan;Punjab;95300
+2876;Khuzdar;PAK;Pakistan;Baluchistan;93100
+2877;Vihari;PAK;Pakistan;Punjab;92300
+2878;Dera Ismail Khan;PAK;Pakistan;Nothwest Border Prov;90400
+2879;Wazirabad;PAK;Pakistan;Punjab;89700
+2880;Nowshera;PAK;Pakistan;Nothwest Border Prov;89400
+2881;Koror;PLW;Palau;Koror;12000
+2882;Ciudad de Panamá;PAN;Panama;Panamá;471373
+2883;San Miguelito;PAN;Panama;San Miguelito;315382
+2884;Port Moresby;PNG;Papua New Guinea;National Capital Dis;247000
+2885;Asunción;PRY;Paraguay;Asunción;557776
+2886;Ciudad del Este;PRY;Paraguay;Alto Paraná;133881
+2887;San Lorenzo;PRY;Paraguay;Central;133395
+2888;Lambaré;PRY;Paraguay;Central;99681
+2889;Fernando de la Mora;PRY;Paraguay;Central;95287
+2890;Lima;PER;Peru;Lima;6464693
+2891;Arequipa;PER;Peru;Arequipa;762000
+2892;Trujillo;PER;Peru;La Libertad;652000
+2893;Chiclayo;PER;Peru;Lambayeque;517000
+2894;Callao;PER;Peru;Callao;424294
+2895;Iquitos;PER;Peru;Loreto;367000
+2896;Chimbote;PER;Peru;Ancash;336000
+2897;Huancayo;PER;Peru;Junín;327000
+2898;Piura;PER;Peru;Piura;325000
+2899;Cusco;PER;Peru;Cusco;291000
+2900;Pucallpa;PER;Peru;Ucayali;220866
+2901;Tacna;PER;Peru;Tacna;215683
+2902;Ica;PER;Peru;Ica;194820
+2903;Sullana;PER;Peru;Piura;147361
+2904;Juliaca;PER;Peru;Puno;142576
+2905;Huánuco;PER;Peru;Huanuco;129688
+2906;Ayacucho;PER;Peru;Ayacucho;118960
+2907;Chincha Alta;PER;Peru;Ica;110016
+2908;Cajamarca;PER;Peru;Cajamarca;108009
+2909;Puno;PER;Peru;Puno;101578
+2910;Ventanilla;PER;Peru;Callao;101056
+2911;Castilla;PER;Peru;Piura;90642
+2912;Adamstown;PCN;Pitcairn;�?;42
+2913;Garapan;MNP;Northern Mariana Islands;Saipan;9200
+2914;Lisboa;PRT;Portugal;Lisboa;563210
+2915;Porto;PRT;Portugal;Porto;273060
+2916;Amadora;PRT;Portugal;Lisboa;122106
+2917;Coímbra;PRT;Portugal;Coímbra;96100
+2918;Braga;PRT;Portugal;Braga;90535
+2919;San Juan;PRI;Puerto Rico;San Juan;434374
+2920;Bayamón;PRI;Puerto Rico;Bayamón;224044
+2921;Ponce;PRI;Puerto Rico;Ponce;186475
+2922;Carolina;PRI;Puerto Rico;Carolina;186076
+2923;Caguas;PRI;Puerto Rico;Caguas;140502
+2924;Arecibo;PRI;Puerto Rico;Arecibo;100131
+2925;Guaynabo;PRI;Puerto Rico;Guaynabo;100053
+2926;Mayag�?ez;PRI;Puerto Rico;Mayag�?ez;98434
+2927;Toa Baja;PRI;Puerto Rico;Toa Baja;94085
+2928;Warszawa;POL;Poland;Mazowieckie;1615369
+2929;Lódz;POL;Poland;Lodzkie;800110
+2930;Kraków;POL;Poland;Malopolskie;738150
+2931;Wroclaw;POL;Poland;Dolnoslaskie;636765
+2932;Poznan;POL;Poland;Wielkopolskie;576899
+2933;Gdansk;POL;Poland;Pomorskie;458988
+2934;Szczecin;POL;Poland;Zachodnio-Pomorskie;416988
+2935;Bydgoszcz;POL;Poland;Kujawsko-Pomorskie;386855
+2936;Lublin;POL;Poland;Lubelskie;356251
+2937;Katowice;POL;Poland;Slaskie;345934
+2938;Bialystok;POL;Poland;Podlaskie;283937
+2939;Czestochowa;POL;Poland;Slaskie;257812
+2940;Gdynia;POL;Poland;Pomorskie;253521
+2941;Sosnowiec;POL;Poland;Slaskie;244102
+2942;Radom;POL;Poland;Mazowieckie;232262
+2943;Kielce;POL;Poland;Swietokrzyskie;212383
+2944;Gliwice;POL;Poland;Slaskie;212164
+2945;Torun;POL;Poland;Kujawsko-Pomorskie;206158
+2946;Bytom;POL;Poland;Slaskie;205560
+2947;Zabrze;POL;Poland;Slaskie;200177
+2948;Bielsko-Biala;POL;Poland;Slaskie;180307
+2949;Olsztyn;POL;Poland;Warminsko-Mazurskie;170904
+2950;Rzeszów;POL;Poland;Podkarpackie;162049
+2951;Ruda Slaska;POL;Poland;Slaskie;159665
+2952;Rybnik;POL;Poland;Slaskie;144582
+2953;Walbrzych;POL;Poland;Dolnoslaskie;136923
+2954;Tychy;POL;Poland;Slaskie;133178
+2955;Dabrowa Górnicza;POL;Poland;Slaskie;131037
+2956;Plock;POL;Poland;Mazowieckie;131011
+2957;Elblag;POL;Poland;Warminsko-Mazurskie;129782
+2958;Opole;POL;Poland;Opolskie;129553
+2959;Gorzów Wielkopolski;POL;Poland;Lubuskie;126019
+2960;Wloclawek;POL;Poland;Kujawsko-Pomorskie;123373
+2961;Chorzów;POL;Poland;Slaskie;121708
+2962;Tarnów;POL;Poland;Malopolskie;121494
+2963;Zielona Góra;POL;Poland;Lubuskie;118182
+2964;Koszalin;POL;Poland;Zachodnio-Pomorskie;112375
+2965;Legnica;POL;Poland;Dolnoslaskie;109335
+2966;Kalisz;POL;Poland;Wielkopolskie;106641
+2967;Grudziadz;POL;Poland;Kujawsko-Pomorskie;102434
+2968;Slupsk;POL;Poland;Pomorskie;102370
+2969;Jastrzebie-Zdrój;POL;Poland;Slaskie;102294
+2970;Jaworzno;POL;Poland;Slaskie;97929
+2971;Jelenia Góra;POL;Poland;Dolnoslaskie;93901
+2972;Malabo;GNQ;Equatorial Guinea;Bioko;40000
+2973;Doha;QAT;Qatar;Doha;355000
+2974;Paris;FRA;France;ôle-de-France;2125246
+2975;Marseille;FRA;France;Provence-Alpes-C�?te;798430
+2976;Lyon;FRA;France;Rh�?ne-Alpes;445452
+2977;Toulouse;FRA;France;Midi-Pyrénées;390350
+2978;Nice;FRA;France;Provence-Alpes-C�?te;342738
+2979;Nantes;FRA;France;Pays de la Loire;270251
+2980;Strasbourg;FRA;France;Alsace;264115
+2981;Montpellier;FRA;France;Languedoc-Roussillon;225392
+2982;Bordeaux;FRA;France;Aquitaine;215363
+2983;Rennes;FRA;France;Haute-Normandie;206229
+2984;Le Havre;FRA;France;Champagne-Ardenne;190905
+2985;Reims;FRA;France;Nord-Pas-de-Calais;187206
+2986;Lille;FRA;France;Rh�?ne-Alpes;184657
+2987;St-�?tienne;FRA;France;Bretagne;180210
+2988;Toulon;FRA;France;Provence-Alpes-C�?te;160639
+2989;Grenoble;FRA;France;Rh�?ne-Alpes;153317
+2990;Angers;FRA;France;Pays de la Loire;151279
+2991;Dijon;FRA;France;Bourgogne;149867
+2992;Brest;FRA;France;Bretagne;149634
+2993;Le Mans;FRA;France;Pays de la Loire;146105
+2994;Clermont-Ferrand;FRA;France;Auvergne;137140
+2995;Amiens;FRA;France;Picardie;135501
+2996;Aix-en-Provence;FRA;France;Provence-Alpes-C�?te;134222
+2997;Limoges;FRA;France;Limousin;133968
+2998;Nîmes;FRA;France;Languedoc-Roussillon;133424
+2999;Tours;FRA;France;Centre;132820
+3000;Villeurbanne;FRA;France;Rh�?ne-Alpes;124215
+3001;Metz;FRA;France;Lorraine;123776
+3002;Besançon;FRA;France;Franche-Comté;117733
+3003;Caen;FRA;France;Basse-Normandie;113987
+3004;Orléans;FRA;France;Centre;113126
+3005;Mulhouse;FRA;France;Alsace;110359
+3006;Rouen;FRA;France;Haute-Normandie;106592
+3007;Boulogne-Billancourt;FRA;France;ôle-de-France;106367
+3008;Perpignan;FRA;France;Languedoc-Roussillon;105115
+3009;Nancy;FRA;France;Lorraine;103605
+3010;Roubaix;FRA;France;Nord-Pas-de-Calais;96984
+3011;Argenteuil;FRA;France;ôle-de-France;93961
+3012;Tourcoing;FRA;France;Nord-Pas-de-Calais;93540
+3013;Montreuil;FRA;France;ôle-de-France;90674
+3014;Cayenne;GUF;French Guiana;Cayenne;50699
+3015;Faaa;PYF;French Polynesia;Tahiti;25888
+3016;Papeete;PYF;French Polynesia;Tahiti;25553
+3017;Saint-Denis;REU;Réunion;Saint-Denis;131480
+3018;Bucuresti;ROM;Romania;Bukarest;2016131
+3019;Iasi;ROM;Romania;Iasi;348070
+3020;Constanta;ROM;Romania;Constanta;342264
+3021;Cluj-Napoca;ROM;Romania;Cluj;332498
+3022;Galati;ROM;Romania;Galati;330276
+3023;Timisoara;ROM;Romania;Timis;324304
+3024;Brasov;ROM;Romania;Brasov;314225
+3025;Craiova;ROM;Romania;Dolj;313530
+3026;Ploiesti;ROM;Romania;Prahova;251348
+3027;Braila;ROM;Romania;Braila;233756
+3028;Oradea;ROM;Romania;Bihor;222239
+3029;Bacau;ROM;Romania;Bacau;209235
+3030;Pitesti;ROM;Romania;Arges;187170
+3031;Arad;ROM;Romania;Arad;184408
+3032;Sibiu;ROM;Romania;Sibiu;169611
+3033;Târgu Mures;ROM;Romania;Mures;165153
+3034;Baia Mare;ROM;Romania;Maramures;149665
+3035;Buzau;ROM;Romania;Buzau;148372
+3036;Satu Mare;ROM;Romania;Satu Mare;130059
+3037;Botosani;ROM;Romania;Botosani;128730
+3038;Piatra Neamt;ROM;Romania;Neamt;125070
+3039;Râmnicu Vâlcea;ROM;Romania;Vâlcea;119741
+3040;Suceava;ROM;Romania;Suceava;118549
+3041;Drobeta-Turnu Severin;ROM;Romania;Mehedinti;117865
+3042;Târgoviste;ROM;Romania;Dâmbovita;98980
+3043;Focsani;ROM;Romania;Vrancea;98979
+3044;Târgu Jiu;ROM;Romania;Gorj;98524
+3045;Tulcea;ROM;Romania;Tulcea;96278
+3046;Resita;ROM;Romania;Caras-Severin;93976
+3047;Kigali;RWA;Rwanda;Kigali;286000
+3048;Stockholm;SWE;Sweden;Lisboa;750348
+3049;Gothenburg [Göteborg];SWE;Sweden;West Götanmaan l�?n;466990
+3050;Malmö;SWE;Sweden;Skåne l�?n;259579
+3051;Uppsala;SWE;Sweden;Uppsala l�?n;189569
+3052;Linköping;SWE;Sweden;East Götanmaan l�?n;133168
+3053;V�?sterås;SWE;Sweden;V�?stmanlands l�?n;126328
+3054;�?rebro;SWE;Sweden;�?rebros l�?n;124207
+3055;Norrköping;SWE;Sweden;East Götanmaan l�?n;122199
+3056;Helsingborg;SWE;Sweden;Skåne l�?n;117737
+3057;Jönköping;SWE;Sweden;Jönköpings l�?n;117095
+3058;Umeå;SWE;Sweden;V�?sterbottens l�?n;104512
+3059;Lund;SWE;Sweden;Skåne l�?n;98948
+3060;Borås;SWE;Sweden;West Götanmaan l�?n;96883
+3061;Sundsvall;SWE;Sweden;V�?sternorrlands l�?;93126
+3062;G�?vle;SWE;Sweden;G�?vleborgs l�?n;90742
+3063;Jamestown;SHN;Saint Helena;Saint Helena;1500
+3064;Basseterre;KNA;Saint Kitts and Nevis;St George Basseterre;11600
+3065;Castries;LCA;Saint Lucia;Castries;2301
+3066;Kingstown;VCT;Saint Vincent and the Grenadines;St George;17100
+3067;Saint-Pierre;SPM;Saint Pierre and Miquelon;Saint-Pierre;5808
+3068;Berlin;DEU;Germany;Berliini;3386667
+3069;Hamburg;DEU;Germany;Hamburg;1704735
+3070;Munich [M�?nchen];DEU;Germany;Baijeri;1194560
+3071;Köln;DEU;Germany;Nordrhein-Westfalen;962507
+3072;Frankfurt am Main;DEU;Germany;Hessen;643821
+3073;Essen;DEU;Germany;Nordrhein-Westfalen;599515
+3074;Dortmund;DEU;Germany;Nordrhein-Westfalen;590213
+3075;Stuttgart;DEU;Germany;Baden-W�?rttemberg;582443
+3076;D�?sseldorf;DEU;Germany;Nordrhein-Westfalen;568855
+3077;Bremen;DEU;Germany;Bremen;540330
+3078;Duisburg;DEU;Germany;Nordrhein-Westfalen;519793
+3079;Hannover;DEU;Germany;Niedersachsen;514718
+3080;Leipzig;DEU;Germany;Saksi;489532
+3081;N�?rnberg;DEU;Germany;Baijeri;486628
+3082;Dresden;DEU;Germany;Saksi;476668
+3083;Bochum;DEU;Germany;Nordrhein-Westfalen;392830
+3084;Wuppertal;DEU;Germany;Nordrhein-Westfalen;368993
+3085;Bielefeld;DEU;Germany;Nordrhein-Westfalen;321125
+3086;Mannheim;DEU;Germany;Baden-W�?rttemberg;307730
+3087;Bonn;DEU;Germany;Nordrhein-Westfalen;301048
+3088;Gelsenkirchen;DEU;Germany;Nordrhein-Westfalen;281979
+3089;Karlsruhe;DEU;Germany;Baden-W�?rttemberg;277204
+3090;Wiesbaden;DEU;Germany;Hessen;268716
+3091;M�?nster;DEU;Germany;Nordrhein-Westfalen;264670
+3092;Mönchengladbach;DEU;Germany;Nordrhein-Westfalen;263697
+3093;Chemnitz;DEU;Germany;Saksi;263222
+3094;Augsburg;DEU;Germany;Baijeri;254867
+3095;Halle/Saale;DEU;Germany;Anhalt Sachsen;254360
+3096;Braunschweig;DEU;Germany;Niedersachsen;246322
+3097;Aachen;DEU;Germany;Nordrhein-Westfalen;243825
+3098;Krefeld;DEU;Germany;Nordrhein-Westfalen;241769
+3099;Magdeburg;DEU;Germany;Anhalt Sachsen;235073
+3100;Kiel;DEU;Germany;Schleswig-Holstein;233795
+3101;Oberhausen;DEU;Germany;Nordrhein-Westfalen;222349
+3102;L�?beck;DEU;Germany;Schleswig-Holstein;213326
+3103;Hagen;DEU;Germany;Nordrhein-Westfalen;205201
+3104;Rostock;DEU;Germany;Mecklenburg-Vorpomme;203279
+3105;Freiburg im Breisgau;DEU;Germany;Baden-W�?rttemberg;202455
+3106;Erfurt;DEU;Germany;Th�?ringen;201267
+3107;Kassel;DEU;Germany;Hessen;196211
+3108;Saarbr�?cken;DEU;Germany;Saarland;183836
+3109;Mainz;DEU;Germany;Rheinland-Pfalz;183134
+3110;Hamm;DEU;Germany;Nordrhein-Westfalen;181804
+3111;Herne;DEU;Germany;Nordrhein-Westfalen;175661
+3112;M�?lheim an der Ruhr;DEU;Germany;Nordrhein-Westfalen;173895
+3113;Solingen;DEU;Germany;Nordrhein-Westfalen;165583
+3114;Osnabr�?ck;DEU;Germany;Niedersachsen;164539
+3115;Ludwigshafen am Rhein;DEU;Germany;Rheinland-Pfalz;163771
+3116;Leverkusen;DEU;Germany;Nordrhein-Westfalen;160841
+3117;Oldenburg;DEU;Germany;Niedersachsen;154125
+3118;Neuss;DEU;Germany;Nordrhein-Westfalen;149702
+3119;Heidelberg;DEU;Germany;Baden-W�?rttemberg;139672
+3120;Darmstadt;DEU;Germany;Hessen;137776
+3121;Paderborn;DEU;Germany;Nordrhein-Westfalen;137647
+3122;Potsdam;DEU;Germany;Brandenburg;128983
+3123;W�?rzburg;DEU;Germany;Baijeri;127350
+3124;Regensburg;DEU;Germany;Baijeri;125236
+3125;Recklinghausen;DEU;Germany;Nordrhein-Westfalen;125022
+3126;Göttingen;DEU;Germany;Niedersachsen;124775
+3127;Bremerhaven;DEU;Germany;Bremen;122735
+3128;Wolfsburg;DEU;Germany;Niedersachsen;121954
+3129;Bottrop;DEU;Germany;Nordrhein-Westfalen;121097
+3130;Remscheid;DEU;Germany;Nordrhein-Westfalen;120125
+3131;Heilbronn;DEU;Germany;Baden-W�?rttemberg;119526
+3132;Pforzheim;DEU;Germany;Baden-W�?rttemberg;117227
+3133;Offenbach am Main;DEU;Germany;Hessen;116627
+3134;Ulm;DEU;Germany;Baden-W�?rttemberg;116103
+3135;Ingolstadt;DEU;Germany;Baijeri;114826
+3136;Gera;DEU;Germany;Th�?ringen;114718
+3137;Salzgitter;DEU;Germany;Niedersachsen;112934
+3138;Cottbus;DEU;Germany;Brandenburg;110894
+3139;Reutlingen;DEU;Germany;Baden-W�?rttemberg;110343
+3140;F�?rth;DEU;Germany;Baijeri;109771
+3141;Siegen;DEU;Germany;Nordrhein-Westfalen;109225
+3142;Koblenz;DEU;Germany;Rheinland-Pfalz;108003
+3143;Moers;DEU;Germany;Nordrhein-Westfalen;106837
+3144;Bergisch Gladbach;DEU;Germany;Nordrhein-Westfalen;106150
+3145;Zwickau;DEU;Germany;Saksi;104146
+3146;Hildesheim;DEU;Germany;Niedersachsen;104013
+3147;Witten;DEU;Germany;Nordrhein-Westfalen;103384
+3148;Schwerin;DEU;Germany;Mecklenburg-Vorpomme;102878
+3149;Erlangen;DEU;Germany;Baijeri;100750
+3150;Kaiserslautern;DEU;Germany;Rheinland-Pfalz;100025
+3151;Trier;DEU;Germany;Rheinland-Pfalz;99891
+3152;Jena;DEU;Germany;Th�?ringen;99779
+3153;Iserlohn;DEU;Germany;Nordrhein-Westfalen;99474
+3154;G�?tersloh;DEU;Germany;Nordrhein-Westfalen;95028
+3155;Marl;DEU;Germany;Nordrhein-Westfalen;93735
+3156;L�?nen;DEU;Germany;Nordrhein-Westfalen;92044
+3157;D�?ren;DEU;Germany;Nordrhein-Westfalen;91092
+3158;Ratingen;DEU;Germany;Nordrhein-Westfalen;90951
+3159;Velbert;DEU;Germany;Nordrhein-Westfalen;89881
+3160;Esslingen am Neckar;DEU;Germany;Baden-W�?rttemberg;89667
+3161;Honiara;SLB;Solomon Islands;Honiara;50100
+3162;Lusaka;ZMB;Zambia;Lusaka;1317000
+3163;Ndola;ZMB;Zambia;Copperbelt;329200
+3164;Kitwe;ZMB;Zambia;Copperbelt;288600
+3165;Kabwe;ZMB;Zambia;Central;154300
+3166;Chingola;ZMB;Zambia;Copperbelt;142400
+3167;Mufulira;ZMB;Zambia;Copperbelt;123900
+3168;Luanshya;ZMB;Zambia;Copperbelt;118100
+3169;Apia;WSM;Samoa;Upolu;35900
+3170;Serravalle;SMR;San Marino;Serravalle/Dogano;4802
+3171;San Marino;SMR;San Marino;San Marino;2294
+3172;São Tomé;STP;Sao Tome and Principe;Aqua Grande;49541
+3173;Riyadh;SAU;Saudi Arabia;Riyadh;3324000
+3174;Jedda;SAU;Saudi Arabia;Mekka;2046300
+3175;Mekka;SAU;Saudi Arabia;Mekka;965700
+3176;Medina;SAU;Saudi Arabia;Medina;608300
+3177;al-Dammam;SAU;Saudi Arabia;al-Sharqiya;482300
+3178;al-Taif;SAU;Saudi Arabia;Mekka;416100
+3179;Tabuk;SAU;Saudi Arabia;Tabuk;292600
+3180;Burayda;SAU;Saudi Arabia;al-Qasim;248600
+3181;al-Hufuf;SAU;Saudi Arabia;al-Sharqiya;225800
+3182;al-Mubarraz;SAU;Saudi Arabia;al-Sharqiya;219100
+3183;Khamis Mushayt;SAU;Saudi Arabia;Asir;217900
+3184;Hail;SAU;Saudi Arabia;Hail;176800
+3185;al-Kharj;SAU;Saudi Arabia;Riad;152100
+3186;al-Khubar;SAU;Saudi Arabia;al-Sharqiya;141700
+3187;Jubayl;SAU;Saudi Arabia;al-Sharqiya;140800
+3188;Hafar al-Batin;SAU;Saudi Arabia;al-Sharqiya;137800
+3189;al-Tuqba;SAU;Saudi Arabia;al-Sharqiya;125700
+3190;Yanbu;SAU;Saudi Arabia;Medina;119800
+3191;Abha;SAU;Saudi Arabia;Asir;112300
+3192;Ara�?ar;SAU;Saudi Arabia;al-Khudud al-Samaliy;108100
+3193;al-Qatif;SAU;Saudi Arabia;al-Sharqiya;98900
+3194;al-Hawiya;SAU;Saudi Arabia;Mekka;93900
+3195;Unayza;SAU;Saudi Arabia;Qasim;91100
+3196;Najran;SAU;Saudi Arabia;Najran;91000
+3197;Pikine;SEN;Senegal;Cap-Vert;855287
+3198;Dakar;SEN;Senegal;Cap-Vert;785071
+3199;Thi�?s;SEN;Senegal;Thi�?s;248000
+3200;Kaolack;SEN;Senegal;Kaolack;199000
+3201;Ziguinchor;SEN;Senegal;Ziguinchor;192000
+3202;Rufisque;SEN;Senegal;Cap-Vert;150000
+3203;Saint-Louis;SEN;Senegal;Saint-Louis;132400
+3204;Mbour;SEN;Senegal;Thi�?s;109300
+3205;Diourbel;SEN;Senegal;Diourbel;99400
+3206;Victoria;SYC;Seychelles;Mahé;41000
+3207;Freetown;SLE;Sierra Leone;Western;850000
+3208;Singapore;SGP;Singapore;�?;4017733
+3209;Bratislava;SVK;Slovakia;Bratislava;448292
+3210;Ko¨ice;SVK;Slovakia;V�?chodné Slovensko;241874
+3211;Pre¨ov;SVK;Slovakia;V�?chodné Slovensko;93977
+3212;Ljubljana;SVN;Slovenia;Osrednjeslovenska;270986
+3213;Maribor;SVN;Slovenia;Podravska;115532
+3214;Mogadishu;SOM;Somalia;Banaadir;997000
+3215;Hargeysa;SOM;Somalia;Woqooyi Galbeed;90000
+3216;Kismaayo;SOM;Somalia;Jubbada Hoose;90000
+3217;Colombo;LKA;Sri Lanka;Western;645000
+3218;Dehiwala;LKA;Sri Lanka;Western;203000
+3219;Moratuwa;LKA;Sri Lanka;Western;190000
+3220;Jaffna;LKA;Sri Lanka;Northern;149000
+3221;Kandy;LKA;Sri Lanka;Central;140000
+3222;Sri Jayawardenepura Kotte;LKA;Sri Lanka;Western;118000
+3223;Negombo;LKA;Sri Lanka;Western;100000
+3224;Omdurman;SDN;Sudan;Khartum;1271403
+3225;Khartum;SDN;Sudan;Khartum;947483
+3226;Sharq al-Nil;SDN;Sudan;Khartum;700887
+3227;Port Sudan;SDN;Sudan;al-Bahr al-Ahmar;308195
+3228;Kassala;SDN;Sudan;Kassala;234622
+3229;Obeid;SDN;Sudan;Kurdufan al-Shamaliy;229425
+3230;Nyala;SDN;Sudan;Darfur al-Janubiya;227183
+3231;Wad Madani;SDN;Sudan;al-Jazira;211362
+3232;al-Qadarif;SDN;Sudan;al-Qadarif;191164
+3233;Kusti;SDN;Sudan;al-Bahr al-Abyad;173599
+3234;al-Fashir;SDN;Sudan;Darfur al-Shamaliya;141884
+3235;Juba;SDN;Sudan;Bahr al-Jabal;114980
+3236;Helsinki [Helsingfors];FIN;Finland;Newmaa;555474
+3237;Espoo;FIN;Finland;Newmaa;213271
+3238;Tampere;FIN;Finland;Pirkanmaa;195468
+3239;Vantaa;FIN;Finland;Newmaa;178471
+3240;Turku [�?bo];FIN;Finland;Varsinais-Suomi;172561
+3241;Oulu;FIN;Finland;Pohjois-Pohjanmaa;120753
+3242;Lahti;FIN;Finland;P�?ij�?t-H�?me;96921
+3243;Paramaribo;SUR;Suriname;Paramaribo;112000
+3244;Mbabane;SWZ;Swaziland;Hhohho;61000
+3245;Z�?rich;CHE;Switzerland;Z�?rich;336800
+3246;Geneve;CHE;Switzerland;Geneve;173500
+3247;Basel;CHE;Switzerland;Basel-Stadt;166700
+3248;Bern;CHE;Switzerland;Bern;122700
+3249;Lausanne;CHE;Switzerland;Vaud;114500
+3250;Damascus;SYR;Syria;Damascus;1347000
+3251;Aleppo;SYR;Syria;Aleppo;1261983
+3252;Hims;SYR;Syria;Hims;507404
+3253;Hama;SYR;Syria;Hama;343361
+3254;Latakia;SYR;Syria;Latakia;264563
+3255;al-Qamishliya;SYR;Syria;al-Hasaka;144286
+3256;Dayr al-Zawr;SYR;Syria;Dayr al-Zawr;140459
+3257;Jaramana;SYR;Syria;Damaskos;138469
+3258;Duma;SYR;Syria;Damaskos;131158
+3259;al-Raqqa;SYR;Syria;al-Raqqa;108020
+3260;Idlib;SYR;Syria;Idlib;91081
+3261;Dushanbe;TJK;Tajikistan;Karotegin;524000
+3262;Khujand;TJK;Tajikistan;Khujand;161500
+3263;Taipei;TWN;Taiwan;Taipei;2641312
+3264;Kaohsiung;TWN;Taiwan;Kaohsiung;1475505
+3265;Taichung;TWN;Taiwan;Taichung;940589
+3266;Tainan;TWN;Taiwan;Tainan;728060
+3267;Panchiao;TWN;Taiwan;Taipei;523850
+3268;Chungho;TWN;Taiwan;Taipei;392176
+3269;Keelung (Chilung);TWN;Taiwan;Keelung;385201
+3270;Sanchung;TWN;Taiwan;Taipei;380084
+3271;Hsinchuang;TWN;Taiwan;Taipei;365048
+3272;Hsinchu;TWN;Taiwan;Hsinchu;361958
+3273;Chungli;TWN;Taiwan;Taoyuan;318649
+3274;Fengshan;TWN;Taiwan;Kaohsiung;318562
+3275;Taoyuan;TWN;Taiwan;Taoyuan;316438
+3276;Chiayi;TWN;Taiwan;Chiayi;265109
+3277;Hsintien;TWN;Taiwan;Taipei;263603
+3278;Changhwa;TWN;Taiwan;Changhwa;227715
+3279;Yungho;TWN;Taiwan;Taipei;227700
+3280;Tucheng;TWN;Taiwan;Taipei;224897
+3281;Pingtung;TWN;Taiwan;Pingtung;214727
+3282;Yungkang;TWN;Taiwan;Tainan;193005
+3283;Pingchen;TWN;Taiwan;Taoyuan;188344
+3284;Tali;TWN;Taiwan;Taichung;171940
+3285;Taiping;TWN;Taiwan;;165524
+3286;Pate;TWN;Taiwan;Taoyuan;161700
+3287;Fengyuan;TWN;Taiwan;Taichung;161032
+3288;Luchou;TWN;Taiwan;Taipei;160516
+3289;Hsichuh;TWN;Taiwan;Taipei;154976
+3290;Shulin;TWN;Taiwan;Taipei;151260
+3291;Yuanlin;TWN;Taiwan;Changhwa;126402
+3292;Yangmei;TWN;Taiwan;Taoyuan;126323
+3293;Taliao;TWN;Taiwan;;115897
+3294;Kueishan;TWN;Taiwan;;112195
+3295;Tanshui;TWN;Taiwan;Taipei;111882
+3296;Taitung;TWN;Taiwan;Taitung;111039
+3297;Hualien;TWN;Taiwan;Hualien;108407
+3298;Nantou;TWN;Taiwan;Nantou;104723
+3299;Lungtan;TWN;Taiwan;Taipei;103088
+3300;Touliu;TWN;Taiwan;Y�?nlin;98900
+3301;Tsaotun;TWN;Taiwan;Nantou;96800
+3302;Kangshan;TWN;Taiwan;Kaohsiung;92200
+3303;Ilan;TWN;Taiwan;Ilan;92000
+3304;Miaoli;TWN;Taiwan;Miaoli;90000
+3305;Dar es Salaam;TZA;Tanzania;Dar es Salaam;1747000
+3306;Dodoma;TZA;Tanzania;Dodoma;189000
+3307;Mwanza;TZA;Tanzania;Mwanza;172300
+3308;Zanzibar;TZA;Tanzania;Zanzibar West;157634
+3309;Tanga;TZA;Tanzania;Tanga;137400
+3310;Mbeya;TZA;Tanzania;Mbeya;130800
+3311;Morogoro;TZA;Tanzania;Morogoro;117800
+3312;Arusha;TZA;Tanzania;Arusha;102500
+3313;Moshi;TZA;Tanzania;Kilimanjaro;96800
+3314;Tabora;TZA;Tanzania;Tabora;92800
+3315;K�?benhavn;DNK;Denmark;K�?benhavn;495699
+3316;�?rhus;DNK;Denmark;�?rhus;284846
+3317;Odense;DNK;Denmark;Fyn;183912
+3318;Aalborg;DNK;Denmark;Nordjylland;161161
+3319;Frederiksberg;DNK;Denmark;Frederiksberg;90327
+3320;Bangkok;THA;Thailand;Bangkok;6320174
+3321;Nonthaburi;THA;Thailand;Nonthaburi;292100
+3322;Nakhon Ratchasima;THA;Thailand;Nakhon Ratchasima;181400
+3323;Chiang Mai;THA;Thailand;Chiang Mai;171100
+3324;Udon Thani;THA;Thailand;Udon Thani;158100
+3325;Hat Yai;THA;Thailand;Songkhla;148632
+3326;Khon Kaen;THA;Thailand;Khon Kaen;126500
+3327;Pak Kret;THA;Thailand;Nonthaburi;126055
+3328;Nakhon Sawan;THA;Thailand;Nakhon Sawan;123800
+3329;Ubon Ratchathani;THA;Thailand;Ubon Ratchathani;116300
+3330;Songkhla;THA;Thailand;Songkhla;94900
+3331;Nakhon Pathom;THA;Thailand;Nakhon Pathom;94100
+3332;Lomé;TGO;Togo;Maritime;375000
+3333;Fakaofo;TKL;Tokelau;Fakaofo;300
+3334;Nuku�?alofa;TON;Tonga;Tongatapu;22400
+3335;Chaguanas;TTO;Trinidad and Tobago;Caroni;56601
+3336;Port-of-Spain;TTO;Trinidad and Tobago;Port-of-Spain;43396
+3337;N�?Djaména;TCD;Chad;Chari-Baguirmi;530965
+3338;Moundou;TCD;Chad;Logone Occidental;99500
+3339;Praha;CZE;Czech Republic;Hlavní mesto Praha;1181126
+3340;Brno;CZE;Czech Republic;Jizní Morava;381862
+3341;Ostrava;CZE;Czech Republic;Severní Morava;320041
+3342;Plzen;CZE;Czech Republic;Zapadní Cechy;166759
+3343;Olomouc;CZE;Czech Republic;Severní Morava;102702
+3344;Liberec;CZE;Czech Republic;Severní Cechy;99155
+3345;Ceské Budejovice;CZE;Czech Republic;Jizní Cechy;98186
+3346;Hradec Králové;CZE;Czech Republic;V�?chodní Cechy;98080
+3347;èstí nad Labem;CZE;Czech Republic;Severní Cechy;95491
+3348;Pardubice;CZE;Czech Republic;V�?chodní Cechy;91309
+3349;Tunis;TUN;Tunisia;Tunis;690600
+3350;Sfax;TUN;Tunisia;Sfax;257800
+3351;Ariana;TUN;Tunisia;Ariana;197000
+3352;Ettadhamen;TUN;Tunisia;Ariana;178600
+3353;Sousse;TUN;Tunisia;Sousse;145900
+3354;Kairouan;TUN;Tunisia;Kairouan;113100
+3355;Biserta;TUN;Tunisia;Biserta;108900
+3356;Gab�?s;TUN;Tunisia;Gab�?s;106600
+3357;Istanbul;TUR;Turkey;Istanbul;8787958
+3358;Ankara;TUR;Turkey;Ankara;3038159
+3359;Izmir;TUR;Turkey;Izmir;2130359
+3360;Adana;TUR;Turkey;Adana;1131198
+3361;Bursa;TUR;Turkey;Bursa;1095842
+3362;Gaziantep;TUR;Turkey;Gaziantep;789056
+3363;Konya;TUR;Turkey;Konya;628364
+3364;Mersin (Içel);TUR;Turkey;Içel;587212
+3365;Antalya;TUR;Turkey;Antalya;564914
+3366;Diyarbakir;TUR;Turkey;Diyarbakir;479884
+3367;Kayseri;TUR;Turkey;Kayseri;475657
+3368;Eskisehir;TUR;Turkey;Eskisehir;470781
+3369;Sanliurfa;TUR;Turkey;Sanliurfa;405905
+3370;Samsun;TUR;Turkey;Samsun;339871
+3371;Malatya;TUR;Turkey;Malatya;330312
+3372;Gebze;TUR;Turkey;Kocaeli;264170
+3373;Denizli;TUR;Turkey;Denizli;253848
+3374;Sivas;TUR;Turkey;Sivas;246642
+3375;Erzurum;TUR;Turkey;Erzurum;246535
+3376;Tarsus;TUR;Turkey;Adana;246206
+3377;Kahramanmaras;TUR;Turkey;Kahramanmaras;245772
+3378;Elâzig;TUR;Turkey;Elâzig;228815
+3379;Van;TUR;Turkey;Van;219319
+3380;Sultanbeyli;TUR;Turkey;Istanbul;211068
+3381;Izmit (Kocaeli);TUR;Turkey;Kocaeli;210068
+3382;Manisa;TUR;Turkey;Manisa;207148
+3383;Batman;TUR;Turkey;Batman;203793
+3384;Balikesir;TUR;Turkey;Balikesir;196382
+3385;Sakarya (Adapazari);TUR;Turkey;Sakarya;190641
+3386;Iskenderun;TUR;Turkey;Hatay;153022
+3387;Osmaniye;TUR;Turkey;Osmaniye;146003
+3388;�?orum;TUR;Turkey;�?orum;145495
+3389;K�?tahya;TUR;Turkey;K�?tahya;144761
+3390;Hatay (Antakya);TUR;Turkey;Hatay;143982
+3391;Kirikkale;TUR;Turkey;Kirikkale;142044
+3392;Adiyaman;TUR;Turkey;Adiyaman;141529
+3393;Trabzon;TUR;Turkey;Trabzon;138234
+3394;Ordu;TUR;Turkey;Ordu;133642
+3395;Aydin;TUR;Turkey;Aydin;128651
+3396;Usak;TUR;Turkey;Usak;128162
+3397;Edirne;TUR;Turkey;Edirne;123383
+3398;�?orlu;TUR;Turkey;Tekirdag;123300
+3399;Isparta;TUR;Turkey;Isparta;121911
+3400;Karab�?k;TUR;Turkey;Karab�?k;118285
+3401;Kilis;TUR;Turkey;Kilis;118245
+3402;Alanya;TUR;Turkey;Antalya;117300
+3403;Kiziltepe;TUR;Turkey;Mardin;112000
+3404;Zonguldak;TUR;Turkey;Zonguldak;111542
+3405;Siirt;TUR;Turkey;Siirt;107100
+3406;Viransehir;TUR;Turkey;Sanliurfa;106400
+3407;Tekirdag;TUR;Turkey;Tekirdag;106077
+3408;Karaman;TUR;Turkey;Karaman;104200
+3409;Afyon;TUR;Turkey;Afyon;103984
+3410;Aksaray;TUR;Turkey;Aksaray;102681
+3411;Ceyhan;TUR;Turkey;Adana;102412
+3412;Erzincan;TUR;Turkey;Erzincan;102304
+3413;Bismil;TUR;Turkey;Diyarbakir;101400
+3414;Nazilli;TUR;Turkey;Aydin;99900
+3415;Tokat;TUR;Turkey;Tokat;99500
+3416;Kars;TUR;Turkey;Kars;93000
+3417;Inegöl;TUR;Turkey;Bursa;90500
+3418;Bandirma;TUR;Turkey;Balikesir;90200
+3419;Ashgabat;TKM;Turkmenistan;Ahal;540600
+3420;Ch�?rjew;TKM;Turkmenistan;Lebap;189200
+3421;Dashhowuz;TKM;Turkmenistan;Dashhowuz;141800
+3422;Mary;TKM;Turkmenistan;Mary;101000
+3423;Cockburn Town;TCA;Turks and Caicos Islands;Grand Turk;4800
+3424;Funafuti;TUV;Tuvalu;Funafuti;4600
+3425;Kampala;UGA;Uganda;Central;890800
+3426;Kyiv;UKR;Ukraine;Kiova;2624000
+3427;Harkova [Harkiv];UKR;Ukraine;Harkova;1500000
+3428;Dnipropetrovsk;UKR;Ukraine;Dnipropetrovsk;1103000
+3429;Donetsk;UKR;Ukraine;Donetsk;1050000
+3430;Odesa;UKR;Ukraine;Odesa;1011000
+3431;Zaporizzja;UKR;Ukraine;Zaporizzja;848000
+3432;Lviv;UKR;Ukraine;Lviv;788000
+3433;Kryvyi Rig;UKR;Ukraine;Dnipropetrovsk;703000
+3434;Mykolajiv;UKR;Ukraine;Mykolajiv;508000
+3435;Mariupol;UKR;Ukraine;Donetsk;490000
+3436;Lugansk;UKR;Ukraine;Lugansk;469000
+3437;Vinnytsja;UKR;Ukraine;Vinnytsja;391000
+3438;Makijivka;UKR;Ukraine;Donetsk;384000
+3439;Herson;UKR;Ukraine;Herson;353000
+3440;Sevastopol;UKR;Ukraine;Krim;348000
+3441;Simferopol;UKR;Ukraine;Krim;339000
+3442;Pultava [Poltava];UKR;Ukraine;Pultava;313000
+3443;T¨ernigiv;UKR;Ukraine;T¨ernigiv;313000
+3444;T¨erkasy;UKR;Ukraine;T¨erkasy;309000
+3445;Gorlivka;UKR;Ukraine;Donetsk;299000
+3446;Zytomyr;UKR;Ukraine;Zytomyr;297000
+3447;Sumy;UKR;Ukraine;Sumy;294000
+3448;Dniprodzerzynsk;UKR;Ukraine;Dnipropetrovsk;270000
+3449;Kirovograd;UKR;Ukraine;Kirovograd;265000
+3450;Hmelnytskyi;UKR;Ukraine;Hmelnytskyi;262000
+3451;T¨ernivtsi;UKR;Ukraine;T¨ernivtsi;259000
+3452;Rivne;UKR;Ukraine;Rivne;245000
+3453;Krement¨uk;UKR;Ukraine;Pultava;239000
+3454;Ivano-Frankivsk;UKR;Ukraine;Ivano-Frankivsk;237000
+3455;Ternopil;UKR;Ukraine;Ternopil;236000
+3456;Lutsk;UKR;Ukraine;Volynia;217000
+3457;Bila Tserkva;UKR;Ukraine;Kiova;215000
+3458;Kramatorsk;UKR;Ukraine;Donetsk;186000
+3459;Melitopol;UKR;Ukraine;Zaporizzja;169000
+3460;Kert¨;UKR;Ukraine;Krim;162000
+3461;Nikopol;UKR;Ukraine;Dnipropetrovsk;149000
+3462;Berdjansk;UKR;Ukraine;Zaporizzja;130000
+3463;Pavlograd;UKR;Ukraine;Dnipropetrovsk;127000
+3464;Sjeverodonetsk;UKR;Ukraine;Lugansk;127000
+3465;Slovjansk;UKR;Ukraine;Donetsk;127000
+3466;Uzgorod;UKR;Ukraine;Taka-Karpatia;127000
+3467;Alt¨evsk;UKR;Ukraine;Lugansk;119000
+3468;Lysyt¨ansk;UKR;Ukraine;Lugansk;116000
+3469;Jevpatorija;UKR;Ukraine;Krim;112000
+3470;Kamjanets-Podilskyi;UKR;Ukraine;Hmelnytskyi;109000
+3471;Jenakijeve;UKR;Ukraine;Donetsk;105000
+3472;Krasnyi Lut¨;UKR;Ukraine;Lugansk;101000
+3473;Stahanov;UKR;Ukraine;Lugansk;101000
+3474;Oleksandrija;UKR;Ukraine;Kirovograd;99000
+3475;Konotop;UKR;Ukraine;Sumy;96000
+3476;Kostjantynivka;UKR;Ukraine;Donetsk;95000
+3477;Berdyt¨iv;UKR;Ukraine;Zytomyr;90000
+3478;Izmajil;UKR;Ukraine;Odesa;90000
+3479;¦ostka;UKR;Ukraine;Sumy;90000
+3480;Uman;UKR;Ukraine;T¨erkasy;90000
+3481;Brovary;UKR;Ukraine;Kiova;89000
+3482;Mukat¨eve;UKR;Ukraine;Taka-Karpatia;89000
+3483;Budapest;HUN;Hungary;Budapest;1811552
+3484;Debrecen;HUN;Hungary;Hajdú-Bihar;203648
+3485;Miskolc;HUN;Hungary;Borsod-Abaúj-Zempl�;172357
+3486;Szeged;HUN;Hungary;Csongrád;158158
+3487;Pécs;HUN;Hungary;Baranya;157332
+3488;Györ;HUN;Hungary;Györ-Moson-Sopron;127119
+3489;Nyiregyháza;HUN;Hungary;Szabolcs-Szatmár-Be;112419
+3490;Kecskemét;HUN;Hungary;Bács-Kiskun;105606
+3491;Székesfehérvár;HUN;Hungary;Fejér;105119
+3492;Montevideo;URY;Uruguay;Montevideo;1236000
+3493;Nouméa;NCL;New Caledonia;�?;76293
+3494;Auckland;NZL;New Zealand;Auckland;381800
+3495;Christchurch;NZL;New Zealand;Canterbury;324200
+3496;Manukau;NZL;New Zealand;Auckland;281800
+3497;North Shore;NZL;New Zealand;Auckland;187700
+3498;Waitakere;NZL;New Zealand;Auckland;170600
+3499;Wellington;NZL;New Zealand;Wellington;166700
+3500;Dunedin;NZL;New Zealand;Dunedin;119600
+3501;Hamilton;NZL;New Zealand;Hamilton;117100
+3502;Lower Hutt;NZL;New Zealand;Wellington;98100
+3503;Toskent;UZB;Uzbekistan;Toskent Shahri;2117500
+3504;Namangan;UZB;Uzbekistan;Namangan;370500
+3505;Samarkand;UZB;Uzbekistan;Samarkand;361800
+3506;Andijon;UZB;Uzbekistan;Andijon;318600
+3507;Buhoro;UZB;Uzbekistan;Buhoro;237100
+3508;Karsi;UZB;Uzbekistan;Qashqadaryo;194100
+3509;Nukus;UZB;Uzbekistan;Karakalpakistan;194100
+3510;K�?kon;UZB;Uzbekistan;Fargona;190100
+3511;Fargona;UZB;Uzbekistan;Fargona;180500
+3512;Circik;UZB;Uzbekistan;Toskent;146400
+3513;Margilon;UZB;Uzbekistan;Fargona;140800
+3514;ýrgenc;UZB;Uzbekistan;Khorazm;138900
+3515;Angren;UZB;Uzbekistan;Toskent;128000
+3516;Cizah;UZB;Uzbekistan;Cizah;124800
+3517;Navoi;UZB;Uzbekistan;Navoi;116300
+3518;Olmalik;UZB;Uzbekistan;Toskent;114900
+3519;Termiz;UZB;Uzbekistan;Surkhondaryo;109500
+3520;Minsk;BLR;Belarus;Horad Minsk;1674000
+3521;Gomel;BLR;Belarus;Gomel;475000
+3522;Mogiljov;BLR;Belarus;Mogiljov;356000
+3523;Vitebsk;BLR;Belarus;Vitebsk;340000
+3524;Grodno;BLR;Belarus;Grodno;302000
+3525;Brest;BLR;Belarus;Brest;286000
+3526;Bobruisk;BLR;Belarus;Mogiljov;221000
+3527;Baranovit¨i;BLR;Belarus;Brest;167000
+3528;Borisov;BLR;Belarus;Minsk;151000
+3529;Pinsk;BLR;Belarus;Brest;130000
+3530;Or¨a;BLR;Belarus;Vitebsk;124000
+3531;Mozyr;BLR;Belarus;Gomel;110000
+3532;Novopolotsk;BLR;Belarus;Vitebsk;106000
+3533;Lida;BLR;Belarus;Grodno;101000
+3534;Soligorsk;BLR;Belarus;Minsk;101000
+3535;Molodet¨no;BLR;Belarus;Minsk;97000
+3536;Mata-Utu;WLF;Wallis and Futuna;Wallis;1137
+3537;Port-Vila;VUT;Vanuatu;Shefa;33700
+3538;Città del Vaticano;VAT;Holy See (Vatican City State);�?;455
+3539;Caracas;VEN;Venezuela;Distrito Federal;1975294
+3540;Maracaíbo;VEN;Venezuela;Zulia;1304776
+3541;Barquisimeto;VEN;Venezuela;Lara;877239
+3542;Valencia;VEN;Venezuela;Carabobo;794246
+3543;Ciudad Guayana;VEN;Venezuela;Bolívar;663713
+3544;Petare;VEN;Venezuela;Miranda;488868
+3545;Maracay;VEN;Venezuela;Aragua;444443
+3546;Barcelona;VEN;Venezuela;Anzoátegui;322267
+3547;Maturín;VEN;Venezuela;Monagas;319726
+3548;San Cristóbal;VEN;Venezuela;Táchira;319373
+3549;Ciudad Bolívar;VEN;Venezuela;Bolívar;301107
+3550;Cumaná;VEN;Venezuela;Sucre;293105
+3551;Mérida;VEN;Venezuela;Mérida;224887
+3552;Cabimas;VEN;Venezuela;Zulia;221329
+3553;Barinas;VEN;Venezuela;Barinas;217831
+3554;Turmero;VEN;Venezuela;Aragua;217499
+3555;Baruta;VEN;Venezuela;Miranda;207290
+3556;Puerto Cabello;VEN;Venezuela;Carabobo;187722
+3557;Santa Ana de Coro;VEN;Venezuela;Falcón;185766
+3558;Los Teques;VEN;Venezuela;Miranda;178784
+3559;Punto Fijo;VEN;Venezuela;Falcón;167215
+3560;Guarenas;VEN;Venezuela;Miranda;165889
+3561;Acarigua;VEN;Venezuela;Portuguesa;158954
+3562;Puerto La Cruz;VEN;Venezuela;Anzoátegui;155700
+3563;Ciudad Losada;VEN;Venezuela;;134501
+3564;Guacara;VEN;Venezuela;Carabobo;131334
+3565;Valera;VEN;Venezuela;Trujillo;130281
+3566;Guanare;VEN;Venezuela;Portuguesa;125621
+3567;Carúpano;VEN;Venezuela;Sucre;119639
+3568;Catia La Mar;VEN;Venezuela;Distrito Federal;117012
+3569;El Tigre;VEN;Venezuela;Anzoátegui;116256
+3570;Guatire;VEN;Venezuela;Miranda;109121
+3571;Calabozo;VEN;Venezuela;Guárico;107146
+3572;Pozuelos;VEN;Venezuela;Anzoátegui;105690
+3573;Ciudad Ojeda;VEN;Venezuela;Zulia;99354
+3574;Ocumare del Tuy;VEN;Venezuela;Miranda;97168
+3575;Valle de la Pascua;VEN;Venezuela;Guárico;95927
+3576;Araure;VEN;Venezuela;Portuguesa;94269
+3577;San Fernando de Apure;VEN;Venezuela;Apure;93809
+3578;San Felipe;VEN;Venezuela;Yaracuy;90940
+3579;El Limón;VEN;Venezuela;Aragua;90000
+3580;Moscow;RUS;Russian Federation;Moscow (City);8389200
+3581;St Petersburg;RUS;Russian Federation;Pietari;4694000
+3582;Novosibirsk;RUS;Russian Federation;Novosibirsk;1398800
+3583;Nizni Novgorod;RUS;Russian Federation;Nizni Novgorod;1357000
+3584;Jekaterinburg;RUS;Russian Federation;Sverdlovsk;1266300
+3585;Samara;RUS;Russian Federation;Samara;1156100
+3586;Omsk;RUS;Russian Federation;Omsk;1148900
+3587;Kazan;RUS;Russian Federation;Tatarstan;1101000
+3588;Ufa;RUS;Russian Federation;Ba¨kortostan;1091200
+3589;T¨eljabinsk;RUS;Russian Federation;T¨eljabinsk;1083200
+3590;Rostov-na-Donu;RUS;Russian Federation;Rostov-na-Donu;1012700
+3591;Perm;RUS;Russian Federation;Perm;1009700
+3592;Volgograd;RUS;Russian Federation;Volgograd;993400
+3593;Voronez;RUS;Russian Federation;Voronez;907700
+3594;Krasnojarsk;RUS;Russian Federation;Krasnojarsk;875500
+3595;Saratov;RUS;Russian Federation;Saratov;874000
+3596;Toljatti;RUS;Russian Federation;Samara;722900
+3597;Uljanovsk;RUS;Russian Federation;Uljanovsk;667400
+3598;Izevsk;RUS;Russian Federation;Udmurtia;652800
+3599;Krasnodar;RUS;Russian Federation;Krasnodar;639000
+3600;Jaroslavl;RUS;Russian Federation;Jaroslavl;616700
+3601;Habarovsk;RUS;Russian Federation;Habarovsk;609400
+3602;Vladivostok;RUS;Russian Federation;Primorje;606200
+3603;Irkutsk;RUS;Russian Federation;Irkutsk;593700
+3604;Barnaul;RUS;Russian Federation;Altai;580100
+3605;Novokuznetsk;RUS;Russian Federation;Kemerovo;561600
+3606;Penza;RUS;Russian Federation;Penza;532200
+3607;Rjazan;RUS;Russian Federation;Rjazan;529900
+3608;Orenburg;RUS;Russian Federation;Orenburg;523600
+3609;Lipetsk;RUS;Russian Federation;Lipetsk;521000
+3610;Nabereznyje T¨elny;RUS;Russian Federation;Tatarstan;514700
+3611;Tula;RUS;Russian Federation;Tula;506100
+3612;Tjumen;RUS;Russian Federation;Tjumen;503400
+3613;Kemerovo;RUS;Russian Federation;Kemerovo;492700
+3614;Astrahan;RUS;Russian Federation;Astrahan;486100
+3615;Tomsk;RUS;Russian Federation;Tomsk;482100
+3616;Kirov;RUS;Russian Federation;Kirov;466200
+3617;Ivanovo;RUS;Russian Federation;Ivanovo;459200
+3618;T¨eboksary;RUS;Russian Federation;T¨uvassia;459200
+3619;Brjansk;RUS;Russian Federation;Brjansk;457400
+3620;Tver;RUS;Russian Federation;Tver;454900
+3621;Kursk;RUS;Russian Federation;Kursk;443500
+3622;Magnitogorsk;RUS;Russian Federation;T¨eljabinsk;427900
+3623;Kaliningrad;RUS;Russian Federation;Kaliningrad;424400
+3624;Nizni Tagil;RUS;Russian Federation;Sverdlovsk;390900
+3625;Murmansk;RUS;Russian Federation;Murmansk;376300
+3626;Ulan-Ude;RUS;Russian Federation;Burjatia;370400
+3627;Kurgan;RUS;Russian Federation;Kurgan;364700
+3628;Arkangeli;RUS;Russian Federation;Arkangeli;361800
+3629;Sot¨i;RUS;Russian Federation;Krasnodar;358600
+3630;Smolensk;RUS;Russian Federation;Smolensk;353400
+3631;Orjol;RUS;Russian Federation;Orjol;344500
+3632;Stavropol;RUS;Russian Federation;Stavropol;343300
+3633;Belgorod;RUS;Russian Federation;Belgorod;342000
+3634;Kaluga;RUS;Russian Federation;Kaluga;339300
+3635;Vladimir;RUS;Russian Federation;Vladimir;337100
+3636;Mahat¨kala;RUS;Russian Federation;Dagestan;332800
+3637;T¨erepovets;RUS;Russian Federation;Vologda;324400
+3638;Saransk;RUS;Russian Federation;Mordva;314800
+3639;Tambov;RUS;Russian Federation;Tambov;312000
+3640;Vladikavkaz;RUS;Russian Federation;North Ossetia-Alania;310100
+3641;T¨ita;RUS;Russian Federation;T¨ita;309900
+3642;Vologda;RUS;Russian Federation;Vologda;302500
+3643;Veliki Novgorod;RUS;Russian Federation;Novgorod;299500
+3644;Komsomolsk-na-Amure;RUS;Russian Federation;Habarovsk;291600
+3645;Kostroma;RUS;Russian Federation;Kostroma;288100
+3646;Volzski;RUS;Russian Federation;Volgograd;286900
+3647;Taganrog;RUS;Russian Federation;Rostov-na-Donu;284400
+3648;Petroskoi;RUS;Russian Federation;Karjala;282100
+3649;Bratsk;RUS;Russian Federation;Irkutsk;277600
+3650;Dzerzinsk;RUS;Russian Federation;Nizni Novgorod;277100
+3651;Surgut;RUS;Russian Federation;Hanti-Mansia;274900
+3652;Orsk;RUS;Russian Federation;Orenburg;273900
+3653;Sterlitamak;RUS;Russian Federation;Ba¨kortostan;265200
+3654;Angarsk;RUS;Russian Federation;Irkutsk;264700
+3655;Jo¨kar-Ola;RUS;Russian Federation;Marinmaa;249200
+3656;Rybinsk;RUS;Russian Federation;Jaroslavl;239600
+3657;Prokopjevsk;RUS;Russian Federation;Kemerovo;237300
+3658;Niznevartovsk;RUS;Russian Federation;Hanti-Mansia;233900
+3659;Nalt¨ik;RUS;Russian Federation;Kabardi-Balkaria;233400
+3660;Syktyvkar;RUS;Russian Federation;Komi;229700
+3661;Severodvinsk;RUS;Russian Federation;Arkangeli;229300
+3662;Bijsk;RUS;Russian Federation;Altai;225000
+3663;Niznekamsk;RUS;Russian Federation;Tatarstan;223400
+3664;Blagove¨t¨ensk;RUS;Russian Federation;Amur;222000
+3665;¦ahty;RUS;Russian Federation;Rostov-na-Donu;221800
+3666;Staryi Oskol;RUS;Russian Federation;Belgorod;213800
+3667;Zelenograd;RUS;Russian Federation;Moscow (City);207100
+3668;Balakovo;RUS;Russian Federation;Saratov;206000
+3669;Novorossijsk;RUS;Russian Federation;Krasnodar;203300
+3670;Pihkova;RUS;Russian Federation;Pihkova;201500
+3671;Zlatoust;RUS;Russian Federation;T¨eljabinsk;196900
+3672;Jakutsk;RUS;Russian Federation;Saha (Jakutia);195400
+3673;Podolsk;RUS;Russian Federation;Moskova;194300
+3674;Petropavlovsk-Kamt¨atski;RUS;Russian Federation;Kamt¨atka;194100
+3675;Kamensk-Uralski;RUS;Russian Federation;Sverdlovsk;190600
+3676;Engels;RUS;Russian Federation;Saratov;189000
+3677;Syzran;RUS;Russian Federation;Samara;186900
+3678;Grozny;RUS;Russian Federation;T¨et¨enia;186000
+3679;Novot¨erkassk;RUS;Russian Federation;Rostov-na-Donu;184400
+3680;Berezniki;RUS;Russian Federation;Perm;181900
+3681;Juzno-Sahalinsk;RUS;Russian Federation;Sahalin;179200
+3682;Volgodonsk;RUS;Russian Federation;Rostov-na-Donu;178200
+3683;Abakan;RUS;Russian Federation;Hakassia;169200
+3684;Maikop;RUS;Russian Federation;Adygea;167300
+3685;Miass;RUS;Russian Federation;T¨eljabinsk;166200
+3686;Armavir;RUS;Russian Federation;Krasnodar;164900
+3687;Ljubertsy;RUS;Russian Federation;Moskova;163900
+3688;Rubtsovsk;RUS;Russian Federation;Altai;162600
+3689;Kovrov;RUS;Russian Federation;Vladimir;159900
+3690;Nahodka;RUS;Russian Federation;Primorje;157700
+3691;Ussurijsk;RUS;Russian Federation;Primorje;157300
+3692;Salavat;RUS;Russian Federation;Ba¨kortostan;156800
+3693;Myti¨t¨i;RUS;Russian Federation;Moskova;155700
+3694;Kolomna;RUS;Russian Federation;Moskova;150700
+3695;Elektrostal;RUS;Russian Federation;Moskova;147000
+3696;Murom;RUS;Russian Federation;Vladimir;142400
+3697;Kolpino;RUS;Russian Federation;Pietari;141200
+3698;Norilsk;RUS;Russian Federation;Krasnojarsk;140800
+3699;Almetjevsk;RUS;Russian Federation;Tatarstan;140700
+3700;Novomoskovsk;RUS;Russian Federation;Tula;138100
+3701;Dimitrovgrad;RUS;Russian Federation;Uljanovsk;137000
+3702;Pervouralsk;RUS;Russian Federation;Sverdlovsk;136100
+3703;Himki;RUS;Russian Federation;Moskova;133700
+3704;Bala¨iha;RUS;Russian Federation;Moskova;132900
+3705;Nevinnomyssk;RUS;Russian Federation;Stavropol;132600
+3706;Pjatigorsk;RUS;Russian Federation;Stavropol;132500
+3707;Korolev;RUS;Russian Federation;Moskova;132400
+3708;Serpuhov;RUS;Russian Federation;Moskova;132000
+3709;Odintsovo;RUS;Russian Federation;Moskova;127400
+3710;Orehovo-Zujevo;RUS;Russian Federation;Moskova;124900
+3711;Kamy¨in;RUS;Russian Federation;Volgograd;124600
+3712;Novot¨eboksarsk;RUS;Russian Federation;T¨uvassia;123400
+3713;T¨erkessk;RUS;Russian Federation;Karat¨ai-T¨erkessi;121700
+3714;At¨insk;RUS;Russian Federation;Krasnojarsk;121600
+3715;Magadan;RUS;Russian Federation;Magadan;121000
+3716;Mit¨urinsk;RUS;Russian Federation;Tambov;120700
+3717;Kislovodsk;RUS;Russian Federation;Stavropol;120400
+3718;Jelets;RUS;Russian Federation;Lipetsk;119400
+3719;Seversk;RUS;Russian Federation;Tomsk;118600
+3720;Noginsk;RUS;Russian Federation;Moskova;117200
+3721;Velikije Luki;RUS;Russian Federation;Pihkova;116300
+3722;Novokuiby¨evsk;RUS;Russian Federation;Samara;116200
+3723;Neftekamsk;RUS;Russian Federation;Ba¨kortostan;115700
+3724;Leninsk-Kuznetski;RUS;Russian Federation;Kemerovo;113800
+3725;Oktjabrski;RUS;Russian Federation;Ba¨kortostan;111500
+3726;Sergijev Posad;RUS;Russian Federation;Moskova;111100
+3727;Arzamas;RUS;Russian Federation;Nizni Novgorod;110700
+3728;Kiseljovsk;RUS;Russian Federation;Kemerovo;110000
+3729;Novotroitsk;RUS;Russian Federation;Orenburg;109600
+3730;Obninsk;RUS;Russian Federation;Kaluga;108300
+3731;Kansk;RUS;Russian Federation;Krasnojarsk;107400
+3732;Glazov;RUS;Russian Federation;Udmurtia;106300
+3733;Solikamsk;RUS;Russian Federation;Perm;106000
+3734;Sarapul;RUS;Russian Federation;Udmurtia;105700
+3735;Ust-Ilimsk;RUS;Russian Federation;Irkutsk;105200
+3736;¦t¨olkovo;RUS;Russian Federation;Moskova;104900
+3737;Mezduret¨ensk;RUS;Russian Federation;Kemerovo;104400
+3738;Usolje-Sibirskoje;RUS;Russian Federation;Irkutsk;103500
+3739;Elista;RUS;Russian Federation;Kalmykia;103300
+3740;Novo¨ahtinsk;RUS;Russian Federation;Rostov-na-Donu;101900
+3741;Votkinsk;RUS;Russian Federation;Udmurtia;101700
+3742;Kyzyl;RUS;Russian Federation;Tyva;101100
+3743;Serov;RUS;Russian Federation;Sverdlovsk;100400
+3744;Zelenodolsk;RUS;Russian Federation;Tatarstan;100200
+3745;Zeleznodoroznyi;RUS;Russian Federation;Moskova;100100
+3746;Kine¨ma;RUS;Russian Federation;Ivanovo;100000
+3747;Kuznetsk;RUS;Russian Federation;Penza;98200
+3748;Uhta;RUS;Russian Federation;Komi;98000
+3749;Jessentuki;RUS;Russian Federation;Stavropol;97900
+3750;Tobolsk;RUS;Russian Federation;Tjumen;97600
+3751;Neftejugansk;RUS;Russian Federation;Hanti-Mansia;97400
+3752;Bataisk;RUS;Russian Federation;Rostov-na-Donu;97300
+3753;Nojabrsk;RUS;Russian Federation;Yamalin Nenetsia;97300
+3754;Bala¨ov;RUS;Russian Federation;Saratov;97100
+3755;Zeleznogorsk;RUS;Russian Federation;Kursk;96900
+3756;Zukovski;RUS;Russian Federation;Moskova;96500
+3757;Anzero-Sudzensk;RUS;Russian Federation;Kemerovo;96100
+3758;Bugulma;RUS;Russian Federation;Tatarstan;94100
+3759;Zeleznogorsk;RUS;Russian Federation;Krasnojarsk;94000
+3760;Novouralsk;RUS;Russian Federation;Sverdlovsk;93300
+3761;Pu¨kin;RUS;Russian Federation;Pietari;92900
+3762;Vorkuta;RUS;Russian Federation;Komi;92600
+3763;Derbent;RUS;Russian Federation;Dagestan;92300
+3764;Kirovo-T¨epetsk;RUS;Russian Federation;Kirov;91600
+3765;Krasnogorsk;RUS;Russian Federation;Moskova;91000
+3766;Klin;RUS;Russian Federation;Moskova;90000
+3767;T¨aikovski;RUS;Russian Federation;Perm;90000
+3768;Novyi Urengoi;RUS;Russian Federation;Yamalin Nenetsia;89800
+3769;Ho Chi Minh City;VNM;Vietnam;Ho Chi Minh City;3980000
+3770;Hanoi;VNM;Vietnam;Hanoi;1410000
+3771;Haiphong;VNM;Vietnam;Haiphong;783133
+3772;Da Nang;VNM;Vietnam;Quang Nam-Da Nang;382674
+3773;Biên Hoa;VNM;Vietnam;Dong Nai;282095
+3774;Nha Trang;VNM;Vietnam;Khanh Hoa;221331
+3775;Hue;VNM;Vietnam;Thua Thien-Hue;219149
+3776;Can Tho;VNM;Vietnam;Can Tho;215587
+3777;Cam Pha;VNM;Vietnam;Quang Binh;209086
+3778;Nam Dinh;VNM;Vietnam;Nam Ha;171699
+3779;Quy Nhon;VNM;Vietnam;Binh Dinh;163385
+3780;Vung Tau;VNM;Vietnam;Ba Ria-Vung Tau;145145
+3781;Rach Gia;VNM;Vietnam;Kien Giang;141132
+3782;Long Xuyen;VNM;Vietnam;An Giang;132681
+3783;Thai Nguyen;VNM;Vietnam;Bac Thai;127643
+3784;Hong Gai;VNM;Vietnam;Quang Ninh;127484
+3785;Phan Thiêt;VNM;Vietnam;Binh Thuan;114236
+3786;Cam Ranh;VNM;Vietnam;Khanh Hoa;114041
+3787;Vinh;VNM;Vietnam;Nghe An;112455
+3788;My Tho;VNM;Vietnam;Tien Giang;108404
+3789;Da Lat;VNM;Vietnam;Lam Dong;106409
+3790;Buon Ma Thuot;VNM;Vietnam;Dac Lac;97044
+3791;Tallinn;EST;Estonia;Harjumaa;403981
+3792;Tartu;EST;Estonia;Tartumaa;101246
+3793;New York;USA;United States;New York;8008278
+3794;Los Angeles;USA;United States;California;3694820
+3795;Chicago;USA;United States;Illinois;2896016
+3796;Houston;USA;United States;Texas;1953631
+3797;Philadelphia;USA;United States;Pennsylvania;1517550
+3798;Phoenix;USA;United States;Arizona;1321045
+3799;San Diego;USA;United States;California;1223400
+3800;Dallas;USA;United States;Texas;1188580
+3801;San Antonio;USA;United States;Texas;1144646
+3802;Detroit;USA;United States;Michigan;951270
+3803;San Jose;USA;United States;California;894943
+3804;Indianapolis;USA;United States;Indiana;791926
+3805;San Francisco;USA;United States;California;776733
+3806;Jacksonville;USA;United States;Florida;735167
+3807;Columbus;USA;United States;Ohio;711470
+3808;Austin;USA;United States;Texas;656562
+3809;Baltimore;USA;United States;Maryland;651154
+3810;Memphis;USA;United States;Tennessee;650100
+3811;Milwaukee;USA;United States;Wisconsin;596974
+3812;Boston;USA;United States;Massachusetts;589141
+3813;Washington;USA;United States;District of Columbia;572059
+3814;Nashville-Davidson;USA;United States;Tennessee;569891
+3815;El Paso;USA;United States;Texas;563662
+3816;Seattle;USA;United States;Washington;563374
+3817;Denver;USA;United States;Colorado;554636
+3818;Charlotte;USA;United States;North Carolina;540828
+3819;Fort Worth;USA;United States;Texas;534694
+3820;Portland;USA;United States;Oregon;529121
+3821;Oklahoma City;USA;United States;Oklahoma;506132
+3822;Tucson;USA;United States;Arizona;486699
+3823;New Orleans;USA;United States;Louisiana;484674
+3824;Las Vegas;USA;United States;Nevada;478434
+3825;Cleveland;USA;United States;Ohio;478403
+3826;Long Beach;USA;United States;California;461522
+3827;Albuquerque;USA;United States;New Mexico;448607
+3828;Kansas City;USA;United States;Missouri;441545
+3829;Fresno;USA;United States;California;427652
+3830;Virginia Beach;USA;United States;Virginia;425257
+3831;Atlanta;USA;United States;Georgia;416474
+3832;Sacramento;USA;United States;California;407018
+3833;Oakland;USA;United States;California;399484
+3834;Mesa;USA;United States;Arizona;396375
+3835;Tulsa;USA;United States;Oklahoma;393049
+3836;Omaha;USA;United States;Nebraska;390007
+3837;Minneapolis;USA;United States;Minnesota;382618
+3838;Honolulu;USA;United States;Hawaii;371657
+3839;Miami;USA;United States;Florida;362470
+3840;Colorado Springs;USA;United States;Colorado;360890
+3841;Saint Louis;USA;United States;Missouri;348189
+3842;Wichita;USA;United States;Kansas;344284
+3843;Santa Ana;USA;United States;California;337977
+3844;Pittsburgh;USA;United States;Pennsylvania;334563
+3845;Arlington;USA;United States;Texas;332969
+3846;Cincinnati;USA;United States;Ohio;331285
+3847;Anaheim;USA;United States;California;328014
+3848;Toledo;USA;United States;Ohio;313619
+3849;Tampa;USA;United States;Florida;303447
+3850;Buffalo;USA;United States;New York;292648
+3851;Saint Paul;USA;United States;Minnesota;287151
+3852;Corpus Christi;USA;United States;Texas;277454
+3853;Aurora;USA;United States;Colorado;276393
+3854;Raleigh;USA;United States;North Carolina;276093
+3855;Newark;USA;United States;New Jersey;273546
+3856;Lexington-Fayette;USA;United States;Kentucky;260512
+3857;Anchorage;USA;United States;Alaska;260283
+3858;Louisville;USA;United States;Kentucky;256231
+3859;Riverside;USA;United States;California;255166
+3860;Saint Petersburg;USA;United States;Florida;248232
+3861;Bakersfield;USA;United States;California;247057
+3862;Stockton;USA;United States;California;243771
+3863;Birmingham;USA;United States;Alabama;242820
+3864;Jersey City;USA;United States;New Jersey;240055
+3865;Norfolk;USA;United States;Virginia;234403
+3866;Baton Rouge;USA;United States;Louisiana;227818
+3867;Hialeah;USA;United States;Florida;226419
+3868;Lincoln;USA;United States;Nebraska;225581
+3869;Greensboro;USA;United States;North Carolina;223891
+3870;Plano;USA;United States;Texas;222030
+3871;Rochester;USA;United States;New York;219773
+3872;Glendale;USA;United States;Arizona;218812
+3873;Akron;USA;United States;Ohio;217074
+3874;Garland;USA;United States;Texas;215768
+3875;Madison;USA;United States;Wisconsin;208054
+3876;Fort Wayne;USA;United States;Indiana;205727
+3877;Fremont;USA;United States;California;203413
+3878;Scottsdale;USA;United States;Arizona;202705
+3879;Montgomery;USA;United States;Alabama;201568
+3880;Shreveport;USA;United States;Louisiana;200145
+3881;Augusta-Richmond County;USA;United States;Georgia;199775
+3882;Lubbock;USA;United States;Texas;199564
+3883;Chesapeake;USA;United States;Virginia;199184
+3884;Mobile;USA;United States;Alabama;198915
+3885;Des Moines;USA;United States;Iowa;198682
+3886;Grand Rapids;USA;United States;Michigan;197800
+3887;Richmond;USA;United States;Virginia;197790
+3888;Yonkers;USA;United States;New York;196086
+3889;Spokane;USA;United States;Washington;195629
+3890;Glendale;USA;United States;California;194973
+3891;Tacoma;USA;United States;Washington;193556
+3892;Irving;USA;United States;Texas;191615
+3893;Huntington Beach;USA;United States;California;189594
+3894;Modesto;USA;United States;California;188856
+3895;Durham;USA;United States;North Carolina;187035
+3896;Columbus;USA;United States;Georgia;186291
+3897;Orlando;USA;United States;Florida;185951
+3898;Boise City;USA;United States;Idaho;185787
+3899;Winston-Salem;USA;United States;North Carolina;185776
+3900;San Bernardino;USA;United States;California;185401
+3901;Jackson;USA;United States;Mississippi;184256
+3902;Little Rock;USA;United States;Arkansas;183133
+3903;Salt Lake City;USA;United States;Utah;181743
+3904;Reno;USA;United States;Nevada;180480
+3905;Newport News;USA;United States;Virginia;180150
+3906;Chandler;USA;United States;Arizona;176581
+3907;Laredo;USA;United States;Texas;176576
+3908;Henderson;USA;United States;Nevada;175381
+3909;Arlington;USA;United States;Virginia;174838
+3910;Knoxville;USA;United States;Tennessee;173890
+3911;Amarillo;USA;United States;Texas;173627
+3912;Providence;USA;United States;Rhode Island;173618
+3913;Chula Vista;USA;United States;California;173556
+3914;Worcester;USA;United States;Massachusetts;172648
+3915;Oxnard;USA;United States;California;170358
+3916;Dayton;USA;United States;Ohio;166179
+3917;Garden Grove;USA;United States;California;165196
+3918;Oceanside;USA;United States;California;161029
+3919;Tempe;USA;United States;Arizona;158625
+3920;Huntsville;USA;United States;Alabama;158216
+3921;Ontario;USA;United States;California;158007
+3922;Chattanooga;USA;United States;Tennessee;155554
+3923;Fort Lauderdale;USA;United States;Florida;152397
+3924;Springfield;USA;United States;Massachusetts;152082
+3925;Springfield;USA;United States;Missouri;151580
+3926;Santa Clarita;USA;United States;California;151088
+3927;Salinas;USA;United States;California;151060
+3928;Tallahassee;USA;United States;Florida;150624
+3929;Rockford;USA;United States;Illinois;150115
+3930;Pomona;USA;United States;California;149473
+3931;Metairie;USA;United States;Louisiana;149428
+3932;Paterson;USA;United States;New Jersey;149222
+3933;Overland Park;USA;United States;Kansas;149080
+3934;Santa Rosa;USA;United States;California;147595
+3935;Syracuse;USA;United States;New York;147306
+3936;Kansas City;USA;United States;Kansas;146866
+3937;Hampton;USA;United States;Virginia;146437
+3938;Lakewood;USA;United States;Colorado;144126
+3939;Vancouver;USA;United States;Washington;143560
+3940;Irvine;USA;United States;California;143072
+3941;Aurora;USA;United States;Illinois;142990
+3942;Moreno Valley;USA;United States;California;142381
+3943;Pasadena;USA;United States;California;141674
+3944;Hayward;USA;United States;California;140030
+3945;Brownsville;USA;United States;Texas;139722
+3946;Bridgeport;USA;United States;Connecticut;139529
+3947;Hollywood;USA;United States;Florida;139357
+3948;Warren;USA;United States;Michigan;138247
+3949;Torrance;USA;United States;California;137946
+3950;Eugene;USA;United States;Oregon;137893
+3951;Pembroke Pines;USA;United States;Florida;137427
+3952;Salem;USA;United States;Oregon;136924
+3953;Pasadena;USA;United States;Texas;133936
+3954;Escondido;USA;United States;California;133559
+3955;Sunnyvale;USA;United States;California;131760
+3956;Savannah;USA;United States;Georgia;131510
+3957;Fontana;USA;United States;California;128929
+3958;Orange;USA;United States;California;128821
+3959;Naperville;USA;United States;Illinois;128358
+3960;Alexandria;USA;United States;Virginia;128283
+3961;Rancho Cucamonga;USA;United States;California;127743
+3962;Grand Prairie;USA;United States;Texas;127427
+3963;East Los Angeles;USA;United States;California;126379
+3964;Fullerton;USA;United States;California;126003
+3965;Corona;USA;United States;California;124966
+3966;Flint;USA;United States;Michigan;124943
+3967;Paradise;USA;United States;Nevada;124682
+3968;Mesquite;USA;United States;Texas;124523
+3969;Sterling Heights;USA;United States;Michigan;124471
+3970;Sioux Falls;USA;United States;South Dakota;123975
+3971;New Haven;USA;United States;Connecticut;123626
+3972;Topeka;USA;United States;Kansas;122377
+3973;Concord;USA;United States;California;121780
+3974;Evansville;USA;United States;Indiana;121582
+3975;Hartford;USA;United States;Connecticut;121578
+3976;Fayetteville;USA;United States;North Carolina;121015
+3977;Cedar Rapids;USA;United States;Iowa;120758
+3978;Elizabeth;USA;United States;New Jersey;120568
+3979;Lansing;USA;United States;Michigan;119128
+3980;Lancaster;USA;United States;California;118718
+3981;Fort Collins;USA;United States;Colorado;118652
+3982;Coral Springs;USA;United States;Florida;117549
+3983;Stamford;USA;United States;Connecticut;117083
+3984;Thousand Oaks;USA;United States;California;117005
+3985;Vallejo;USA;United States;California;116760
+3986;Palmdale;USA;United States;California;116670
+3987;Columbia;USA;United States;South Carolina;116278
+3988;El Monte;USA;United States;California;115965
+3989;Abilene;USA;United States;Texas;115930
+3990;North Las Vegas;USA;United States;Nevada;115488
+3991;Ann Arbor;USA;United States;Michigan;114024
+3992;Beaumont;USA;United States;Texas;113866
+3993;Waco;USA;United States;Texas;113726
+3994;Macon;USA;United States;Georgia;113336
+3995;Independence;USA;United States;Missouri;113288
+3996;Peoria;USA;United States;Illinois;112936
+3997;Inglewood;USA;United States;California;112580
+3998;Springfield;USA;United States;Illinois;111454
+3999;Simi Valley;USA;United States;California;111351
+4000;Lafayette;USA;United States;Louisiana;110257
+4001;Gilbert;USA;United States;Arizona;109697
+4002;Carrollton;USA;United States;Texas;109576
+4003;Bellevue;USA;United States;Washington;109569
+4004;West Valley City;USA;United States;Utah;108896
+4005;Clarksville;USA;United States;Tennessee;108787
+4006;Costa Mesa;USA;United States;California;108724
+4007;Peoria;USA;United States;Arizona;108364
+4008;South Bend;USA;United States;Indiana;107789
+4009;Downey;USA;United States;California;107323
+4010;Waterbury;USA;United States;Connecticut;107271
+4011;Manchester;USA;United States;New Hampshire;107006
+4012;Allentown;USA;United States;Pennsylvania;106632
+4013;McAllen;USA;United States;Texas;106414
+4014;Joliet;USA;United States;Illinois;106221
+4015;Lowell;USA;United States;Massachusetts;105167
+4016;Provo;USA;United States;Utah;105166
+4017;West Covina;USA;United States;California;105080
+4018;Wichita Falls;USA;United States;Texas;104197
+4019;Erie;USA;United States;Pennsylvania;103717
+4020;Daly City;USA;United States;California;103621
+4021;Citrus Heights;USA;United States;California;103455
+4022;Norwalk;USA;United States;California;103298
+4023;Gary;USA;United States;Indiana;102746
+4024;Berkeley;USA;United States;California;102743
+4025;Santa Clara;USA;United States;California;102361
+4026;Green Bay;USA;United States;Wisconsin;102313
+4027;Cape Coral;USA;United States;Florida;102286
+4028;Arvada;USA;United States;Colorado;102153
+4029;Pueblo;USA;United States;Colorado;102121
+4030;Sandy;USA;United States;Utah;101853
+4031;Athens-Clarke County;USA;United States;Georgia;101489
+4032;Cambridge;USA;United States;Massachusetts;101355
+4033;Westminster;USA;United States;Colorado;100940
+4034;San Buenaventura;USA;United States;California;100916
+4035;Portsmouth;USA;United States;Virginia;100565
+4036;Livonia;USA;United States;Michigan;100545
+4037;Burbank;USA;United States;California;100316
+4038;Clearwater;USA;United States;Florida;99936
+4039;Midland;USA;United States;Texas;98293
+4040;Davenport;USA;United States;Iowa;98256
+4041;Mission Viejo;USA;United States;California;98049
+4042;Miami Beach;USA;United States;Florida;97855
+4043;Sunrise Manor;USA;United States;Nevada;95362
+4044;New Bedford;USA;United States;Massachusetts;94780
+4045;El Cajon;USA;United States;California;94578
+4046;Norman;USA;United States;Oklahoma;94193
+4047;Richmond;USA;United States;California;94100
+4048;Albany;USA;United States;New York;93994
+4049;Brockton;USA;United States;Massachusetts;93653
+4050;Roanoke;USA;United States;Virginia;93357
+4051;Billings;USA;United States;Montana;92988
+4052;Compton;USA;United States;California;92864
+4053;Gainesville;USA;United States;Florida;92291
+4054;Fairfield;USA;United States;California;92256
+4055;Arden-Arcade;USA;United States;California;92040
+4056;San Mateo;USA;United States;California;91799
+4057;Visalia;USA;United States;California;91762
+4058;Boulder;USA;United States;Colorado;91238
+4059;Cary;USA;United States;North Carolina;91213
+4060;Santa Monica;USA;United States;California;91084
+4061;Fall River;USA;United States;Massachusetts;90555
+4062;Kenosha;USA;United States;Wisconsin;89447
+4063;Elgin;USA;United States;Illinois;89408
+4064;Odessa;USA;United States;Texas;89293
+4065;Carson;USA;United States;California;89089
+4066;Charleston;USA;United States;South Carolina;89063
+4067;Charlotte Amalie;VIR;Virgin Islands, U.S.;St Thomas;13000
+4068;Harare;ZWE;Zimbabwe;Harare;1410000
+4069;Bulawayo;ZWE;Zimbabwe;Bulawayo;621742
+4070;Chitungwiza;ZWE;Zimbabwe;Harare;274912
+4071;Mount Darwin;ZWE;Zimbabwe;Harare;164362
+4072;Mutare;ZWE;Zimbabwe;Manicaland;131367
+4073;Gweru;ZWE;Zimbabwe;Midlands;128037
+4074;Gaza;PSE;Palestine;Gaza;353632
+4075;Khan Yunis;PSE;Palestine;Khan Yunis;123175
+4076;Hebron;PSE;Palestine;Hebron;119401
+4077;Jabaliya;PSE;Palestine;North Gaza;113901
+4078;Nablus;PSE;Palestine;Nablus;100231
+4079;Rafah;PSE;Palestine;Rafah;92020

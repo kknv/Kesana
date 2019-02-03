@@ -1,0 +1,3 @@
+1|Audio,Photo|A123:Abe,B456:Bob|123 Oak St.,Ely,MN,55731
+2|Food,Dairy|A231:Scott,B478:Tony|600 Park St.,NewYork,MN,66989
+3|Electornics, General|A796:Trinna,B474:Andrew|877 Baker St.,Ely,MN,55787

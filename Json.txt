@@ -1,0 +1,66 @@
+[
+  {
+    "type": "configuration/entityTypes/HCO",
+    "attributes": {
+      "Name": [
+        {
+          "value": "Sukriti"
+        }
+      ],
+      "Address": [
+        {
+          "value": {
+            "City": [
+              {
+                "value": "Gurgaon"
+              }
+            ],
+            "Zip": [
+              {
+                "value": "122002"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "crosswalks": [
+      {
+        "type": "configuration/sources/HCOS",
+        "value": "AXT0001"
+      }
+    ]
+  },
+  {
+    "type": "configuration/entityTypes/HCO",
+    "attributes": {
+      "Name": [
+        {
+          "value": "Sam"
+        }
+      ],
+      "Address": [
+        {
+          "value": {
+            "City": [
+              {
+                "value": "delhi"
+              }
+            ],
+            "Zip": [
+              {
+                "value": "110010"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "crosswalks": [
+      {
+        "type": "configuration/sources/HCOS",
+        "value": "AXT0002"
+      }
+    ]
+  }
+]

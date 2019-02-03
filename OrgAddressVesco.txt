@@ -1,0 +1,138 @@
+Vesco Ltd|Calle Real|Albany|Alaska|77805|060-641762
+Vesco Ltd|Westside Freeway|Boise|Arizona|63298|060-699864
+Vesco Ltd|Milpas Street|Columbia|Arizona|65616|060-735026
+Vesco Ltd|S Rustle St|Helena|Arizona|64476|060-707362
+Vesco Ltd|Westside Freeway|Lansing|Arizona|66632|060-616702
+Vesco Ltd|Camelback Rd|Lincoln|Arkansas|62324|060-716205
+Vesco Ltd|Lindbergh Blvd|Madison|Arkansas|76445|060-722601
+Vesco Ltd|San Ysidro Blvd|Salem|Arkansas|58549|060-676298
+Vesco Ltd|Apalachee Parkway|Boston|California|64238|060-724628
+Vesco Ltd|Milpas Street|Jackson|California|60628|060-631300
+Vesco Ltd|Bayshore Freeway|Santa Fe|California|75659|060-621557
+Vesco Ltd|E Fowler Avenue|Jackson|Connecticut|63730|060-671011
+Vesco Ltd|East Main Street|Atlanta|Delaware|60284|060-719305
+Vesco Ltd|Erringer Road|Des Moines|Delaware|58188|060-615252
+Vesco Ltd|Tully Road East|Jackson|Delaware|62596|060-594371
+Vesco Ltd|Harbor Dr|Little Rock|Delaware|67563|060-661414
+Vesco Ltd|S Rustle St|Cheyenne|Florida|69732|060-708617
+Vesco Ltd|Lawrenceville Suwanee|Montpelier|Florida|78505|060-629867
+Vesco Ltd|San Luis Obispo North|Salt Lake City|Florida|65392|060-723892
+Vesco Ltd|San Marcos|Augusta|Georgia|67459|060-686311
+Vesco Ltd|Burnett Road|Austin|Georgia|78318|060-648148
+Vesco Ltd|Castillo Drive|Columbia|Georgia|70223|060-685348
+Vesco Ltd|Hutchinson Rd|Helena|Georgia|68438|060-620917
+Vesco Ltd|Padre Boulevard|Atlanta|Hawaii|69521|060-596313
+Vesco Ltd|Hutchinson Rd|Denver|Hawaii|73642|060-720294
+Vesco Ltd|Bailard Avenue|Dover|Hawaii|77712|060-736906
+Vesco Ltd|East Calle Primera|Jefferson City|Hawaii|58287|060-644100
+Vesco Ltd|Greenwood Road|Montpelier|Hawaii|76707|060-648526
+Vesco Ltd|Santa Monica Road|Boston|Idaho|56938|060-652350
+Vesco Ltd|W. Russell St.|Tallahassee|Idaho|78443|060-617567
+Vesco Ltd|S Rustle St|Trenton|Idaho|61330|060-628431
+Vesco Ltd|Santa Ana Freeway|Lansing|Illinois|64527|060-656251
+Vesco Ltd|Katella Avenue|Lansing|Illinois|73608|060-611054
+Vesco Ltd|Harbor Dr|Juneau|Indiana|69896|060-693364
+Vesco Ltd|East 1st Street|Lincoln|Indiana|56896|060-727132
+Vesco Ltd|North Ventu Park Road|Frankfort|Iowa|59931|060-620982
+Vesco Ltd|Castillo Drive|Harrisburg|Iowa|78099|060-604461
+Vesco Ltd|Pacific Hwy S|Lincoln|Iowa|67349|060-622874
+Vesco Ltd|Woodson Rd.|Carson City|Kansas|72464|060-636024
+Vesco Ltd|East Calle Primera|Santa Fe|Kansas|78915|060-655646
+Vesco Ltd|Bailard Avenue|Trenton|Kansas|73770|060-653696
+Vesco Ltd|San Diego Freeway|Montgomery|Kentucky|76472|060-642348
+Vesco Ltd|N Harrison St|Nashville|Kentucky|75672|060-704417
+Vesco Ltd|Camelback Rd|Topeka|Louisiana|71263|060-623208
+Vesco Ltd|Santa Rosa South|Concord|Maine|61078|060-632239
+Vesco Ltd|Katella Avenue|Montgomery|Maine|65009|060-596496
+Vesco Ltd|N Harrison St|Saint Paul|Maine|66778|060-628846
+Vesco Ltd|San Luis Obispo North|Charleston|Maryland|62535|060-675453
+Vesco Ltd|N Kentwood|Boston|Massachusetts|68142|060-726894
+Vesco Ltd|Burnett Road|Charleston|Massachusetts|72119|060-596665
+Vesco Ltd|Lake Tahoe Blvd.|Lansing|Massachusetts|74587|060-646975
+Vesco Ltd|Redwood Highway|Tallahassee|Massachusetts|67064|060-727855
+Vesco Ltd|Corona Del Mar|Providence|Michigan|64457|060-601664
+Vesco Ltd|North Preisker Lane|Saint Paul|Michigan|76112|060-683247
+Vesco Ltd|Tully Road East|Charleston|Minnesota|69492|060-593499
+Vesco Ltd|Redwood Highway|Phoenix|Minnesota|77861|060-656536
+Vesco Ltd|Greenwood Road|Saint Paul|Minnesota|78684|060-737748
+Vesco Ltd|Milpas Street|Trenton|Minnesota|72256|060-617957
+Vesco Ltd|Apalachee Parkway|Bismarck|Mississippi|71280|060-691365
+Vesco Ltd|Santa Rosa South|Carson City|Missouri|69937|060-720906
+Vesco Ltd|Bowles Avenue|Columbus|Missouri|60424|060-700446
+Vesco Ltd|South Highway|Baton Rouge|Montana|59377|060-697851
+Vesco Ltd|Carpinteria North|Madison|Montana|73050|060-698761
+Vesco Ltd|San Luis Obispo North|Montpelier|Montana|67599|060-693165
+Vesco Ltd|Santa Monica Road|Lincoln|Nebraska|70577|060-618926
+Vesco Ltd|Erringer Road|Phoenix|Nebraska|60852|060-662624
+Vesco Ltd|South Highway|Sacramento|Nebraska|76827|060-622017
+Vesco Ltd|Santa Monica Road|Salem|Nebraska|75589|060-620171
+Vesco Ltd|Bailard Avenue|Carson City|Nevada|73922|060-635797
+Vesco Ltd|Cleveland Ave.|Jackson|Nevada|73468|060-683266
+Vesco Ltd|Harry S Truman Blvd|Tallahassee|Nevada|56866|060-705067
+Vesco Ltd|El Camino Real|Charleston|New Hampshire|73931|060-670204
+Vesco Ltd|Cleveland Ave.|Charleston|New Hampshire|60694|060-725072
+Vesco Ltd|S Rustle St|Harrisburg|New Hampshire|75564|060-727935
+Vesco Ltd|Grandview Drive|Montpelier|New Hampshire|69225|060-658588
+Vesco Ltd|N Kentwood|Springfield|New Hampshire|68198|060-632751
+Vesco Ltd|Bailard Avenue|Lansing|New Jersey|71409|060-737727
+Vesco Ltd|Fairview Avenue|Montpelier|New Jersey|70259|060-591845
+Vesco Ltd|San Diego Freeway|Nashville|New Jersey|78638|060-659162
+Vesco Ltd|East Main Street|Saint Paul|New Jersey|69906|060-692878
+Vesco Ltd|Padre Boulevard|Salem|New Jersey|75996|060-732708
+Vesco Ltd|French Camp Turnpike Road|Salem|New Jersey|69407|060-693581
+Vesco Ltd|Fontaine Road|Cheyenne|New Mexico|68060|060-688864
+Vesco Ltd|N Kentwood|Harrisburg|New Mexico|61162|060-678617
+Vesco Ltd|Corona Del Mar|Montpelier|New York|64341|060-634116
+Vesco Ltd|San Diego Freeway|Sacramento|New York|76558|060-675566
+Vesco Ltd|North Erringer Road|Salem|New York|73148|060-694770
+Vesco Ltd|Cleveland Ave.|Santa Fe|New York|57187|060-610443
+Vesco Ltd|Tully Road East|Albany|North Carolina|62066|060-658404
+Vesco Ltd|North Ventu Park Road|Carson City|North Carolina|67359|060-589925
+Vesco Ltd|French Camp Turnpike Road|Raleigh|North Carolina|72895|060-664568
+Vesco Ltd|N Harrison St|Charleston|North Dakota|58344|060-669403
+Vesco Ltd|W. Russell St.|Columbia|North Dakota|65629|060-722881
+Vesco Ltd|Milpas Street|Frankfort|North Dakota|68637|060-617130
+Vesco Ltd|N Kentwood|Springfield|North Dakota|77808|060-594769
+Vesco Ltd|San Ysidro Blvd|Carson City|Ohio|70491|060-645541
+Vesco Ltd|San Marcos|Indianapolis|Ohio|72010|060-642558
+Vesco Ltd|Hutchinson Rd|Salem|Ohio|63789|060-696287
+Vesco Ltd|Calle Real|Little Rock|Oklahoma|71585|060-613612
+Vesco Ltd|Steele Lane|Austin|Oregon|67046|060-687227
+Vesco Ltd|Jones Road|Frankfort|Oregon|68874|060-629777
+Vesco Ltd|S Rustle St|Salem|Pennsylvania|75994|060-611362
+Vesco Ltd|Santa Ana Freeway|Annapolis|Rhode Island|58944|060-707959
+Vesco Ltd|Fairview Avenue|Austin|Rhode Island|72677|060-595457
+Vesco Ltd|North Erringer Road|Columbus|Rhode Island|60670|060-684702
+Vesco Ltd|North Erringer Road|Salt Lake City|Rhode Island|57709|060-682057
+Vesco Ltd|North Erringer Road|Frankfort|South Carolina|71196|060-702139
+Vesco Ltd|Greenwood Road|Indianapolis|South Dakota|71316|060-657416
+Vesco Ltd|Camelback Rd|Montpelier|Tennessee|71383|060-652678
+Vesco Ltd|Santa Ana Freeway|Saint Paul|Tennessee|73247|060-621913
+Vesco Ltd|Bayshore Freeway|Santa Fe|Tennessee|69547|060-615558
+Vesco Ltd|Via Real|Atlanta|Texas|69480|060-623944
+Vesco Ltd|Newbury Road|Augusta|Texas|71114|060-625678
+Vesco Ltd|Fairview Avenue|Madison|Texas|64017|060-642349
+Vesco Ltd|Erringer Road|Saint Paul|Texas|59555|060-726144
+Vesco Ltd|East 1st Street|Salem|Texas|65637|060-711876
+Vesco Ltd|Richmond Hill|Springfield|Texas|59551|060-709706
+Vesco Ltd|W. Russell St.|Baton Rouge|Utah|60774|060-660686
+Vesco Ltd|Redwood Highway|Carson City|Utah|66346|060-620186
+Vesco Ltd|Jones Road|Hartford|Utah|74766|060-634287
+Vesco Ltd|Erringer Road|Providence|Utah|70508|060-635531
+Vesco Ltd|Apalachee Parkway|Dover|Vermont|73945|060-688016
+Vesco Ltd|San Simeon|Jackson|Vermont|56865|060-636200
+Vesco Ltd|Milpas Street|Indianapolis|Virginia|74869|060-715515
+Vesco Ltd|W. Russell St.|Nashville|Virginia|75184|060-688433
+Vesco Ltd|Tanger Blvd|Oklahoma City|Virginia|66019|060-728876
+Vesco Ltd|E Fowler Avenue|Concord|Washington|66853|060-592664
+Vesco Ltd|N Harrison St|Dover|Washington|70298|060-669158
+Vesco Ltd|Castillo Drive|Salt Lake City|Washington|69835|060-666022
+Vesco Ltd|Hutchinson Rd|Albany|West Virginia|74243|060-703341
+Vesco Ltd|East Calle Primera|Bismarck|West Virginia|71122|060-605606
+Vesco Ltd|Redwood Highway|Springfield|West Virginia|69339|060-732409
+Vesco Ltd|Fontaine Road|Cheyenne|Wisconsin|60160|060-595390
+Vesco Ltd|Bowles Avenue|Columbia|Wisconsin|67911|060-616666
+Vesco Ltd|Carpinteria South|Pierre|Wisconsin|71371|060-631743
+Vesco Ltd|W. Russell St.|Concord|Wyoming|68964|060-619119
+Vesco Ltd|Cerrillos Road|Frankfort|Wyoming|65884|060-646179
+Vesco Ltd|Steele Lane|Little Rock|Wyoming|62089|060-601126

@@ -1,0 +1,171 @@
+Cresca Ltd.|East Fry Blvd.|Boise|Alabama|66885|060-725101
+Cresca Ltd.|Apalachee Parkway|Harrisburg|Alabama|64049|060-630252
+Cresca Ltd.|Grandview Drive|Columbus|Alaska|67630|060-722625
+Cresca Ltd.|Tully Road East|Phoenix|Alaska|58975|060-699125
+Cresca Ltd.|Jones Road|Albany|Arizona|73956|060-719211
+Cresca Ltd.|Tully Road East|Cheyenne|Arizona|76214|060-700474
+Cresca Ltd.|S Rustle St|Albany|Arkansas|60262|060-652325
+Cresca Ltd.|Moreno Drive|Dover|Arkansas|78715|060-605648
+Cresca Ltd.|Corona Del Mar|Juneau|Arkansas|58084|060-628008
+Cresca Ltd.|San Luis Obispo North|Nashville|Arkansas|70846|060-659592
+Cresca Ltd.|San Simeon|Sacramento|Arkansas|59595|060-704432
+Cresca Ltd.|Jones Road|Salt Lake City|Arkansas|57466|060-645320
+Cresca Ltd.|North Preisker Lane|Tallahassee|Arkansas|78522|060-596487
+Cresca Ltd.|Moreno Drive|Topeka|California|56851|060-666592
+Cresca Ltd.|Bayshore Freeway|Dover|Colorado|76954|060-736000
+Cresca Ltd.|Erringer Road|Hartford|Connecticut|60416|060-721082
+Cresca Ltd.|South Highway|Richmond|Connecticut|66360|060-724179
+Cresca Ltd.|Corona Del Mar|Saint Paul|Connecticut|76614|060-653529
+Cresca Ltd.|Lawrenceville Suwanee|Springfield|Connecticut|74411|060-727802
+Cresca Ltd.|East 1st Street|Charleston|Delaware|72671|060-725766
+Cresca Ltd.|Moreno Drive|Montpelier|Delaware|57679|060-690508
+Cresca Ltd.|Calle Real|Phoenix|Delaware|75431|060-679155
+Cresca Ltd.|Santa Ana Freeway|Denver|Florida|63627|060-661963
+Cresca Ltd.|East Main Street|Hartford|Florida|63250|060-620828
+Cresca Ltd.|Redwood Highway|Topeka|Florida|57889|060-663633
+Cresca Ltd.|Via Real|Charleston|Georgia|65123|060-641101
+Cresca Ltd.|North Ventu Park Road|Des Moines|Georgia|76823|060-600770
+Cresca Ltd.|Harbor Dr|Sacramento|Georgia|69752|060-703888
+Cresca Ltd.|San Simeon|Columbia|Hawaii|60719|060-620973
+Cresca Ltd.|Steele Lane|Columbia|Hawaii|72600|060-689843
+Cresca Ltd.|Cerrillos Road|Denver|Hawaii|68531|060-694563
+Cresca Ltd.|Jones Road|Indianapolis|Hawaii|62352|060-690817
+Cresca Ltd.|Newbury Road|Providence|Hawaii|72395|060-609663
+Cresca Ltd.|San Luis Obispo North|Austin|Idaho|71516|060-693872
+Cresca Ltd.|Katella Avenue|Oklahoma City|Idaho|62891|060-615663
+Cresca Ltd.|Lawrenceville Suwanee|Phoenix|Idaho|76326|060-721097
+Cresca Ltd.|Erringer Road|Boston|Illinois|61316|060-681181
+Cresca Ltd.|N Kentwood|Denver|Illinois|76437|060-723490
+Cresca Ltd.|Castillo Drive|Helena|Illinois|57850|060-720233
+Cresca Ltd.|Lake Tahoe Blvd.|Lincoln|Illinois|74677|060-702721
+Cresca Ltd.|Bailard Avenue|Little Rock|Illinois|76841|060-593197
+Cresca Ltd.|Santa Ana Freeway|Montpelier|Illinois|57352|060-721879
+Cresca Ltd.|French Camp Turnpike Road|Oklahoma City|Illinois|60331|060-691921
+Cresca Ltd.|Steele Lane|Santa Fe|Illinois|73167|060-666166
+Cresca Ltd.|Carpinteria North|Madison|Indiana|62003|060-656242
+Cresca Ltd.|Fairview Avenue|Santa Fe|Indiana|73828|060-693856
+Cresca Ltd.|N Harrison St|Columbus|Iowa|62854|060-599668
+Cresca Ltd.|El Camino Real|Indianapolis|Iowa|72211|060-629715
+Cresca Ltd.|Redwood Highway|Lansing|Iowa|71530|060-724129
+Cresca Ltd.|Grandview Drive|Providence|Iowa|67503|060-704854
+Cresca Ltd.|San Luis Obispo North|Richmond|Iowa|62435|060-603080
+Cresca Ltd.|Santa Monica Road|Augusta|Kansas|65955|060-704346
+Cresca Ltd.|San Ysidro Blvd|Jackson|Kansas|58473|060-642024
+Cresca Ltd.|Bowles Avenue|Providence|Kansas|62911|060-674081
+Cresca Ltd.|Burnett Road|Trenton|Kansas|76789|060-638823
+Cresca Ltd.|Carpinteria North|Albany|Kentucky|66764|060-614250
+Cresca Ltd.|Cleveland Ave.|Madison|Kentucky|69501|060-696764
+Cresca Ltd.|Fairview Avenue|Oklahoma City|Kentucky|72649|060-717623
+Cresca Ltd.|Timberlane Drive|Phoenix|Kentucky|72095|060-600402
+Cresca Ltd.|Pacific Hwy S|Santa Fe|Kentucky|73057|060-697763
+Cresca Ltd.|North Broadway Street|Harrisburg|Louisiana|59515|060-658674
+Cresca Ltd.|Timberlane Drive|Madison|Maine|69957|060-701538
+Cresca Ltd.|Tanger Blvd|Jackson|Maryland|61880|060-621740
+Cresca Ltd.|San Diego Freeway|Lansing|Maryland|68874|060-675082
+Cresca Ltd.|East Fry Blvd.|Albany|Massachusetts|73893|060-704896
+Cresca Ltd.|Bowles Avenue|Cheyenne|Massachusetts|68449|060-678763
+Cresca Ltd.|South Roosevelt Drive|Indianapolis|Massachusetts|72715|060-612652
+Cresca Ltd.|Carpinteria South|Sacramento|Massachusetts|74424|060-641821
+Cresca Ltd.|Fairview Avenue|Salt Lake City|Massachusetts|67501|060-631388
+Cresca Ltd.|Pacific Hwy S|Des Moines|Michigan|76991|060-677661
+Cresca Ltd.|Carpinteria North|Honolulu|Michigan|57229|060-735839
+Cresca Ltd.|North Ventu Park Road|Montgomery|Michigan|58662|060-604610
+Cresca Ltd.|Santa Ana Freeway|Topeka|Michigan|73889|060-622131
+Cresca Ltd.|Padre Boulevard|Cheyenne|Mississippi|78303|060-666024
+Cresca Ltd.|Bayshore Freeway|Hartford|Mississippi|74566|060-723253
+Cresca Ltd.|El Camino Real|Honolulu|Mississippi|68390|060-606221
+Cresca Ltd.|Carpinteria Avenue|Trenton|Mississippi|57053|060-683434
+Cresca Ltd.|Fontaine Road|Baton Rouge|Missouri|74986|060-621996
+Cresca Ltd.|Fairview Avenue|Bismarck|Missouri|68903|060-662504
+Cresca Ltd.|Pacific Hwy S|Boise|Missouri|59981|060-667260
+Cresca Ltd.|East Calle Primera|Charleston|Missouri|74570|060-654052
+Cresca Ltd.|Padre Boulevard|Harrisburg|Missouri|69757|060-628273
+Cresca Ltd.|Steele Lane|Madison|Missouri|77003|060-625290
+Cresca Ltd.|East Main Street|Nashville|Missouri|63268|060-621234
+Cresca Ltd.|Katella Avenue|Olympia|Missouri|66858|060-620337
+Cresca Ltd.|Apalachee Parkway|Albany|Montana|74838|060-648823
+Cresca Ltd.|W. Russell St.|Montpelier|Montana|71259|060-666880
+Cresca Ltd.|N Harrison St|Topeka|Montana|57696|060-632951
+Cresca Ltd.|East Calle Primera|Boston|Nebraska|59711|060-645312
+Cresca Ltd.|Jean de la Fontaine|Carson City|Nebraska|63410|060-671882
+Cresca Ltd.|Harbor Dr|Denver|Nebraska|66946|060-591336
+Cresca Ltd.|East Calle Primera|Nashville|Nebraska|75220|060-623855
+Cresca Ltd.|N Harrison St|Montpelier|Nevada|65402|060-676790
+Cresca Ltd.|Richmond Hill|Baton Rouge|New Hampshire|71529|060-704152
+Cresca Ltd.|San Diego Freeway|Des Moines|New Hampshire|73073|060-628096
+Cresca Ltd.|N Harrison St|Olympia|New Hampshire|65753|060-650221
+Cresca Ltd.|Lawrenceville Suwanee|Phoenix|New Hampshire|58486|060-622158
+Cresca Ltd.|Santa Monica Road|Denver|New Jersey|78261|060-713819
+Cresca Ltd.|Cerrillos Road|Springfield|New Jersey|74020|060-672549
+Cresca Ltd.|Moreno Drive|Jackson|New Mexico|77114|060-643693
+Cresca Ltd.|Jean de la Fontaine|Jackson|New Mexico|72341|060-603725
+Cresca Ltd.|Santa Monica Road|Santa Fe|New Mexico|72579|060-718703
+Cresca Ltd.|Castillo Drive|Bismarck|New York|78241|060-652190
+Cresca Ltd.|Lindbergh Blvd|Columbia|New York|68833|060-611747
+Cresca Ltd.|W. Russell St.|Columbus|New York|59119|060-658411
+Cresca Ltd.|Fontaine Road|Honolulu|New York|65958|060-688414
+Cresca Ltd.|Redwood Highway|Juneau|New York|59119|060-617181
+Cresca Ltd.|Cleveland Ave.|Olympia|New York|68127|060-640441
+Cresca Ltd.|East Fry Blvd.|Baton Rouge|North Carolina|71270|060-728923
+Cresca Ltd.|Jean de la Fontaine|Boston|North Carolina|59335|060-674095
+Cresca Ltd.|Harbor Dr|Nashville|North Carolina|60766|060-736006
+Cresca Ltd.|Redwood Highway|Oklahoma City|North Carolina|78574|060-689707
+Cresca Ltd.|Carpinteria South|Boise|North Dakota|73378|060-729689
+Cresca Ltd.|Santa Rosa South|Jefferson City|North Dakota|67407|060-732468
+Cresca Ltd.|Fairview Avenue|Montgomery|North Dakota|68707|060-631991
+Cresca Ltd.|Newbury Road|Santa Fe|North Dakota|60076|060-703171
+Cresca Ltd.|S Rustle St|Topeka|North Dakota|70293|060-654776
+Cresca Ltd.|Carpinteria Avenue|Montpelier|Ohio|73599|060-602131
+Cresca Ltd.|East 1st Street|Charleston|Oklahoma|63834|060-689796
+Cresca Ltd.|Harry S Truman Blvd|Des Moines|Oklahoma|78098|060-673817
+Cresca Ltd.|Lake Tahoe Blvd.|Little Rock|Oklahoma|67297|060-624651
+Cresca Ltd.|W. Russell St.|Harrisburg|Oregon|65787|060-697548
+Cresca Ltd.|San Simeon|Madison|Oregon|67126|060-728397
+Cresca Ltd.|Steele Lane|Salt Lake City|Oregon|69458|060-624666
+Cresca Ltd.|San Ysidro Blvd|Jefferson City|Pennsylvania|76806|060-612163
+Cresca Ltd.|North Preisker Lane|Lincoln|Pennsylvania|65090|060-688903
+Cresca Ltd.|North Preisker Lane|Providence|Pennsylvania|58659|060-694367
+Cresca Ltd.|Fairview Avenue|Raleigh|Pennsylvania|75957|060-707187
+Cresca Ltd.|Tully Road East|Santa Fe|Pennsylvania|72850|060-600438
+Cresca Ltd.|North Preisker Lane|Atlanta|Rhode Island|73512|060-596399
+Cresca Ltd.|Steele Lane|Lincoln|Rhode Island|64314|060-596945
+Cresca Ltd.|Pacific Hwy S|Columbus|South Carolina|69507|060-679942
+Cresca Ltd.|Hutchinson Rd|Charleston|South Dakota|69675|060-654144
+Cresca Ltd.|East 1st Street|Cheyenne|South Dakota|77762|060-700150
+Cresca Ltd.|East 1st Street|Little Rock|South Dakota|72080|060-704786
+Cresca Ltd.|Hutchinson Rd|Helena|Tennessee|69559|060-721375
+Cresca Ltd.|Erringer Road|Richmond|Tennessee|60734|060-686470
+Cresca Ltd.|Carpinteria North|Salem|Tennessee|69825|060-679636
+Cresca Ltd.|North Erringer Road|Columbus|Texas|61397|060-684571
+Cresca Ltd.|Santa Ana Freeway|Harrisburg|Texas|76776|060-669569
+Cresca Ltd.|W. Russell St.|Juneau|Texas|63714|060-662443
+Cresca Ltd.|South Roosevelt Drive|Raleigh|Texas|68985|060-652864
+Cresca Ltd.|South Roosevelt Drive|Raleigh|Texas|69342|060-673029
+Cresca Ltd.|Padre Boulevard|Augusta|Utah|68351|060-735609
+Cresca Ltd.|Calle Real|Augusta|Utah|72463|060-651285
+Cresca Ltd.|North Erringer Road|Des Moines|Utah|77571|060-650073
+Cresca Ltd.|N Harrison St|Dover|Utah|74733|060-691816
+Cresca Ltd.|North Erringer Road|Richmond|Utah|60601|060-664582
+Cresca Ltd.|Padre Boulevard|Salem|Utah|65304|060-736344
+Cresca Ltd.|Tully Road East|Santa Fe|Utah|65119|060-608135
+Cresca Ltd.|N Harrison St|Augusta|Vermont|77770|060-595811
+Cresca Ltd.|Richmond Hill|Austin|Vermont|60262|060-594582
+Cresca Ltd.|Lindbergh Blvd|Carson City|Vermont|59826|060-651630
+Cresca Ltd.|Cabrillo Highway|Lansing|Vermont|66695|060-598683
+Cresca Ltd.|Tully Road East|Lincoln|Vermont|63448|060-619982
+Cresca Ltd.|S Rustle St|Madison|Vermont|62457|060-654873
+Cresca Ltd.|Lindbergh Blvd|Denver|Virginia|58617|060-606758
+Cresca Ltd.|Camelback Rd|Jackson|Virginia|76960|060-607158
+Cresca Ltd.|Hutchinson Rd|Madison|Virginia|63860|060-710383
+Cresca Ltd.|South Roosevelt Drive|Salem|Virginia|67040|060-643881
+Cresca Ltd.|East Fry Blvd.|Albany|Washington|69594|060-616537
+Cresca Ltd.|Fontaine Road|Nashville|Washington|64289|060-632428
+Cresca Ltd.|North Broadway Street|Topeka|Washington|59330|060-646733
+Cresca Ltd.|Harbor Dr|Juneau|West Virginia|60282|060-719175
+Cresca Ltd.|East Calle Primera|Des Moines|Wisconsin|66110|060-698922
+Cresca Ltd.|N Kentwood|Dover|Wisconsin|73430|060-614910
+Cresca Ltd.|Timberlane Drive|Providence|Wisconsin|68394|060-697861
+Cresca Ltd.|Timberlane Drive|Indianapolis|Wyoming|67946|060-655535
+Cresca Ltd.|North Preisker Lane|Montpelier|Wyoming|58389|060-731918
+Cresca Ltd.|Carpinteria Avenue|Oklahoma City|Wyoming|60064|060-727533
+Cresca Ltd.|Redwood Highway|Raleigh|Wyoming|75361|060-612428

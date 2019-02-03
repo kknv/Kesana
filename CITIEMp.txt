@@ -1,0 +1,101 @@
+ID|FirstName|LastName|Addr1|City|State
+1|Ulysses|Harrison|Richmond Hill|Little Rock|Arizona
+2|Herbert|Johnson|Castillo Drive|Richmond|Florida
+3|Warren|Monroe|S Rustle St|Sacramento|Mississippi
+4|Ronald|Garfield|N Harrison St|Jackson|Georgia
+5|Gerald|Van Buren|Camelback Rd|Frankfort|Tennessee
+6|Harry|Grant|North Preisker Lane|Jackson|Oklahoma
+7|James|Roosevelt|Richmond Hill|Des Moines|South Dakota
+8|Franklin|Harrison|Erringer Road|Atlanta|Ohio
+9|Calvin|Harding|Pacific Hwy S|Indianapolis|Arkansas
+10|Millard|Jefferson|North Ventu Park Road|Santa Fe|Oklahoma
+11|James|Jefferson|Santa Monica Road|Montpelier|Alaska
+12|George|Madison|French Camp Turnpike Road|Phoenix|Oregon
+13|Franklin|Fillmore|Harbor Dr|Lincoln|Wisconsin
+14|Herbert|Hoover|Moreno Drive|Boston|South Dakota
+15|Franklin|Cleveland|Jones Road|Frankfort|Rhode Island
+16|Grover|Truman|Santa Monica Road|Little Rock|New Jersey
+17|Thomas|Johnson|S Rustle St|Phoenix|Massachusetts
+18|Millard|Johnson|Lawrenceville Suwanee|Austin|Connecticut
+19|Andrew|Hayes|Jean de la Fontaine|Pierre|Maryland
+20|Abraham|Carter|North Erringer Road|Madison|Florida
+21|John|Madison|Jean de la Fontaine|Salt Lake City|Missouri
+22|George|Lincoln|Steele Lane|Albany|Maine
+23|Thomas|Carter|Cerrillos Road|Concord|New York
+24|Lyndon|Harrison|Bayshore Freeway|Springfield|Idaho
+25|Benjamin|Adams|Timberlane Drive|Raleigh|Utah
+26|Grover|Washington|San Luis Obispo North|Phoenix|South Carolina
+27|Franklin|Lincoln|Hutchinson Rd|Dover|Maine
+28|Dwight|Roosevelt|Hutchinson Rd|Augusta|Illinois
+29|Ronald|Adams|Jones Road|Nashville|Arkansas
+30|Harry|Adams|Bowles Avenue|Santa Fe|Mississippi
+31|Rutherford|Cleveland|Bowles Avenue|Topeka|Oklahoma
+32|Woodrow|Cleveland|San Simeon|Albany|Vermont
+33|Calvin|Wilson|Katella Avenue|Trenton|Indiana
+34|George|Wilson|Greenwood Road|Oklahoma City|Washington
+35|Richard|Coolidge|E Fowler Avenue|Albany|Kentucky
+36|Herbert|Quincy|Bailard Avenue|Salt Lake City|Alaska
+37|Herbert|Grant|Hutchinson Rd|Juneau|New Mexico
+38|Harry|Truman|Santa Rosa North|Boise|Vermont
+39|Rutherford|Adams|East Calle Primera|Salem|Wisconsin
+40|Gerald|Johnson|Redwood Highway|Dover|Montana
+41|Ronald|Madison|North Ventu Park Road|Santa Fe|Montana
+42|Benjamin|Wilson|N Harrison St|Montpelier|Utah
+43|Chester|Roosevelt|Westside Freeway|Santa Fe|Hawaii
+44|William|Washington|North Ventu Park Road|Helena|Hawaii
+45|Ronald|Buchanan|Via Real|Bismarck|Colorado
+46|Herbert|Tyler|North Atherton Street|Raleigh|Washington
+47|Ulysses|Buchanan|Apalachee Parkway|Hartford|South Carolina
+48|Chester|Truman|Fairview Avenue|Little Rock|Mississippi
+49|Rutherford|McKinley|Bailard Avenue|Austin|Arizona
+50|Calvin|Fillmore|Pacific Hwy S|Providence|North Carolina
+51|Zachary|Jefferson|East Main Street|Raleigh|Missouri
+52|Theodore|Carter|E Fowler Avenue|Hartford|Illinois
+53|Rutherford|Ford|Via Real|Salt Lake City|New York
+54|Rutherford|Roosevelt|North Erringer Road|Lincoln|Iowa
+55|George|Harding|East Main Street|Richmond|Oklahoma
+56|Jimmy|Taft|Via Real|Jefferson City|Maryland
+57|Dwight|Harrison|East 1st Street|Honolulu|Louisiana
+58|Warren|Reagan|Newbury Road|Austin|California
+59|Andrew|Pierce|Richmond Hill|Pierre|Kentucky
+60|Grover|Johnson|Bowles Avenue|Denver|Florida
+61|Herbert|Johnson|Lindbergh Blvd|Raleigh|Vermont
+62|Lyndon|Monroe|San Ysidro Blvd|Helena|Maryland
+63|Warren|Harrison|Westside Freeway|Frankfort|South Dakota
+64|Franklin|Monroe|Bowles Avenue|Sacramento|Kentucky
+65|Millard|Arthur|Jones Road|Montgomery|Illinois
+66|James|Buchanan|Castillo Drive|Annapolis|Delaware
+67|John|Roosevelt|San Diego Freeway|Des Moines|Connecticut
+68|Jimmy|Fillmore|North Atherton Street|Juneau|Vermont
+69|William|Cleveland|E Fowler Avenue|Salt Lake City|Rhode Island
+70|Ronald|Pierce|Tanger Blvd|Salt Lake City|Nevada
+71|Franklin|Cleveland|Pacific Hwy S|Jefferson City|Montana
+72|Rutherford|Fillmore|Bayshore Freeway|Bismarck|Pennsylvania
+73|Dwight|Coolidge|Moreno Drive|Des Moines|Vermont
+74|George|Monroe|Monroe Street|Austin|Kansas
+75|Lyndon|Johnson|French Camp Turnpike Road|Oklahoma City|Tennessee
+76|Thomas|Lincoln|San Diego Freeway|Boston|Utah
+77|Ulysses|Carter|Carpinteria South|Pierre|New York
+78|John|Roosevelt|French Camp Turnpike Road|Bismarck|Indiana
+79|George|Ford|Westside Freeway|Montpelier|Mississippi
+80|Jimmy|Monroe|Jones Road|Honolulu|Vermont
+81|Herbert|Washington|Carpinteria South|Lansing|Maryland
+82|Dwight|Hayes|Cerrillos Road|Frankfort|Delaware
+83|Theodore|Adams|Fairview Avenue|Juneau|Washington
+84|Andrew|Garfield|North Broadway Street|Boise|Maryland
+85|Jimmy|Clinton|Pacific Hwy S|Carson City|Rhode Island
+86|Thomas|Lincoln|Newbury Road|Bismarck|Maryland
+87|Lyndon|Adams|Harry S Truman Blvd|Salt Lake City|Mississippi
+88|Gerald|Ford|Santa Ana Freeway|Honolulu|California
+89|Grover|Roosevelt|Jones Road|Harrisburg|Texas
+90|Martin|Grant|Westside Freeway|Atlanta|Georgia
+91|Gerald|Monroe|Richmond Hill|Richmond|Idaho
+92|Ulysses|McKinley|Lindbergh Blvd|Baton Rouge|Minnesota
+93|Calvin|Grant|Bayshore Freeway|Des Moines|Texas
+94|Woodrow|Adams|N Kentwood|Indianapolis|Kentucky
+95|Martin|Buchanan|Cabrillo Highway|Honolulu|Missouri
+96|Franklin|Roosevelt|Apalachee Parkway|Saint Paul|Alaska
+97|Grover|Tyler|Cerrillos Road|Providence|Oregon
+98|Herbert|Harrison|Tully Road East|Atlanta|California
+99|Ulysses|McKinley|El Camino Real|Concord|Virginia
+100|Gerald|Adams|Camelback Rd|Hartford|Tennessee

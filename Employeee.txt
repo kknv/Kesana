@@ -1,0 +1,3 @@
+Antoine|antoine@example.fr
+Kai|kai@example.de
+Pedro|pedro@example.mx

@@ -1,0 +1,7 @@
+filename;
+port;3306
+password;nvj123
+host;localhost
+database;world
+printOperations;
+username;nvj

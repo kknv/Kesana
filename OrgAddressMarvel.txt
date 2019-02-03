@@ -1,0 +1,131 @@
+Marvel Ind|San Marcos|Concord|Alabama|77382|060-616057
+Marvel Ind|North Broadway Street|Denver|Alabama|61302|060-734766
+Marvel Ind|Padre Boulevard|Saint Paul|Alabama|57790|060-672672
+Marvel Ind|Tully Road East|Pierre|Alaska|65659|060-671044
+Marvel Ind|Burnett Road|Bismarck|Arizona|57758|060-687346
+Marvel Ind|Carpinteria South|Montpelier|Arizona|72991|060-592289
+Marvel Ind|Carpinteria South|Montpelier|Arizona|59181|060-670745
+Marvel Ind|East Calle Primera|Nashville|Arizona|67898|060-700203
+Marvel Ind|Carpinteria Avenue|Nashville|Arizona|58894|060-654641
+Marvel Ind|San Luis Obispo North|Albany|Arkansas|58385|060-683382
+Marvel Ind|Richmond Hill|Jefferson City|California|75540|060-708446
+Marvel Ind|E Fowler Avenue|Boise|Colorado|62630|060-709593
+Marvel Ind|San Simeon|Providence|Colorado|67293|060-635316
+Marvel Ind|N Kentwood|Salem|Colorado|71953|060-718986
+Marvel Ind|French Camp Turnpike Road|Des Moines|Connecticut|73983|060-611415
+Marvel Ind|Castillo Drive|Des Moines|Connecticut|68886|060-611303
+Marvel Ind|East Calle Primera|Helena|Delaware|71437|060-728302
+Marvel Ind|South Roosevelt Drive|Saint Paul|Delaware|64107|060-678916
+Marvel Ind|North Broadway Street|Carson City|Florida|60726|060-735690
+Marvel Ind|San Marcos|Olympia|Florida|72828|060-645602
+Marvel Ind|Cabrillo Highway|Santa Fe|Florida|64007|060-706399
+Marvel Ind|East Calle Primera|Carson City|Georgia|68554|060-696800
+Marvel Ind|North Atherton Street|Little Rock|Georgia|63361|060-628088
+Marvel Ind|East Fry Blvd.|Oklahoma City|Georgia|59753|060-719185
+Marvel Ind|Castillo Drive|Columbia|Hawaii|66326|060-724861
+Marvel Ind|Lindbergh Blvd|Raleigh|Hawaii|60088|060-604713
+Marvel Ind|South Roosevelt Drive|Trenton|Hawaii|69696|060-603366
+Marvel Ind|Westside Freeway|Jefferson City|Idaho|57739|060-708564
+Marvel Ind|San Simeon|Raleigh|Idaho|69911|060-692009
+Marvel Ind|Jones Road|Columbia|Illinois|59803|060-627442
+Marvel Ind|Westside Freeway|Jackson|Illinois|60372|060-596441
+Marvel Ind|S Rustle St|Sacramento|Illinois|57733|060-691786
+Marvel Ind|Cleveland Ave.|Austin|Indiana|64823|060-602165
+Marvel Ind|North Broadway Street|Frankfort|Indiana|68903|060-717779
+Marvel Ind|Bailard Avenue|Helena|Indiana|60726|060-669306
+Marvel Ind|N Kentwood|Pierre|Indiana|69054|060-711757
+Marvel Ind|Cerrillos Road|Cheyenne|Iowa|70860|060-649206
+Marvel Ind|North Erringer Road|Concord|Iowa|74860|060-597873
+Marvel Ind|El Camino Real|Madison|Iowa|58974|060-599260
+Marvel Ind|Milpas Street|Olympia|Iowa|58211|060-685395
+Marvel Ind|El Camino Real|Trenton|Iowa|66806|060-737007
+Marvel Ind|Carpinteria South|Atlanta|Kansas|65884|060-736612
+Marvel Ind|French Camp Turnpike Road|Austin|Kansas|58078|060-651743
+Marvel Ind|Tanger Blvd|Little Rock|Kansas|59538|060-670250
+Marvel Ind|Santa Rosa North|Madison|Kansas|63540|060-629297
+Marvel Ind|San Diego Freeway|Sacramento|Kansas|60331|060-721713
+Marvel Ind|Santa Ana Freeway|Baton Rouge|Kentucky|61725|060-665444
+Marvel Ind|San Simeon|Lansing|Louisiana|64893|060-655316
+Marvel Ind|Fairview Avenue|Salt Lake City|Louisiana|76201|060-686527
+Marvel Ind|El Camino Real|Boise|Maine|68821|060-631911
+Marvel Ind|Monroe Street|Harrisburg|Maine|57883|060-657214
+Marvel Ind|East Fry Blvd.|Des Moines|Maryland|60535|060-712880
+Marvel Ind|E Fowler Avenue|Indianapolis|Maryland|67177|060-736336
+Marvel Ind|Santa Rosa North|Concord|Massachusetts|57413|060-602904
+Marvel Ind|North Ventu Park Road|Saint Paul|Massachusetts|65391|060-724016
+Marvel Ind|South Highway|Carson City|Michigan|62378|060-715476
+Marvel Ind|San Diego Freeway|Concord|Michigan|60494|060-723225
+Marvel Ind|San Diego Freeway|Harrisburg|Michigan|63548|060-695531
+Marvel Ind|Westside Freeway|Bismarck|Minnesota|75318|060-610526
+Marvel Ind|Lawrenceville Suwanee|Honolulu|Minnesota|61172|060-629381
+Marvel Ind|North Ventu Park Road|Saint Paul|Minnesota|58910|060-725709
+Marvel Ind|Carpinteria Avenue|Salem|Minnesota|76933|060-650899
+Marvel Ind|San Diego Freeway|Phoenix|Mississippi|64634|060-602241
+Marvel Ind|Harry S Truman Blvd|Montpelier|Missouri|78049|060-624976
+Marvel Ind|Fontaine Road|Sacramento|Missouri|65977|060-639370
+Marvel Ind|E Fowler Avenue|Saint Paul|Missouri|61966|060-612252
+Marvel Ind|Via Real|Albany|Montana|58238|060-597933
+Marvel Ind|Monroe Street|Columbus|Montana|67395|060-733034
+Marvel Ind|Fairview Avenue|Jefferson City|Nebraska|73240|060-644581
+Marvel Ind|Carpinteria South|Nashville|Nebraska|71706|060-681326
+Marvel Ind|San Simeon|Albany|Nevada|73515|060-710805
+Marvel Ind|Newbury Road|Augusta|Nevada|59052|060-621715
+Marvel Ind|Corona Del Mar|Columbia|Nevada|72078|060-737229
+Marvel Ind|Lawrenceville Suwanee|Jefferson City|Nevada|77460|060-650134
+Marvel Ind|South Highway|Raleigh|Nevada|62885|060-625529
+Marvel Ind|Grandview Drive|Saint Paul|New Hampshire|64859|060-599691
+Marvel Ind|W. Russell St.|Indianapolis|New Jersey|73306|060-638656
+Marvel Ind|Carpinteria Avenue|Jackson|New Jersey|71507|060-603861
+Marvel Ind|Milpas Street|Lincoln|New Jersey|58293|060-611047
+Marvel Ind|Lindbergh Blvd|Pierre|New Jersey|60083|060-677052
+Marvel Ind|East 1st Street|Boston|New Mexico|68692|060-731144
+Marvel Ind|Carpinteria Avenue|Columbus|New Mexico|60615|060-621921
+Marvel Ind|Santa Monica Road|Saint Paul|New Mexico|70945|060-639399
+Marvel Ind|Milpas Street|Baton Rouge|New York|78122|060-697221
+Marvel Ind|Greenwood Road|Charleston|New York|62454|060-692224
+Marvel Ind|Westside Freeway|Dover|North Carolina|70652|060-638507
+Marvel Ind|North Preisker Lane|Helena|North Dakota|68501|060-705865
+Marvel Ind|S Rustle St|Juneau|North Dakota|73376|060-659343
+Marvel Ind|East 1st Street|Frankfort|Ohio|72159|060-641057
+Marvel Ind|Harbor Dr|Saint Paul|Ohio|78818|060-613487
+Marvel Ind|Monroe Street|Salt Lake City|Ohio|63973|060-624340
+Marvel Ind|Hutchinson Rd|Concord|Oklahoma|63147|060-690882
+Marvel Ind|Milpas Street|Hartford|Oklahoma|77985|060-675669
+Marvel Ind|Moreno Drive|Saint Paul|Oklahoma|61096|060-710415
+Marvel Ind|North Erringer Road|Boston|Oregon|70981|060-680677
+Marvel Ind|Cleveland Ave.|Lansing|Oregon|78815|060-713268
+Marvel Ind|Via Real|Madison|Oregon|70732|060-620194
+Marvel Ind|Woodson Rd.|Richmond|Oregon|58570|060-653458
+Marvel Ind|Santa Rosa South|Providence|Pennsylvania|59958|060-720886
+Marvel Ind|Calle Real|Tallahassee|Pennsylvania|76772|060-723060
+Marvel Ind|Richmond Hill|Augusta|Rhode Island|69800|060-729534
+Marvel Ind|Harry S Truman Blvd|Madison|Rhode Island|60672|060-620018
+Marvel Ind|Bowles Avenue|Saint Paul|Rhode Island|66789|060-621060
+Marvel Ind|Fairview Avenue|Trenton|Rhode Island|66593|060-731898
+Marvel Ind|North Preisker Lane|Atlanta|South Carolina|76161|060-724817
+Marvel Ind|North Preisker Lane|Carson City|South Carolina|69591|060-717203
+Marvel Ind|Santa Monica Road|Bismarck|South Dakota|70886|060-593685
+Marvel Ind|East Main Street|Columbia|South Dakota|73532|060-736283
+Marvel Ind|East Fry Blvd.|Salt Lake City|South Dakota|68440|060-664621
+Marvel Ind|Castillo Drive|Atlanta|Tennessee|60931|060-681752
+Marvel Ind|Tully Road East|Charleston|Tennessee|60671|060-707249
+Marvel Ind|Timberlane Drive|Concord|Tennessee|78613|060-727936
+Marvel Ind|Via Real|Jefferson City|Tennessee|77446|060-615991
+Marvel Ind|Richmond Hill|Lincoln|Tennessee|60005|060-721503
+Marvel Ind|North Broadway Street|Bismarck|Texas|58656|060-719325
+Marvel Ind|Carpinteria Avenue|Saint Paul|Texas|62384|060-592122
+Marvel Ind|Santa Rosa North|Dover|Utah|62942|060-690219
+Marvel Ind|San Ysidro Blvd|Jackson|Utah|60517|060-649085
+Marvel Ind|Cleveland Ave.|Phoenix|Utah|68876|060-701924
+Marvel Ind|Santa Monica Road|Bismarck|Vermont|71873|060-615660
+Marvel Ind|Cleveland Ave.|Frankfort|Vermont|67435|060-723420
+Marvel Ind|East 1st Street|Harrisburg|Vermont|71211|060-654921
+Marvel Ind|Carpinteria Avenue|Indianapolis|Virginia|66480|060-677858
+Marvel Ind|Cerrillos Road|Nashville|Virginia|60244|060-625475
+Marvel Ind|Castillo Drive|Providence|Virginia|76337|060-702898
+Marvel Ind|Santa Rosa South|Lansing|Washington|59454|060-729845
+Marvel Ind|Timberlane Drive|Olympia|Washington|68600|060-600049
+Marvel Ind|Tanger Blvd|Baton Rouge|Wisconsin|62466|060-648869
+Marvel Ind|Harbor Dr|Jackson|Wisconsin|59584|060-701322
+Marvel Ind|South Highway|Oklahoma City|Wisconsin|64005|060-649939
+Marvel Ind|San Ysidro Blvd|Raleigh|Wisconsin|65420|060-625379

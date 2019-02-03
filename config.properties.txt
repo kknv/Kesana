@@ -1,0 +1,5 @@
+host;localhost
+port;3306
+database;world
+username;nvj
+password;nvj123

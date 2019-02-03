@@ -1,0 +1,100 @@
+1|Richard Reagan|Cheyenne|VermontUPDATE
+2|John Tyler|Trenton|VirginiaUPDATE
+3|Chester Monroe|Pierre|Arkansas
+4|Andrew Roosevelt|Tallahassee|NewYork City 
+5|William Quincy|Indianapolis|Hawaii
+6|Millard Madison|Salt Lake City|ALABAMA
+7|Bill Arthur|Springfield|Alabama
+8|George Polk|Cheyenne|NEWJERSEY
+9|Millard Tyler|Madison|Maine
+10|Thomas Arthur|Pierre|New Hampshire
+11|John Buchanan|Albany|Nevada
+12|Herbert Roosevelt|Lincoln|Kentucky
+13|Ronald Buchanan|Salt Lake City|Delaware
+14|William Grant|Atlanta|Idaho
+15|Dwight Washington|Boise|Georgia
+16|Ronald Taylor|Concord|Arizona
+17|Calvin Jefferson|Des Moines|Mississippi
+18|Calvin Grant|Dover|Rhode Island
+19|Grover Clinton|Helena|Maine
+20|Franklin Nixon|Frankfort|Michigan
+21|Franklin Buchanan|Santa Fe|Arkansas
+22|Harry Lincoln|Richmond|Ohio
+23|Thomas Taft|Raleigh|Alaska
+24|George Polk|Charleston|New Mexico
+25|Benjamin Grant|Phoenix|Pennsylvania
+26|Gerald Grant|Carson City|Colorado
+27|James Washington|Atlanta|Utah
+28|Ulysses Monroe|Pierre|New Hampshire
+29|Millard Lincoln|Montgomery|Connecticut
+30|Thomas Grant|Bismarck|North Dakota
+31|Warren Ford|Denver|Oregon
+32|Thomas Pierce|Oklahoma City|Montana
+33|Harry Johnson|Denver|Texas
+34|Rutherford Kennedy|Lincoln|Idaho
+35|Grover Harrison|Helena|Arkansas
+36|Grover Adams|Hartford|Pennsylvania
+37|Lyndon Harrison|Atlanta|North Carolina
+38|John Fillmore|Boise|Hawaii
+39|Bill Jackson|Hartford|California
+40|Bill Reagan|Tallahassee|New Jersey
+41|Thomas Johnson|Oklahoma City|Utah
+42|George Cleveland|Albany|Wisconsin
+43|William Lincoln|Lansing|Ohio
+44|George Grant|Juneau|Nebraska
+45|Rutherford McKinley|Lansing|Michigan
+46|William Tyler|Boise|Arizona
+47|Andrew Johnson|Saint Paul|Ohio
+48|Lyndon Johnson|Springfield|North Dakota
+49|Gerald Carter|Juneau|North Carolina
+50|Grover Roosevelt|Des Moines|North Carolina
+51|Grover Reagan|Richmond|Alabama
+52|Harry Madison|Springfield|Alaska
+53|Thomas Grant|Juneau|Maryland
+54|Chester Roosevelt|Charleston|Wisconsin
+55|Warren McKinley|Lincoln|Missouri
+56|Jimmy Johnson|Helena|Alaska
+57|Gerald Jackson|Springfield|Texas
+58|Calvin Washington|Lansing|Maryland
+59|Millard Monroe|Helena|Oregon
+60|Andrew Jefferson|Montgomery|Delaware
+61|James Hoover|Pierre|Arizona
+62|Franklin Hoover|Juneau|South Carolina
+63|James Taft|Saint Paul|North Carolina
+64|Andrew Van Buren|Frankfort|South Carolina
+65|Herbert Buchanan|Montpelier|Mississippi
+66|James Van Buren|Lansing|Minnesota
+67|Theodore Monroe|Oklahoma City|Arkansas
+68|Grover Tyler|Madison|Nevada
+69|Lyndon Washington|Salem|Washington
+70|Chester Cleveland|Juneau|Nebraska
+71|Benjamin Taft|Denver|Pennsylvania
+72|Benjamin Coolidge|Honolulu|Idaho
+73|James Wilson|Saint Paul|Hawaii
+74|Grover Quincy|Indianapolis|Maryland
+75|Ulysses Nixon|Baton Rouge|Oregon
+76|Benjamin Quincy|Atlanta|Louisiana
+77|Ulysses Johnson|Raleigh|Ohio
+78|Grover Nixon|Nashville|Florida
+79|Benjamin Johnson|Pierre|Delaware
+80|Lyndon Cleveland|Jackson|South Dakota
+81|Millard Madison|Lincoln|Illinois
+82|Gerald Van Buren|Sacramento|Massachusetts
+83|Richard Johnson|Baton Rouge|Nevada
+84|Harry Tyler|Columbia|Alabama
+85|Ulysses Cleveland|Richmond|Vermont
+86|Harry Garfield|Providence|Minnesota
+87|James Arthur|Harrisburg|Texas
+88|Franklin Garfield|Sacramento|Minnesota
+89|William Reagan|Topeka|California
+90|Lyndon Adams|Boston|Kentucky
+91|Grover Hoover|Indianapolis|Maryland
+92|Bill Buchanan|Carson City|Alaska
+93|Ronald Coolidge|Columbia|Mississippi
+94|Calvin Washington|Columbia|Oregon
+95|Rutherford Hayes|Columbia|Ohio
+96|Calvin Truman|Lansing|Missouri
+97|Thomas Washington|Lansing|Georgia
+98|Thomas Harrison|Olympia|Kentucky
+99|Martin Clinton|Cheyenne|Nebraska
+100|Andrew Hayes|Des Moines|Iowa
