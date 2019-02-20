@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Z6qpEDUPEemqyvC-lnZKCw" label="talendcloud" language="java" technicalLabel="TALENDCLOUD" author="_Z6qpETUPEemqyvC-lnZKCw" productVersion="Talend Cloud Data Management Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/kknv/Kesana.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_Z6xWwDUPEemqyvC-lnZKCw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_Z6qpETUPEemqyvC-lnZKCw" login="nataraj.kesana@trial18192.us.talend.com" firstName="Nataraj" lastName="kesana" type="DQ"/>
+</xmi:XMI>
